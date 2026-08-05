@@ -1,0 +1,32 @@
+{
+  "name": "MPASI - Resep & Rencana Makan Bayi",
+  "short_name": "MPASI",
+  "description": "Resep MPASI, rencana makan mingguan, daftar belanja, dan catatan makan untuk bayi dan balita.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EFF3EA",
+  "theme_color": "#D99A2B",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,4162 @@
+{
+  "generated_by": "merge_sources.py",
+  "sources": [
+    {
+      "source_id": "kemenkes-2023",
+      "filename": "kemenkes_2023_recipes.json",
+      "source": "5_Resep_MPASI_by_Kemenkes_2023.pdf",
+      "source_title": "Buku Resep Makanan Lokal - Bayi, Balita dan Ibu Hamil",
+      "publisher": "Kementerian Kesehatan RI",
+      "year": 2023,
+      "isbn": "978-623-301-396-3",
+      "note": "Guideline/reference pages (feeding schedule table, MP-ASI principles, plate proportion infographics) were intentionally skipped per instruction to extract recipes only.",
+      "recipe_count": 24
+    },
+    {
+      "source_id": "mpasi-pptx",
+      "filename": "mpasi_recipes.json",
+      "source": "6_14_Resep_Basic_Menu_MPASI.pptx",
+      "source_title": null,
+      "publisher": null,
+      "year": null,
+      "isbn": null,
+      "note": null,
+      "recipe_count": 14
+    }
+  ],
+  "total_recipes": 38,
+  "recipes": [
+    {
+      "id": "kemenkes-2023:bubur-singkong-isi-ikan-ayam-saus-jeruk",
+      "title": "Bubur Singkong Isi Ikan dan Ayam dengan Saus Jeruk",
+      "age_stage": "6-8 bulan",
+      "page": 11,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "singkong putih, rebus dan haluskan",
+              "amount": "75 gr"
+            },
+            {
+              "item": "daging ikan kembung cincang halus",
+              "amount": "15 gr (2 sdm datar)"
+            },
+            {
+              "item": "daging ayam cincang rebus",
+              "amount": "15 gr"
+            },
+            {
+              "item": "air kaldu ayam",
+              "amount": "250 ml"
+            },
+            {
+              "item": "minyak kelapa",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "bayam segar, potong halus",
+              "amount": "20 gr (2 sdm)"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu",
+          "items": [
+            {
+              "item": "daun salam",
+              "amount": "1 lembar"
+            },
+            {
+              "item": "sereh",
+              "amount": "1 batang"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "1 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "1 siung"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bumbu halus, lalu masukkan daun salam dan sereh.",
+            "Tambahkan air kaldu, masukkan singkong putih, daging ikan, daging ayam cincang rebus, aduk-aduk hingga setengah matang.",
+            "Masukkan daun bayam, aduk hingga matang. Jika airnya mengental dapat ditambahkan air matang.",
+            "Angkat, lalu saring halus atau diblender. Sebelum disajikan tambahkan saus jeruk."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "jeruk manis, diambil sarinya",
+        "amount": "100 gr (3 buah kecil)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 91,
+        "protein_g": 3.1,
+        "lemak_g": 3.5
+      },
+      "energy_contribution_percent": 45,
+      "allergens": [
+        "ikan (kembung)"
+      ],
+      "original_id": "bubur-singkong-isi-ikan-ayam-saus-jeruk",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:bubur-soto-ayam-santan",
+      "title": "Bubur Soto Ayam Santan",
+      "age_stage": "6-8 bulan",
+      "page": 12,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi putih",
+              "amount": "60 gr (6 sdm)"
+            },
+            {
+              "item": "daging ayam cincang",
+              "amount": "45 gr (4.5 sdm)"
+            },
+            {
+              "item": "tahu",
+              "amount": "30 gr (1 buah kecil)"
+            },
+            {
+              "item": "labu siam",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "wortel",
+              "amount": "15 gr (1.5 sdm)"
+            },
+            {
+              "item": "salam",
+              "amount": "1 lembar"
+            },
+            {
+              "item": "sereh",
+              "amount": "1 batang"
+            },
+            {
+              "item": "daun jeruk",
+              "amount": "1 lembar"
+            },
+            {
+              "item": "minyak goreng",
+              "amount": "5 gr (1 sdm)"
+            },
+            {
+              "item": "santan",
+              "amount": "30 ml (3 sdm)"
+            },
+            {
+              "item": "air kaldu ayam",
+              "amount": "300 ml"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "1 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "1 siung"
+            },
+            {
+              "item": "kunyit",
+              "amount": "1 cm"
+            },
+            {
+              "item": "jahe",
+              "amount": "1 cm"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bumbu halus sampai harum, masukan ayam cincang sampai berubah warna.",
+            "Masukan air kaldu ayam, santan, salam, sereh dan daun jeruk masak sampai mendidih.",
+            "Masukan nasi, tahu dan labu siam dan wortel yang sudah diiris kecil-kecil masak sampai semua bahan matang dan empuk.",
+            "Haluskan sampai tekstur yang diinginkan. Sajikan selagi hangat."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "jeruk, diambil sarinya",
+        "amount": "100 gr (3 buah kecil)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 96,
+        "protein_g": 4.6,
+        "lemak_g": 4.1
+      },
+      "energy_contribution_percent": 48,
+      "allergens": [
+        "tahu (kedelai)"
+      ],
+      "original_id": "bubur-soto-ayam-santan",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:bubur-sup-daging-kacang-merah",
+      "title": "Bubur Sup Daging Kacang Merah",
+      "age_stage": "6-8 bulan",
+      "page": 13,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi",
+              "amount": "50 gr (6 sdm)"
+            },
+            {
+              "item": "daging ayam cincang",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "telur ayam",
+              "amount": "25 gr (1/2 butir)"
+            },
+            {
+              "item": "buncis",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "wortel",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "kacang merah",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "bawang daun",
+              "amount": "10 gr (1 batang)"
+            },
+            {
+              "item": "seledri",
+              "amount": "1 batang"
+            },
+            {
+              "item": "kaldu ayam",
+              "amount": "300 ml"
+            },
+            {
+              "item": "minyak untuk menumis",
+              "amount": "2.5 gr (1/2 sdt)"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "2 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "2 siung"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Didihkan air kaldu ayam, masukkan kacang merah dan masak sampai empuk.",
+            "Tumis bumbu halus sampai harum, masukkan daging ayam cincang, masak sampai berubah warna.",
+            "Masukan tumisan daging ayam kedalam air kaldu masak sampai daging empuk.",
+            "Masukkan nasi, buncis, dan wortel.",
+            "Tambahkan kocokan telur, aduk merata dan masak sampai matang.",
+            "Haluskan bubur sampai tekstur yang diinginkan, lalu sajikan."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "jeruk, diambil sarinya",
+        "amount": "100 g (2 buah)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 98,
+        "protein_g": 45.1,
+        "lemak_g": 3.6
+      },
+      "energy_contribution_percent": 48.7,
+      "allergens": [
+        "telur",
+        "kacang merah"
+      ],
+      "source_notes": "The 45.1 g protein figure is printed as-is in the source document but is almost certainly a typo/OCR artifact (implausible for a 98 kcal serving) — worth verifying against the original PDF before using in the app.",
+      "original_id": "bubur-sup-daging-kacang-merah",
+      "source_id": "kemenkes-2023"
+    },
+    {
+      "id": "kemenkes-2023:bubur-kanju-rumbi-ayam-udang",
+      "title": "Bubur Kanju Rumbi Ayam dan Udang",
+      "age_stage": "6-8 bulan",
+      "page": 14,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi putih",
+              "amount": "60 gr (6 sdm)"
+            },
+            {
+              "item": "daging ayam bagian dada",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "udang segar",
+              "amount": "20 gr"
+            },
+            {
+              "item": "wortel",
+              "amount": "15 gr"
+            },
+            {
+              "item": "jagung pipil",
+              "amount": "15 gr"
+            },
+            {
+              "item": "santan",
+              "amount": "15 ml"
+            },
+            {
+              "item": "kaldu ayam",
+              "amount": "350 ml"
+            },
+            {
+              "item": "daun pandan",
+              "amount": "2 lembar"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "1 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "1 siung"
+            },
+            {
+              "item": "kapulaga",
+              "amount": "1/2 buah"
+            },
+            {
+              "item": "ketumbar",
+              "amount": "1 gr"
+            },
+            {
+              "item": "kayumanis",
+              "amount": "1 cm"
+            },
+            {
+              "item": "cengkeh",
+              "amount": "1 buah"
+            },
+            {
+              "item": "merica",
+              "amount": "1/4 sdt"
+            },
+            {
+              "item": "jintan campur adas",
+              "amount": "1/4 sdt"
+            },
+            {
+              "item": "pekak",
+              "amount": "1/4 buah"
+            },
+            {
+              "item": "buah pala",
+              "amount": "seujung jari"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Cuci terlebih dahulu daging ayam hingga bersih, kemudian rebus sampai setengah matang, setelah matang potong dadu daging ayam. Lalu cuci dan bersihkan udang, buang bagian kepala udang. Kemudian rebus dalam air bekas rebusan ayam tadi, hingga udang berubah warna. Kemudian buang kulitnya, dan potong udang menjadi 2 atau 3 bagian. Sisihkan.",
+            "Tumis bumbu halus, masukkan daun pandan. Aduk-aduk, kemudian tambahkan air kaldu, kemudian masak nasi, hingga nasi lembek dan menyerupai bubur.",
+            "Tambahkan potongan ayam, udang, wortel dan jagung, masak sambil sesekali diaduk. Jika dirasa kurang air, tambahkan kembali airnya, aduk hingga rata. Kemudian matikan api, saring sesuai tekstur yang diinginkan. Sajikan."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "pepaya",
+        "amount": "50 gr (6 potong kecil)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 87,
+        "protein_g": 5.1,
+        "lemak_g": 2.9
+      },
+      "energy_contribution_percent": 45,
+      "allergens": [
+        "udang"
+      ],
+      "original_id": "bubur-kanju-rumbi-ayam-udang",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:puding-kentang-ayam-telur",
+      "title": "Puding Kentang Ayam dan Telur",
+      "age_stage": "6-8 bulan",
+      "page": 15,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kentang, dikukus dan dihaluskan",
+              "amount": "100 gr"
+            },
+            {
+              "item": "daging ayam cincang",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "telur puyuh",
+              "amount": "10 gr (1 butir)"
+            },
+            {
+              "item": "tahu kecil, dipotong dadu kecil",
+              "amount": "15 gr (1 buah)"
+            },
+            {
+              "item": "wortel parut",
+              "amount": "15 gr (1.5 sdm)"
+            },
+            {
+              "item": "labu kuning",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "santan",
+              "amount": "15 ml"
+            },
+            {
+              "item": "sereh",
+              "amount": "1 batang"
+            },
+            {
+              "item": "daun salam",
+              "amount": "1 lembar"
+            },
+            {
+              "item": "minyak",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "air kaldu ayam",
+              "amount": "50 ml"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "2 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "2 siung"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bumbu halus sampai harum tambahkan daun salam dan sereh.",
+            "Masukkan ayam cincang masak sampai berubah warna, lalu masukan kentang, labu kuning, tahu dan wortel aduk sampai merata.",
+            "Tambahkan santan dan air kaldu aduk merata dan matikan.",
+            "Kocok telur lepas, campurkan pada tumisan tadi. Siapkan wadah tahan panas dan olesi minyak, masukkan adonan dan kukus kurang lebih 20 menit. Sajikan, selagi hangat."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "jeruk, diambil sarinya",
+        "amount": "100 gr (2 buah)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 95,
+        "protein_g": 4.0,
+        "lemak_g": 3.6
+      },
+      "energy_contribution_percent": 47.5,
+      "allergens": [
+        "telur (puyuh)",
+        "tahu (kedelai)"
+      ],
+      "original_id": "puding-kentang-ayam-telur",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:nasi-tim-ikan-tuna-telur-puyuh",
+      "title": "Nasi Tim Ikan Tuna Telur Puyuh",
+      "age_stage": "9-11 bulan",
+      "page": 19,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi putih",
+              "amount": "115 gr (12 sdm)"
+            },
+            {
+              "item": "ikan tuna segar, haluskan",
+              "amount": "30 gr (1 potong kecil)"
+            },
+            {
+              "item": "telur puyuh",
+              "amount": "30 gr (3 butir)"
+            },
+            {
+              "item": "wortel",
+              "amount": "15 gr (1 potong besar)"
+            },
+            {
+              "item": "tomat",
+              "amount": "10 gr (1 buah sedang)"
+            },
+            {
+              "item": "minyak kelapa",
+              "amount": "7.5 gr (1.5 sdt)"
+            },
+            {
+              "item": "kaldu ayam",
+              "amount": "75 cc (1/3 gelas belimbing)"
+            },
+            {
+              "item": "pepaya, haluskan",
+              "amount": "50 gr (1/2 potong)"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Masukkan nasi, ikan tuna, telur puyuh, minyak kelapa ke dalam mangkok tim.",
+            "Tambahkan air kaldu.",
+            "Masukkan wortel dan tomat, tim hingga matang.",
+            "Angkat, sajikan dengan saos pepaya."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "semangka",
+        "amount": "180 gr (1 potong besar)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 120,
+        "protein_g": 4.6,
+        "lemak_g": 4.3
+      },
+      "energy_contribution_percent": 40,
+      "allergens": [
+        "ikan (tuna)",
+        "telur (puyuh)"
+      ],
+      "original_id": "nasi-tim-ikan-tuna-telur-puyuh",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:nasi-tim-ayam-lele-cincang",
+      "title": "Nasi Tim Ayam Lele Cincang",
+      "age_stage": "9-11 bulan",
+      "page": 20,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi putih",
+              "amount": "100 gr (10 sdm)"
+            },
+            {
+              "item": "daging ayam cincang",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "daging ikan lele",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "wortel",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "minyak goreng",
+              "amount": "5 ml (1 sdt)"
+            },
+            {
+              "item": "santan kental",
+              "amount": "10 ml (1 sdm)"
+            },
+            {
+              "item": "bawang bombay, iris halus",
+              "amount": "1.5 sdm"
+            },
+            {
+              "item": "kaldu ayam",
+              "amount": "200 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Masukkan nasi, daging ayam cincang, ikan lele, bawang bombay, minyak dan santan ke dalam mangkok tim.",
+            "Tambahkan air kaldu.",
+            "Masukkan wortel, masak hingga lunak dan matang.",
+            "Angkat dan sajikan."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "semangka",
+        "amount": "180 gr (1 potong besar)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 125,
+        "protein_g": 4.5,
+        "lemak_g": 4.9
+      },
+      "energy_contribution_percent": 41,
+      "allergens": [
+        "ikan (lele)"
+      ],
+      "original_id": "nasi-tim-ayam-lele-cincang",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:mie-kukus-telur-puyuh",
+      "title": "Mie Kukus Telur Puyuh",
+      "age_stage": "9-11 bulan",
+      "page": 21,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "mie instan batita atau mie keriting",
+              "amount": "85 gr (3 bungkus)"
+            },
+            {
+              "item": "telur puyuh",
+              "amount": "60 gr (6 butir)"
+            },
+            {
+              "item": "wortel parut",
+              "amount": "50 gr (5 sdm)"
+            },
+            {
+              "item": "keju parut",
+              "amount": "50 gr (5 sdm)"
+            },
+            {
+              "item": "bawang daun, iris",
+              "amount": "10 gr (1 batang)"
+            },
+            {
+              "item": "minyak untuk menggoreng",
+              "amount": null
+            },
+            {
+              "item": "bumbu mie instan batita secukupnya",
+              "amount": null
+            },
+            {
+              "item": "air",
+              "amount": "300 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Didihkan air sebanyak 300 ml, masukkan mie instan batita atau mie keriting sampai lunak dan matang.",
+            "Masak mie instan batita atau mie keriting hingga matang.",
+            "Tambahkan wortel parut, bawang daun, keju parut, dan bumbu mie instan batita secukupnya, kembali aduk sampai merata.",
+            "Masukkan 1 sdm adonan mie ke dalam wadah tahan panas yg sudah diolesi minyak dan masukan telur puyuh yang sudah direbus. Lakukan sampai adonan habis.",
+            "Kukus selama 15 menit. Setelah matang boleh langsung dikonsumsi atau digoreng sampai kuning keemasan. Hidangkan."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "pepaya",
+        "amount": "150 gr (6 potong kecil)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 135,
+        "protein_g": 5.1,
+        "lemak_g": 7.6
+      },
+      "energy_contribution_percent": 45,
+      "allergens": [
+        "telur (puyuh)",
+        "gluten (mie)",
+        "keju (susu)"
+      ],
+      "original_id": "mie-kukus-telur-puyuh",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:nasi-tim-ikan-telur-sayuran",
+      "title": "Nasi Tim Ikan Telur Sayuran",
+      "age_stage": "9-11 bulan",
+      "page": 22,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi putih",
+              "amount": "100 gr (10 sdm)"
+            },
+            {
+              "item": "telur puyuh, kocok",
+              "amount": "30 gr (3 butir)"
+            },
+            {
+              "item": "ikan kembung fillet",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "sawi hijau, iris",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "tomat, cincang",
+              "amount": "20 gr (2 sdm)"
+            },
+            {
+              "item": "kaldu ayam",
+              "amount": "300 ml"
+            },
+            {
+              "item": "minyak kelapa",
+              "amount": "7.5 ml (1.5 sdt)"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Masak kaldu, nasi, minyak kelapa, dan ikan kembung hingga lunak dan menjadi bubur.",
+            "Masukkan sawi hijau dan tomat.",
+            "Masukkan telur puyuh yang sudah dikocok, aduk perlahan hingga rata dan matang.",
+            "Angkat dan sajikan."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "semangka",
+        "amount": "180 gr"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 117,
+        "protein_g": 4.8,
+        "lemak_g": 4.5
+      },
+      "energy_contribution_percent": 39,
+      "allergens": [
+        "ikan (kembung)",
+        "telur (puyuh)"
+      ],
+      "source_notes": "The ingredient list in the source repeats '100 gr (10 sdm) nasi' as two separate lines (once as 'nasi putih', once as 'nasi') — recorded here once as a single nasi putih entry, treating the duplicate as a printing artifact.",
+      "original_id": "nasi-tim-ikan-telur-sayuran",
+      "source_id": "kemenkes-2023"
+    },
+    {
+      "id": "kemenkes-2023:tim-bubur-manado-daging-udang",
+      "title": "Tim Bubur Manado Daging dan Udang",
+      "age_stage": "9-11 bulan",
+      "page": 23,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi putih",
+              "amount": "50 gr (5 sdm)"
+            },
+            {
+              "item": "labu kuning, potong dadu",
+              "amount": "40 gr (4 sdm)"
+            },
+            {
+              "item": "daging sapi cincang",
+              "amount": "40 gr (4 sdm)"
+            },
+            {
+              "item": "udang kupas",
+              "amount": "30 gr (3 ekor)"
+            },
+            {
+              "item": "jagung pipil",
+              "amount": "20 gr (2 sdm)"
+            },
+            {
+              "item": "bayam",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "minyak goreng",
+              "amount": "5 ml (1 sdt)"
+            },
+            {
+              "item": "garam secukupnya",
+              "amount": null
+            },
+            {
+              "item": "daun bawang, diiris",
+              "amount": "10 gr (1 batang)"
+            },
+            {
+              "item": "kaldu daging",
+              "amount": "100 cc (1/3 gelas belimbing)"
+            }
+          ]
+        },
+        {
+          "group": "Haluskan",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "1 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "1 siung"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bumbu halus sampai harum.",
+            "Masukkan daging sapi dan udang, tumis hingga berubah warna, lalu tambahkan air kaldu, masak sampai mendidih.",
+            "Masukkan nasi, labu kuning, jagung dan bayam.",
+            "Masukkan daun bawang yang sudah diiris, masak hingga menyusut jangan lupa tambahkan garam secukupnya dan koreksi rasa. Sajikan."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "buah naga",
+        "amount": "180 gr (1 potong)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 119,
+        "protein_g": 6.4,
+        "lemak_g": 4.4
+      },
+      "energy_contribution_percent": 39.7,
+      "allergens": [
+        "udang"
+      ],
+      "original_id": "tim-bubur-manado-daging-udang",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:nasi-sup-telur-puyuh-bola-tahu-ayam",
+      "title": "Nasi Sup Telur Puyuh Bola Tahu Ayam",
+      "age_stage": "12-23 bulan",
+      "page": 27,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi putih",
+              "amount": "150 gr (15 sdm)"
+            },
+            {
+              "item": "tahu putih",
+              "amount": "45 gr (1 potong kecil)"
+            },
+            {
+              "item": "daging ayam cincang",
+              "amount": "60 gr (± 5 sdm)"
+            },
+            {
+              "item": "telur puyuh rebus",
+              "amount": "60 gr (6 butir)"
+            },
+            {
+              "item": "wortel",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "jagung pipil kuning",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "brokoli",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "air secukupnya",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Pelengkap",
+          "items": [
+            {
+              "item": "seledri, diiris",
+              "amount": "10 gr (1 batang)"
+            },
+            {
+              "item": "daun bawang, diiris",
+              "amount": "10 gr (1 batang)"
+            },
+            {
+              "item": "tepung tapioka",
+              "amount": "15 gr (± 1.5 sdm)"
+            },
+            {
+              "item": "garam secukupnya",
+              "amount": null
+            },
+            {
+              "item": "gula secukupnya",
+              "amount": null
+            },
+            {
+              "item": "merica secukupnya",
+              "amount": null
+            },
+            {
+              "item": "bawang goreng",
+              "amount": "10 gr (1 sdm)"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Rebus air sampai mendidih. Sambil menunggu air campurkan tahu, daging ayam cincang, bumbu halus, garam, gula, dan merica, selanjutnya haluskan serta tambahkan tapioka kemudian uleni hingga tercampur rata dan bisa dibentuk.",
+            "Ambil adonan sebanyak satu sendok teh kemudian bentuk bulat dan langsung dimasukkan pada air mendidih.",
+            "Lakukan sampai adonan habis. Setelah semua bola-bola tahu ayam mengapung, masukan wortel dan jagung terlebih dulu, tunggu sejenak kemudian brokoli dan telur puyuh rebus.",
+            "Masukan garam, gula dan merica serta irisan bawang daun dan seledri. Setelah sayuran matang koreksi rasa. Sajikan dengan nasi dan taburan bawang goreng."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "melon",
+        "amount": "135 gr (3 potong)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 260,
+        "protein_g": 10.4,
+        "lemak_g": 10.7
+      },
+      "energy_contribution_percent": 47.2,
+      "allergens": [
+        "tahu (kedelai)",
+        "telur (puyuh)"
+      ],
+      "original_id": "nasi-sup-telur-puyuh-bola-tahu-ayam",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:nasi-soto-ayam-kuah-kuning",
+      "title": "Nasi Soto Ayam Kuah Kuning",
+      "age_stage": "12-23 bulan",
+      "page": 28,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi",
+              "amount": "150 gr (15 sdm)"
+            },
+            {
+              "item": "ayam dengan tulang",
+              "amount": "100 gr (2 potong)"
+            },
+            {
+              "item": "soun",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "telur puyuh",
+              "amount": "60 gr (6 butir)"
+            },
+            {
+              "item": "toge",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "minyak goreng",
+              "amount": "10 gr (1 sdm)"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu",
+          "items": [
+            {
+              "item": "daun salam",
+              "amount": "1 lembar"
+            },
+            {
+              "item": "serai, digeprek",
+              "amount": "1 batang"
+            },
+            {
+              "item": "daun jeruk",
+              "amount": "1 lembar"
+            },
+            {
+              "item": "lengkuas, digeprek",
+              "amount": "1/2 cm"
+            },
+            {
+              "item": "air untuk merebus",
+              "amount": "1500 ml"
+            },
+            {
+              "item": "garam dan gula secukupnya",
+              "amount": null
+            },
+            {
+              "item": "merica secukupnya",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "kemiri",
+              "amount": "1 butir"
+            },
+            {
+              "item": "bawang merah",
+              "amount": "1 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "1 siung"
+            },
+            {
+              "item": "jahe",
+              "amount": "1/2 cm"
+            },
+            {
+              "item": "kunyit",
+              "amount": "1/2 cm"
+            },
+            {
+              "item": "jinten",
+              "amount": "1/4 sdt"
+            },
+            {
+              "item": "ketumbar",
+              "amount": "1/2 sdt"
+            }
+          ]
+        },
+        {
+          "group": "Pelengkap",
+          "items": [
+            {
+              "item": "irisan daun bawang",
+              "amount": "1/2 sdt"
+            },
+            {
+              "item": "irisan seledri",
+              "amount": "1/2 sdt"
+            },
+            {
+              "item": "irisan bawang goreng",
+              "amount": "1/3 sdt"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Rebus ayam hingga setengah matang, tambahkan serai geprek, daun salam, daun jeruk, dan lengkuas yg digeprek.",
+            "Tumis bumbu yang dihaluskan hingga harum dan matang, lalu masukkan ke dalam rebusan ayam.",
+            "Tambahkan garam, gula dan merica. Masak hingga ayam matang dan empuk, (jangan lupa koreksi rasa).",
+            "Daging ayam bisa diangkat dan disuir-suir.",
+            "Siapkan mangkuk, berikan soun yang sudah direndam, toge, suiran daging ayam, serta telur puyuh rebus.",
+            "Tambahkan kuah soto ayam, serta taburkan daun bawang, seledri, dan bawang goreng.",
+            "Sajikan dengan nasi hangat dan lengkapi dengan buah."
+          ]
+        }
+      ],
+      "fruit": null,
+      "nutrition_per_serving": {
+        "energi_kkal": 263,
+        "protein_g": 9.5,
+        "lemak_g": 10.9
+      },
+      "energy_contribution_percent": 47.8,
+      "allergens": [
+        "telur (puyuh)"
+      ],
+      "source_notes": "Recipe says to serve 'lengkapi dengan buah' but does not name a specific fruit/amount like the other recipes; fruit field left null rather than guessed.",
+      "original_id": "nasi-soto-ayam-kuah-kuning",
+      "source_id": "kemenkes-2023"
+    },
+    {
+      "id": "kemenkes-2023:sup-telur-puyuh-ikan-air-tawar-labu-kuning",
+      "title": "Sup Telur Puyuh Ikan Air Tawar Labu Kuning",
+      "age_stage": "12-23 bulan",
+      "page": 29,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi putih",
+              "amount": "150 gr (15 sdm)"
+            },
+            {
+              "item": "kentang, potong dadu",
+              "amount": "70 gr (7 sdm)"
+            },
+            {
+              "item": "labu kuning, potong dadu",
+              "amount": "50 gr (5 sdm)"
+            },
+            {
+              "item": "ikan nila kukus, disuwir",
+              "amount": "120 gr (12 sdm)"
+            },
+            {
+              "item": "telur puyuh, rebus",
+              "amount": "60 gr (6 butir)"
+            },
+            {
+              "item": "kacang merah",
+              "amount": "15 gr (3 sdt)"
+            },
+            {
+              "item": "tomat, potong dadu",
+              "amount": "45 gr (4.5 sdm)"
+            },
+            {
+              "item": "bawang daun",
+              "amount": "10 gr (1 batang)"
+            },
+            {
+              "item": "bawang merah goreng",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "bawang putih goreng",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "kaldu ayam",
+              "amount": "150 ml"
+            },
+            {
+              "item": "garam, gula, merica secukupnya",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Rebus kaldu ayam hingga mendidih, masukkan kentang, kacang merah, dan labu kuning hingga setengah matang.",
+            "Masukkan suwiran ikan nila kukus, bawang merah goreng dan bawang putih goreng, masak hingga matang.",
+            "Tambahkan tomat, bawang daun, bawang goreng, dan telur puyuh, aduk perlahan.",
+            "Tambahkan garam, gula dan merica secukupnya dan aduk rata. Angkat dan sajikan dengan buah."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "pepaya",
+        "amount": "150 gr (6 potong)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 261,
+        "protein_g": 13.6,
+        "lemak_g": 9.1
+      },
+      "energy_contribution_percent": 47.5,
+      "allergens": [
+        "ikan (nila)",
+        "telur (puyuh)",
+        "kacang merah"
+      ],
+      "original_id": "sup-telur-puyuh-ikan-air-tawar-labu-kuning",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:nasi-ikan-kuah-kuning",
+      "title": "Nasi Ikan Kuah Kuning",
+      "age_stage": "12-23 bulan",
+      "page": 30,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi",
+              "amount": "150 gr (15 sdm)"
+            },
+            {
+              "item": "ikan kembung",
+              "amount": "360 gr (3 ekor)"
+            },
+            {
+              "item": "labu siam",
+              "amount": "75 gr (7.5 sdm)"
+            },
+            {
+              "item": "tempe",
+              "amount": "75 gr (7.5 sdm)"
+            },
+            {
+              "item": "tomat besar",
+              "amount": "60 gr (1 buah besar)"
+            },
+            {
+              "item": "minyak goreng",
+              "amount": "15 ml (1.5 sdm)"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu",
+          "items": [
+            {
+              "item": "daun salam",
+              "amount": "2 lembar"
+            },
+            {
+              "item": "sereh, digeprek",
+              "amount": "1 batang"
+            },
+            {
+              "item": "laos, digeprek",
+              "amount": "2 cm"
+            },
+            {
+              "item": "garam secukupnya",
+              "amount": null
+            },
+            {
+              "item": "gula secukupnya",
+              "amount": null
+            },
+            {
+              "item": "santan",
+              "amount": "35 ml (3.5 sdm)"
+            },
+            {
+              "item": "air",
+              "amount": "750 ml"
+            },
+            {
+              "item": "jeruk nipis",
+              "amount": "2 buah"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "5 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "3 siung"
+            },
+            {
+              "item": "kemiri",
+              "amount": "3 buah"
+            },
+            {
+              "item": "jahe",
+              "amount": "2 cm"
+            },
+            {
+              "item": "kunyit",
+              "amount": "2 cm"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Bersihkan ikan, lumuri dengan garam dan jeruk nipis atau cuka, biarkan 10 menit kemudian bilas dengan air sampai bersih.",
+            "Lumuri kembali ikan kembung dengan garam dan jeruk nipis, biarkan 5 menit.",
+            "Panaskan minyak, goreng ikan kembung sampai matang, sisihkan.",
+            "Tumis bumbu halus, tambahkan sereh, salam dan laos, tunggu sampai air mendidih.",
+            "Masukkan potongan labu siam dan tempe, masak sampai matang.",
+            "Tambahkan santan dan masukkan ikan goreng.",
+            "Tambahkan garam dan gula secukupnya, masukkan tomat dan koreksi rasa. Sajikan dengan nasi hangat."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "semangka",
+        "amount": "270 gr"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 267,
+        "protein_g": 28.5,
+        "lemak_g": 10.7
+      },
+      "energy_contribution_percent": 48.5,
+      "allergens": [
+        "ikan (kembung)",
+        "tempe (kedelai)"
+      ],
+      "original_id": "nasi-ikan-kuah-kuning",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:nugget-tempe-ayam-sayuran",
+      "title": "Nugget Tempe Ayam Sayuran",
+      "age_stage": "12-23 bulan",
+      "page": 31,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "tempe, potong kotak kecil, kukus",
+              "amount": "200 gr"
+            },
+            {
+              "item": "daging ayam cincang, haluskan",
+              "amount": "100 gr"
+            },
+            {
+              "item": "telur ayam, kocok",
+              "amount": "100 gr (2 butir)"
+            },
+            {
+              "item": "wortel",
+              "amount": "50 gr (5 sdm)"
+            },
+            {
+              "item": "keju parut",
+              "amount": "50 gr (5 sdm)"
+            },
+            {
+              "item": "bawang daun, iris halus",
+              "amount": "10 gr (1 batang)"
+            },
+            {
+              "item": "bawang goreng halus",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "bawang putih halus",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "tepung terigu",
+              "amount": "20 gr (2 sdm)"
+            },
+            {
+              "item": "tepung tapioka",
+              "amount": "20 gr (2 sdm)"
+            }
+          ]
+        },
+        {
+          "group": "Bahan Pelapis",
+          "items": [
+            {
+              "item": "tepung terigu",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "air atau secukupnya",
+              "amount": "100 ml"
+            },
+            {
+              "item": "tepung panir",
+              "amount": "100 gr (10 sdm)"
+            },
+            {
+              "item": "minyak untuk menggoreng secukupnya",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Campurkan tempe, daging ayam cincang, wortel, keju, bawang daun, tepung terigu, tapioka, telur, bawang goreng, dan bawang putih halus. Aduk sampai tercampur rata. Ambil loyang, olesi minyak dulu kemudian masukkan adonan nugget dan ratakan. Kukus selama 30 menit atau sampai matang. Setelah dingin, potong adonan sesuai ukuran yang diinginkan.",
+            "Cairkan terigu dengan air sampai menjadi larutan yang cukup kekentalannya. Celupkan nugget ke tepung terigu basah, gulirkan pada tepung panir.",
+            "Sebaiknya disimpan dulu di kulkas selama 30 menit. Atau bisa langsung digoreng di minyak yang panas. Sajikan selagi hangat. Bisa juga dijadikan lauk."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "semangka",
+        "amount": "270 gr"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 191,
+        "protein_g": 10.5,
+        "lemak_g": 9.0
+      },
+      "energy_contribution_percent": 34.7,
+      "allergens": [
+        "tempe (kedelai)",
+        "telur",
+        "keju (susu)",
+        "gluten (tepung terigu)"
+      ],
+      "original_id": "nugget-tempe-ayam-sayuran",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:nasi-bakar-ayam-santan",
+      "title": "Nasi Bakar Ayam Santan",
+      "age_stage": "2-5 tahun",
+      "page": 35,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "6 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "4 siung"
+            },
+            {
+              "item": "ketumbar",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "kemiri",
+              "amount": "4 buah"
+            },
+            {
+              "item": "jinten",
+              "amount": "0.5 sdt"
+            },
+            {
+              "item": "garam secukupnya",
+              "amount": null
+            },
+            {
+              "item": "merica secukupnya",
+              "amount": null
+            },
+            {
+              "item": "gula secukupnya",
+              "amount": null
+            },
+            {
+              "item": "kaldu jamur secukupnya",
+              "amount": null
+            },
+            {
+              "item": "minyak goreng",
+              "amount": "20 gr (2 sdm)"
+            }
+          ]
+        },
+        {
+          "group": "Bahan Nasi Gurih",
+          "items": [
+            {
+              "item": "beras putih",
+              "amount": "150 gr (15 sdm)"
+            },
+            {
+              "item": "bawang putih goreng",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "bawang merah goreng",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "margarin",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "daun jeruk",
+              "amount": "1 lembar"
+            },
+            {
+              "item": "daun salam",
+              "amount": "1 lembar"
+            },
+            {
+              "item": "sereh",
+              "amount": "1 batang"
+            },
+            {
+              "item": "daun pandan",
+              "amount": "1 lembar"
+            },
+            {
+              "item": "garam secukupnya",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Bahan Campuran (Isian Ayam Santan)",
+          "items": [
+            {
+              "item": "filet dada ayam, potong kotak",
+              "amount": "120 gr (12 sdm)"
+            },
+            {
+              "item": "tahu, potong kotak",
+              "amount": "60 gr (3 potong)"
+            },
+            {
+              "item": "udang",
+              "amount": "60 gr (6 ekor)"
+            },
+            {
+              "item": "daun bayam",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "wortel",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "santan kental",
+              "amount": "50 ml (5 sdm)"
+            },
+            {
+              "item": "daun salam",
+              "amount": "1 lembar"
+            },
+            {
+              "item": "sereh",
+              "amount": "1 batang"
+            },
+            {
+              "item": "daun jeruk",
+              "amount": "2 lembar"
+            },
+            {
+              "item": "jahe",
+              "amount": "1 cm"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": "Cara Membuat Nasi Gurih",
+          "steps": [
+            "Cuci bersih beras putih.",
+            "Masukkan beras, bawang putih goreng, bawang merah goreng, daun salam, sereh, daun jeruk, pandan, margarin dan garam secukupnya.",
+            "Tambahkan air secukupnya, aduk merata, masak hingga matang."
+          ]
+        },
+        {
+          "section": "Cara Membuat Isian Ayam Santan",
+          "steps": [
+            "Panaskan minyak goreng, tumis bumbu hingga harum, masukkan salam, daun jeruk, sereh dan jahe.",
+            "Masukkan ayam, udang, masak hingga ayam setengah matang.",
+            "Tambahkan santan dan air secukupnya, masak hingga mendidih.",
+            "Masukkan tahu, wortel dan bayam sampai santan menyusut. Sisihkan untuk isi nasi bakar."
+          ]
+        },
+        {
+          "section": "Cara Membuat Nasi Bakar",
+          "steps": [
+            "Siapkan daun pisang, tata nasi gurih, masukkan ayam masak santan.",
+            "Bungkus dengan rapi kemudian kukus selama 10 menit.",
+            "Untuk mendapatkan cita rasa bakar, sebelum dikonsumsi bisa dipanggang selama 10 menit. Angkat, sajikan selagi hangat.",
+            "Untuk menyempurnakan kebutuhan gizi jangan lupa sajikan dengan buah dan air putih."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "pepaya",
+        "amount": "300 gr"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 421,
+        "protein_g": 18.2,
+        "lemak_g": 18.2
+      },
+      "energy_contribution_percent": 40.1,
+      "allergens": [
+        "tahu (kedelai)",
+        "udang"
+      ],
+      "original_id": "nasi-bakar-ayam-santan",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:nasi-sup-tabas-udang-sayur",
+      "title": "Nasi Sup Tabas Udang Sayur",
+      "age_stage": "2-5 tahun",
+      "page": 37,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi putih",
+              "amount": "300 gr (3 centong)"
+            },
+            {
+              "item": "ikan tenggiri cincang",
+              "amount": "150 gr (15 sdm)"
+            },
+            {
+              "item": "putih telur",
+              "amount": "1 butir"
+            },
+            {
+              "item": "tepung tapioka",
+              "amount": "20 gr (2 sdm)"
+            },
+            {
+              "item": "tahu",
+              "amount": "90 gr (9 sdm)"
+            },
+            {
+              "item": "bawang daun, iris halus",
+              "amount": "10 gr (1 batang)"
+            },
+            {
+              "item": "bawang merah goreng",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "bawang putih goreng",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "saos tiram",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "minyak wijen",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "garam",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "merica",
+              "amount": "2.5 gr (0.5 sdt)"
+            },
+            {
+              "item": "garam, gula, merica secukupnya",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Kuah",
+          "items": [
+            {
+              "item": "udang rebus, sisihkan kaldunya",
+              "amount": "90 gr (9 sdm)"
+            },
+            {
+              "item": "air kaldu udang",
+              "amount": "500 ml"
+            },
+            {
+              "item": "pokcoy",
+              "amount": "60 gr (6 sdm)"
+            },
+            {
+              "item": "soun, direndam",
+              "amount": "60 gr (6 sdm)"
+            },
+            {
+              "item": "wortel, potong bulat",
+              "amount": "60 gr (6 sdm)"
+            },
+            {
+              "item": "kecap ikan",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "saos tiram",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "garam dan gula secukupnya",
+              "amount": null
+            },
+            {
+              "item": "daun bawang, iris halus",
+              "amount": "10 gr (1 batang)"
+            },
+            {
+              "item": "seledri, iris halus",
+              "amount": "10 gr (1 batang)"
+            },
+            {
+              "item": "bawang goreng",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "jahe",
+              "amount": "1 cm"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "2 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "1 siung"
+            },
+            {
+              "item": "minyak untuk menumis",
+              "amount": "10 gr (1 sdm)"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Campurkan ikan tenggiri cincang, tapioka, bawang daun, bawang merah goreng halus, bawang putih goreng, saos tiram, garam, merica, gula dan putih telur sampai merata dan adonan bisa dibentuk.",
+            "Ambil tahu yg sudah dilubangi bagian tengahnya, kemudian isi dengan 1 sendok makan adonan ikan. Lakukan sampai selesai.",
+            "Kukus baso tahu selama 15 sampai 20 menit.",
+            "Tumis bumbu halus sampai harum, tambahkan air kaldu ayam atau udang, masak sampai mendidih.",
+            "Masukkan udang dan wortel, tambahkan kecap ikan, saos tiram, garam, merica dan gula secukupnya. Koreksi rasa sebelum api dimatikan.",
+            "Masukkan 2 tahu baso, pakcoy dan soun ke dalam alat saji mangkok, siram dengan air kuah udang dan wortel, tambahkan dengan bawang goreng, seledri dan bawang daun.",
+            "Sajikan dengan nasi hangat dan lengkapi dengan buah."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "semangka",
+        "amount": "540 gr"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 537,
+        "protein_g": 23.4,
+        "lemak_g": 18.9
+      },
+      "energy_contribution_percent": 39.7,
+      "allergens": [
+        "ikan (tenggiri)",
+        "telur",
+        "tahu (kedelai)",
+        "udang",
+        "saos tiram (kerang)"
+      ],
+      "original_id": "nasi-sup-tabas-udang-sayur",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:nasi-masak-ayam-kecap-sayur",
+      "title": "Nasi Masak Ayam Kecap Sayur",
+      "age_stage": "2-5 tahun",
+      "page": 39,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi putih",
+              "amount": "300 gr (3 centong)"
+            },
+            {
+              "item": "dada ayam filet, iris tipis",
+              "amount": "120 gr (12 sdm)"
+            },
+            {
+              "item": "telur puyuh rebus",
+              "amount": "60 gr (6 butir)"
+            },
+            {
+              "item": "tahu putih, dipotong dadu",
+              "amount": "150 gr (2 buah besar)"
+            },
+            {
+              "item": "pakcoy, potong 3 cm",
+              "amount": "100 gr (10 sdm)"
+            },
+            {
+              "item": "kecap manis",
+              "amount": "40 gr (4 sdm)"
+            },
+            {
+              "item": "air",
+              "amount": "50 ml (5 sdm)"
+            },
+            {
+              "item": "minyak",
+              "amount": "20 gr (2 sdm)"
+            },
+            {
+              "item": "bawang putih, cincang halus",
+              "amount": "1 siung"
+            },
+            {
+              "item": "bawang bombay, iris",
+              "amount": "1/4 buah"
+            },
+            {
+              "item": "daun bawang, potong-potong",
+              "amount": "1 batang"
+            },
+            {
+              "item": "garam, gula, merica secukupnya",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Masukkan minyak ke dalam wajan. Tumis bawang putih hingga harum.",
+            "Masukkan bawang bombay, aduk rata. Masukkan ayam, masak hingga berubah warna.",
+            "Tambahkan tahu, telur puyuh rebus dan pakcoy, kecap manis, gula, garam, merica dan air. Aduk rata hingga matang.",
+            "Masukkan daun bawang, aduk rata.",
+            "Angkat dan sajikan."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "jeruk",
+        "amount": "300 gr (3 buah)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 424,
+        "protein_g": 22.9,
+        "lemak_g": 18.1
+      },
+      "energy_contribution_percent": 30.2,
+      "allergens": [
+        "telur (puyuh)",
+        "tahu (kedelai)"
+      ],
+      "original_id": "nasi-masak-ayam-kecap-sayur",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:bola-bola-nasi-rabuk-ikan",
+      "title": "Bola-bola Nasi Rabuk Ikan",
+      "age_stage": "2-5 tahun",
+      "page": 40,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "beras, masak hingga menjadi nasi",
+              "amount": "150 gr"
+            },
+            {
+              "item": "minyak sayur",
+              "amount": "40 gr (4 sdm)"
+            },
+            {
+              "item": "buncis, diiris",
+              "amount": "18 gr (2 sdm)"
+            },
+            {
+              "item": "wortel, cincang",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "jagung pipil, cincang kasar",
+              "amount": "45 gr (4.5 sdm)"
+            },
+            {
+              "item": "tepung terigu",
+              "amount": "50 gr (5 sdm)"
+            },
+            {
+              "item": "telur ayam",
+              "amount": "30 gr (1/2 butir)"
+            },
+            {
+              "item": "rabuk ikan",
+              "amount": "50 gr (5 sdm)"
+            },
+            {
+              "item": "bawang bombay, iris",
+              "amount": "10 gr (2 sdm)"
+            },
+            {
+              "item": "bawang putih goreng",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "bawang merah goreng",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "daun bawang, lada, garam, kaldu jamur secukupnya",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Bahan Pelapis",
+          "items": [
+            {
+              "item": "telur ayam",
+              "amount": "50 gr (1 butir)"
+            },
+            {
+              "item": "tepung roti/panir secukupnya",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bawang dengan minyak hingga layu, kemudian masukkan sayuran (wortel, buncis dan jagung). Masak hingga setengah matang, lalu angkat.",
+            "Tambahkan nasi, terigu, telur, bawang putih goreng, bawang merah goreng, daun bawang, lada, garam, dan kaldu bubuk secukupnya, aduk hingga rata dan kalis.",
+            "Ambil sedikit nasi, pipihkan di tangan. Isi dengan rabuk ikan lalu bentuk bulat.",
+            "Lumuri dengan terigu, celupkan ke telur kocok dan gulingkan ke tepung roti/panir.",
+            "Diamkan minimal 1 jam atau simpan dalam lemari es. Panaskan minyak lalu goreng hingga berwarna kecoklatan."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "buah naga",
+        "amount": "300 gr"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 468,
+        "protein_g": 14.4,
+        "lemak_g": 17.4
+      },
+      "energy_contribution_percent": 33.4,
+      "allergens": [
+        "ikan (rabuk ikan)",
+        "telur",
+        "gluten (tepung terigu)"
+      ],
+      "original_id": "bola-bola-nasi-rabuk-ikan",
+      "source_id": "kemenkes-2023",
+      "source_notes": null
+    },
+    {
+      "id": "kemenkes-2023:nasi-kuning-harum-rampa-ikan-tuna-balado",
+      "title": "Nasi Kuning Harum Rampa Ikan Tuna Balado",
+      "age_stage": "ibu hamil",
+      "page": 43,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": "Bumbu yang Dihaluskan",
+          "items": [
+            {
+              "item": "cabe merah besar (bisa dikurangi/ditambah sesuai selera)",
+              "amount": "30 gr (3 buah)"
+            },
+            {
+              "item": "bawang merah",
+              "amount": "3 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "1 siung"
+            }
+          ]
+        },
+        {
+          "group": "Bahan Nasi Kuning",
+          "items": [
+            {
+              "item": "beras",
+              "amount": "170 gr"
+            },
+            {
+              "item": "beras ketan",
+              "amount": "30 gr"
+            },
+            {
+              "item": "santan cair",
+              "amount": "450 ml"
+            },
+            {
+              "item": "daun salam",
+              "amount": "3 lembar"
+            },
+            {
+              "item": "daun pandan, disimpulkan",
+              "amount": "3 lembar"
+            },
+            {
+              "item": "sereh, digeprek",
+              "amount": "1 batang"
+            },
+            {
+              "item": "laos, digeprek",
+              "amount": "2 cm"
+            },
+            {
+              "item": "kayu manis",
+              "amount": "1 cm"
+            },
+            {
+              "item": "biji pala, digeprek",
+              "amount": "1 butir"
+            },
+            {
+              "item": "bunga cengkeh",
+              "amount": "2 buah"
+            },
+            {
+              "item": "bunga pekak (bunga lawang)",
+              "amount": "5 kuntum"
+            },
+            {
+              "item": "kapulaga",
+              "amount": "1 buah"
+            },
+            {
+              "item": "garam",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "merica",
+              "amount": "1 sdt"
+            }
+          ]
+        },
+        {
+          "group": "Bahan Balado Ikan Tuna/Tongkol",
+          "items": [
+            {
+              "item": "filet dada ayam, potong kotak",
+              "amount": "120 gr (12 sdm)"
+            },
+            {
+              "item": "tahu, potong kotak",
+              "amount": "60 gr (3 potong)"
+            },
+            {
+              "item": "udang",
+              "amount": "60 gr (6 ekor)"
+            },
+            {
+              "item": "daun bayam",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "wortel",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "santan kental",
+              "amount": "50 ml (5 sdm)"
+            },
+            {
+              "item": "daun salam",
+              "amount": "1 lembar"
+            },
+            {
+              "item": "sereh",
+              "amount": "1 batang"
+            },
+            {
+              "item": "daun jeruk",
+              "amount": "2 lembar"
+            },
+            {
+              "item": "jahe",
+              "amount": "1 cm"
+            }
+          ]
+        },
+        {
+          "group": "Bahan Tumisan Jantung",
+          "items": [
+            {
+              "item": "jantung pisang rebus",
+              "amount": "200 gr (1 buah)"
+            },
+            {
+              "item": "daun melinjo",
+              "amount": "60 gr"
+            },
+            {
+              "item": "ikan teri medan goreng",
+              "amount": "50 gr"
+            },
+            {
+              "item": "cabe hijau",
+              "amount": "50 gr"
+            },
+            {
+              "item": "cabe merah",
+              "amount": "50 gr"
+            },
+            {
+              "item": "bawang merah",
+              "amount": "5 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "3 siung"
+            },
+            {
+              "item": "laos",
+              "amount": "3 cm"
+            },
+            {
+              "item": "sereh",
+              "amount": "10 gr (1 batang)"
+            },
+            {
+              "item": "daun salam",
+              "amount": "3 lembar"
+            },
+            {
+              "item": "garam secukupnya",
+              "amount": null
+            },
+            {
+              "item": "gula secukupnya",
+              "amount": null
+            },
+            {
+              "item": "kaldu jamur",
+              "amount": null
+            },
+            {
+              "item": "santan",
+              "amount": "50 ml (5 sdm)"
+            },
+            {
+              "item": "minyak",
+              "amount": "20 gr (2 sdm)"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": "Cara Membuat Nasi Harum",
+          "steps": [
+            "Cuci beras dan ketan sampai bersih kemudian rendam dalam air selama 15-20 menit, kemudian tiriskan.",
+            "Tumis bumbu yang sudah dihaluskan dengan sedikit minyak.",
+            "Tambahkan santan, beras ketan, tumisan bumbu halus, garam, dan semua bumbu rempah, dimasak dengan api sedang sampai menjadi aron nasi, jangan lupa diaduk-aduk, koreksi rasa.",
+            "Kukus aron nasi uduk, kurang lebih selama 30 menit."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "semangka",
+        "amount": "540 gr (3 porsi)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 691,
+        "protein_g": 34.9,
+        "lemak_g": 26.9
+      },
+      "energy_contribution_percent": 29,
+      "allergens": [
+        "tahu (kedelai)",
+        "udang",
+        "ikan (teri)"
+      ],
+      "source_notes": "This is a pregnancy-menu recipe, not a baby/toddler recipe — flagged with age_stage 'ibu hamil' so it can be excluded from a baby-food-only app view. The source's 'Bahan Balado Ikan Tuna/Tongkol' ingredient list appears to duplicate the chicken/tofu/shrimp filling from the 'Nasi Bakar Ayam Santan' recipe rather than listing tuna/tongkol ingredients — likely a template copy-paste error in the original document. Cooking steps for the balado ikan and tumisan jantung components are not present in the extracted text (only 'Cara Membuat Nasi Harum' is given).",
+      "original_id": "nasi-kuning-harum-rampa-ikan-tuna-balado",
+      "source_id": "kemenkes-2023"
+    },
+    {
+      "id": "kemenkes-2023:liwet-ikan-goreng-kari-daun-singkong-ebi",
+      "title": "Liwet Ikan Goreng dan Kari Daun Singkong dan Ebi",
+      "age_stage": "ibu hamil",
+      "page": 45,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": "Bahan Ikan Goreng",
+          "items": [
+            {
+              "item": "ikan nila (dibagi 3)",
+              "amount": "300 gr (1 ekor besar)"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "2 siung"
+            },
+            {
+              "item": "jeruk nipis",
+              "amount": "1 buah"
+            },
+            {
+              "item": "garam secukupnya",
+              "amount": null
+            },
+            {
+              "item": "minyak secukupnya",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "8 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "4 siung"
+            },
+            {
+              "item": "cabai merah keriting",
+              "amount": "4 buah"
+            },
+            {
+              "item": "cabe rawit",
+              "amount": "3 buah"
+            },
+            {
+              "item": "kemiri, sangrai",
+              "amount": "3 butir"
+            },
+            {
+              "item": "kunyit, bakar",
+              "amount": "5 sm"
+            }
+          ]
+        },
+        {
+          "group": "Bahan Nasi Liwet",
+          "items": [
+            {
+              "item": "beras",
+              "amount": "150 gr"
+            },
+            {
+              "item": "bawang merah, diiris",
+              "amount": "5 siung"
+            },
+            {
+              "item": "bawang putih, diiris",
+              "amount": "3 siung"
+            },
+            {
+              "item": "daun salam",
+              "amount": "3 lembar"
+            },
+            {
+              "item": "sereh, digeprek",
+              "amount": "3 batang"
+            },
+            {
+              "item": "daun jeruk, buang tulangnya",
+              "amount": "3 lembar"
+            },
+            {
+              "item": "cabai rawit hijau",
+              "amount": "6 buah"
+            },
+            {
+              "item": "laos geprek",
+              "amount": "3 cm"
+            },
+            {
+              "item": "garam secukupnya",
+              "amount": null
+            },
+            {
+              "item": "kaldu ayam",
+              "amount": "300 ml"
+            },
+            {
+              "item": "minyak goreng",
+              "amount": "20 gr (2 sdm)"
+            }
+          ]
+        },
+        {
+          "group": "Bahan Tumis Daun Singkong",
+          "items": [
+            {
+              "item": "daun singkong",
+              "amount": "150 gr"
+            },
+            {
+              "item": "lengkuas, memarkan",
+              "amount": "3 cm"
+            },
+            {
+              "item": "serai, memarkan",
+              "amount": "1 batang"
+            },
+            {
+              "item": "daun salam",
+              "amount": "2 lembar"
+            },
+            {
+              "item": "teri medan goreng",
+              "amount": "3 sdm"
+            },
+            {
+              "item": "garam",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "gula pasir",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "santan (1/2 butir kelapa)",
+              "amount": "50 ml"
+            },
+            {
+              "item": "minyak",
+              "amount": "15 ml (1.5 sdm)"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": "Cara Membuat Nasi Liwet",
+          "steps": [
+            "Cuci beras sampai bersih, sisihkan.",
+            "Tumis bawang merah dan bawang putih iris sampai harum.",
+            "Masukkan beras ke dalam panci isi air 1 sampai 2 ruas jari, masukkan tumisan bawang, salam, sereh, daun jeruk dan laos.",
+            "Masak dengan api sedang sampai menjadi aron, kecilkan api dan masak sampai matang."
+          ]
+        },
+        {
+          "section": "Cara Membuat Ikan Nila Goreng",
+          "steps": [
+            "Cuci bersih ikan.",
+            "Setelah bersih, lumuri ikan dengan perasan jeruk nipis, bawang putih dan garam.",
+            "Panaskan minyak, masukkan ikan dan goreng hingga matang."
+          ]
+        },
+        {
+          "section": "Cara Membuat Daun Singkong",
+          "steps": [
+            "Didihkan air lalu beri 1 sdt garam. Rebus daun singkong sampai matang. Angkat dan tiriskan. Peras airnya lalu iris kasar. Sisihkan.",
+            "Panaskan minyak. Siram teri dengan air panas, lalu tumis sebentar dengan minyak panas. Tiriskan. Dengan sisa minyak, tumis bumbu halus, cabe rawit utuh, lengkuas, serai, dan daun salam hingga harum dan matang.",
+            "Masukkan santan, garam, dan gula pasir. Masak hingga mendidih.",
+            "Masukkan daun singkong. Biarkan mendidih lagi sambil sesekali diaduk. Sesaat sebelum matang, masukan teri medan, aduk sebentar. Matikan kompor.",
+            "Sajikan."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "belimbing",
+        "amount": "325 gr"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 635,
+        "protein_g": 42.9,
+        "lemak_g": 26.0
+      },
+      "energy_contribution_percent": 26.6,
+      "allergens": [
+        "ikan (nila, teri)"
+      ],
+      "source_notes": "Pregnancy-menu recipe (age_stage 'ibu hamil'), not intended for babies/toddlers.",
+      "original_id": "liwet-ikan-goreng-kari-daun-singkong-ebi",
+      "source_id": "kemenkes-2023"
+    },
+    {
+      "id": "kemenkes-2023:siomay-ayam-udang-komplit",
+      "title": "Siomay Ayam Udang Komplit",
+      "age_stage": "ibu hamil",
+      "page": 47,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": "Bumbu",
+          "items": [
+            {
+              "item": "garam",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "gula pasir",
+              "amount": "0.5 sdt"
+            },
+            {
+              "item": "minyak wijen",
+              "amount": "20 gr (2 sdm)"
+            },
+            {
+              "item": "bawang putih goreng",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "bawang merah goreng",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "kaldu jamur",
+              "amount": "1.5 sdt"
+            },
+            {
+              "item": "merica",
+              "amount": "0.25 sdt"
+            }
+          ]
+        },
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "ayam paha cincang",
+              "amount": "150 gr"
+            },
+            {
+              "item": "udang cincang kasar",
+              "amount": "90 gr"
+            },
+            {
+              "item": "air es",
+              "amount": "80 ml"
+            },
+            {
+              "item": "tepung tapioka",
+              "amount": "30 gr (3 sdm)"
+            },
+            {
+              "item": "tepung terigu",
+              "amount": "15 g (1.5 sdm)"
+            },
+            {
+              "item": "maizena",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "baking powder",
+              "amount": "0.25 sdt"
+            },
+            {
+              "item": "kulit pangsit",
+              "amount": "2.5 gr (5 lembar)"
+            },
+            {
+              "item": "tahu putih, dikukus",
+              "amount": "25 gr (5 potong)"
+            },
+            {
+              "item": "pare, dikukus",
+              "amount": "1 buah"
+            },
+            {
+              "item": "kentang, dikukus",
+              "amount": "100 gr (2.5 buah)"
+            },
+            {
+              "item": "telur rebus",
+              "amount": "250 gr (5 butir)"
+            }
+          ]
+        },
+        {
+          "group": "Bahan Bumbu Kacang",
+          "items": [
+            {
+              "item": "kacang tanah goreng",
+              "amount": "60 gr (6 sdm)"
+            },
+            {
+              "item": "cabe keriting rebus",
+              "amount": "3 buah"
+            },
+            {
+              "item": "bawang merah goreng halus",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "bawang putih goreng",
+              "amount": "5 gr (1 sdt)"
+            },
+            {
+              "item": "daun jeruk",
+              "amount": "1 lembar"
+            },
+            {
+              "item": "air asam jawa",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "kecap manis",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "air",
+              "amount": "200 ml"
+            },
+            {
+              "item": "minyak goreng",
+              "amount": "30 ml (3 sdm)"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": "Cara Membuat Siomay",
+          "steps": [
+            "Campur ayam fillet cincang, udang cincang dan semua bumbu. Uleni.",
+            "Tuang air es secara perlahan sambil terus diuleni. Kemudian masukkan tepung terigu, tepung tapioka dan tepung maizena, aduk-aduk sampai tercampur rata.",
+            "Ambil 1 lembar kulit pangsit, kemudian isi kulit pangsit dengan 1 sendok makan adonan yang telah dibuat tadi, lakukan hingga adonan habis. Kukus siomay hingga matang."
+          ]
+        },
+        {
+          "section": "Cara Membuat Bumbu Kacang",
+          "steps": [
+            "Haluskan kacang yang sudah digoreng sebelumnya, tambahkan bawang dan cabe keriting.",
+            "Masak kacang yang sudah dihaluskan, kemudian tambahkan air, daun jeruk, asam jawa dan minyak goreng.",
+            "Susun siomay, tahu, pare, telur rebus dan kentang, beri bumbu kacang, kecap manis dan bawang goreng di atasnya."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "melon",
+        "amount": "300 gr (3 potong)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 521,
+        "protein_g": 29.1,
+        "lemak_g": 21.8
+      },
+      "energy_contribution_percent": 21.9,
+      "allergens": [
+        "udang",
+        "gluten (tepung terigu, kulit pangsit)",
+        "tahu (kedelai)",
+        "telur",
+        "kacang tanah"
+      ],
+      "source_notes": "Pregnancy-menu recipe (age_stage 'ibu hamil'), not intended for babies/toddlers.",
+      "original_id": "siomay-ayam-udang-komplit",
+      "source_id": "kemenkes-2023"
+    },
+    {
+      "id": "kemenkes-2023:lapis-tamie-isi-ayam",
+      "title": "Lapis Tamie Isi Ayam",
+      "age_stage": "ibu hamil",
+      "page": 49,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "2 siung"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "2 siung"
+            }
+          ]
+        },
+        {
+          "group": "Pelapis",
+          "items": [
+            {
+              "item": "tepung terigu",
+              "amount": "4 sdm"
+            },
+            {
+              "item": "air",
+              "amount": "150 ml"
+            },
+            {
+              "item": "garam secukupnya",
+              "amount": null
+            },
+            {
+              "item": "tepung panir",
+              "amount": "150 gr"
+            },
+            {
+              "item": "minyak goreng",
+              "amount": "200 ml"
+            }
+          ]
+        },
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "tahu putih kecil (500 gr), haluskan",
+              "amount": "20 buah"
+            },
+            {
+              "item": "daging ayam cincang",
+              "amount": "100 gr"
+            },
+            {
+              "item": "telur ayam",
+              "amount": "100 gr (2 butir)"
+            },
+            {
+              "item": "tepung tapioka",
+              "amount": "2 sendok makan"
+            },
+            {
+              "item": "tepung terigu",
+              "amount": "2 sendok"
+            },
+            {
+              "item": "mie kering rebus, haluskan",
+              "amount": "85 gr (1 bungkus)"
+            },
+            {
+              "item": "keju parut",
+              "amount": "50 gr"
+            },
+            {
+              "item": "wortel parut",
+              "amount": "50 gr"
+            },
+            {
+              "item": "daun bawang, iris halus",
+              "amount": "1 batang"
+            },
+            {
+              "item": "daun seledri, haluskan",
+              "amount": "1 batang"
+            },
+            {
+              "item": "bawang putih goreng halus",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "bawang goreng halus",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "garam",
+              "amount": null
+            },
+            {
+              "item": "merica",
+              "amount": null
+            },
+            {
+              "item": "kaldu jamur secukupnya",
+              "amount": null
+            },
+            {
+              "item": "saus tiram",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "minyak wijen",
+              "amount": "1 sdm"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bumbu halus sampai harum, masukkan ayam cincang, masak sampai berubah warna.",
+            "Tambahkan saos tiram, minyak wijen, garam dan merica secukupnya, koreksi rasa, sisihkan.",
+            "Didihkan kurang lebih 1.5 liter air, tambahkan 1 sdm minyak goreng atau mentega.",
+            "Campurkan tahu, mie kering rebus, wortel, keju, tepung terigu, tepung tapioka, garam, merica dan kaldu jamur jika dibutuhkan, bawang merah dan bawang putih goreng halus, bawang daun dan seledri iris, uleni sampai tercampur merata.",
+            "Ambil 1.5 sendok makan adonan, pipihkan dan isi tumisan ayam cincang. Kemudian rapihkan dan bentuk bulat lonjong atau sesuai dengan kesukaan.",
+            "Masukan ke dalam air mendidih, masak sampai matang atau mengapung.",
+            "Siapkan loyang, olesi dengan minyak. Ambil sebagian adonan, ratakan, tambahkan isian tumisan daging ayam di atasnya dan ratakan kembali, kemudian tutup kembali dengan adonan tahunya dan ratakan kembali.",
+            "Kukus selama 25 menit atau sampai matang.",
+            "Dinginkan terlebih dulu baru dipotong-potong.",
+            "Campurkan tepung terigu, garam dan air sampai tercampur merata.",
+            "Gulirkan potongan lapis tamie ke dalam larutan tepung.",
+            "Kemudian gulirkan ke tepung panir, lakukan sampai adonan habis.",
+            "Sebaiknya dimasukan dulu ke kulkas atau freezer sebelum digoreng.",
+            "Goreng di minyak panas yg cukup sampai kuning keemasan.",
+            "Sajikan selagi hangat, bisa dicocol dengan saos sambel."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "pepaya",
+        "amount": "300 gr"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 527,
+        "protein_g": 25.3,
+        "lemak_g": 22.9
+      },
+      "energy_contribution_percent": 22.1,
+      "allergens": [
+        "tahu (kedelai)",
+        "telur",
+        "gluten (tepung terigu, mie)",
+        "keju (susu)",
+        "saus tiram (kerang)"
+      ],
+      "source_notes": "Pregnancy-menu recipe (age_stage 'ibu hamil'), not intended for babies/toddlers.",
+      "original_id": "lapis-tamie-isi-ayam",
+      "source_id": "kemenkes-2023"
+    },
+    {
+      "id": "kemenkes-2023:nasi-rawon",
+      "title": "Nasi Rawon",
+      "age_stage": "ibu hamil",
+      "page": 51,
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi",
+              "amount": "450 gr (3 centong)"
+            },
+            {
+              "item": "daging sapi",
+              "amount": "150 gr (15 sdm)"
+            },
+            {
+              "item": "tempe",
+              "amount": "150 gr (15 sdm)"
+            },
+            {
+              "item": "tauge",
+              "amount": "90 gr (9 sdm)"
+            },
+            {
+              "item": "telur asin",
+              "amount": "50 gr (3 butir)"
+            },
+            {
+              "item": "minyak goreng",
+              "amount": "10 ml (1 sdm)"
+            },
+            {
+              "item": "kerupuk udang",
+              "amount": "3 buah"
+            },
+            {
+              "item": "kaldu daging",
+              "amount": "2 liter"
+            },
+            {
+              "item": "serai",
+              "amount": "3 batang"
+            },
+            {
+              "item": "daun jeruk",
+              "amount": "3 lembar"
+            },
+            {
+              "item": "daun salam",
+              "amount": "5 lembar"
+            },
+            {
+              "item": "laos",
+              "amount": "2 cm"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "15 gr (5 siung)"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "9 gr (3 siung)"
+            },
+            {
+              "item": "air asam jawa",
+              "amount": "10 ml (1 sdm)"
+            },
+            {
+              "item": "jahe",
+              "amount": "2 cm"
+            },
+            {
+              "item": "kunyit",
+              "amount": "2 cm"
+            },
+            {
+              "item": "kluwek",
+              "amount": "5 buah"
+            },
+            {
+              "item": "ketumbar",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "garam",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "gula pasir",
+              "amount": "10 gr (1 sdm)"
+            },
+            {
+              "item": "kaldu jamur",
+              "amount": "10 (1 sdm)"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Masak daging bersama daun jeruk, serai, laos dan daun salam sampai empuk dan matang.",
+            "Angkat daging, lalu potong kecil-kecil. Saring rebusan, didihkan lagi bersama irisan daging.",
+            "Panaskan minyak, tumis bumbu halus sampai harum dan matang. Angkat, lalu masukkan ke dalam rebusan daging.",
+            "Masak dengan api kecil sampai mendidih kembali.",
+            "Sajikan rawon, tauge pendek, tempe goreng, telur asin dan kerupuk udang. Jangan lupa nasinya."
+          ]
+        }
+      ],
+      "fruit": {
+        "item": "jeruk",
+        "amount": "300 gr (3 buah)"
+      },
+      "nutrition_per_serving": {
+        "energi_kkal": 698,
+        "protein_g": 36,
+        "lemak_g": 27.9
+      },
+      "energy_contribution_percent": 29.3,
+      "allergens": [
+        "tempe (kedelai)",
+        "telur (asin)",
+        "udang (kerupuk)"
+      ],
+      "source_notes": "Pregnancy-menu recipe (age_stage 'ibu hamil'), not intended for babies/toddlers.",
+      "original_id": "nasi-rawon",
+      "source_id": "kemenkes-2023"
+    },
+    {
+      "id": "mpasi-pptx:bubur-hati-ayam",
+      "title": "Bubur Hati Ayam",
+      "age_stage": "6 bulan",
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi",
+              "amount": "60 gram"
+            },
+            {
+              "item": "hati ayam, cincang halus",
+              "amount": "30 gram"
+            },
+            {
+              "item": "bayam, iris kecil",
+              "amount": "10 gram"
+            },
+            {
+              "item": "minyak jagung, untuk menumis",
+              "amount": "7,5 ml"
+            },
+            {
+              "item": "garam secukupnya (jika diperlukan)",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang putih",
+              "amount": "1/2 siung"
+            },
+            {
+              "item": "bawang merah",
+              "amount": "1/2 siung"
+            },
+            {
+              "item": "jahe",
+              "amount": "1/2 ruas"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 67,
+        "karbohidrat_g": 6,
+        "lemak_g": 3,
+        "protein_g": 3.1,
+        "zat_besi_mg": 1.4
+      },
+      "allergens": [
+        "hati ayam"
+      ],
+      "original_id": "bubur-hati-ayam",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bumbu halus hingga harum.",
+            "Tambahkan hati ayam, masak hingga berubah warna.",
+            "Masukkan bayam dan garam secukupnya, masak hingga matang.",
+            "Tambahkan nasi, lalu saring hingga teksturnya sesuai yang diinginkan."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    },
+    {
+      "id": "mpasi-pptx:bubur-udang-tahu",
+      "title": "Bubur Udang Tahu",
+      "age_stage": "6 bulan",
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi",
+              "amount": "60 gram"
+            },
+            {
+              "item": "udang giling",
+              "amount": "45 gram"
+            },
+            {
+              "item": "santan cair",
+              "amount": "30 ml"
+            },
+            {
+              "item": "tahu, potong kecil-kecil",
+              "amount": "20 gram"
+            },
+            {
+              "item": "tomat, potong kecil-kecil",
+              "amount": "10 gram"
+            },
+            {
+              "item": "kemangi secukupnya",
+              "amount": null
+            },
+            {
+              "item": "daun salam secukupnya",
+              "amount": null
+            },
+            {
+              "item": "jeruk nipis secukupnya",
+              "amount": null
+            },
+            {
+              "item": "garam secukupnya (jika diperlukan)",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "1 butir"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "1/2 siung"
+            },
+            {
+              "item": "kemiri",
+              "amount": "1 butir"
+            },
+            {
+              "item": "jahe",
+              "amount": "1/3 cm"
+            },
+            {
+              "item": "gula secukupnya (jika diperlukan)",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 67,
+        "karbohidrat_g": 6.1,
+        "lemak_g": 3.2,
+        "protein_g": 4.3,
+        "zat_besi_mg": 1.3,
+        "seng_mg": 0.5
+      },
+      "allergens": [
+        "udang",
+        "tahu (kedelai)"
+      ],
+      "original_id": "bubur-udang-tahu",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Lumuri udang dengan air jeruk nipis dan garam, lalu diamkan sekitar 15 menit.",
+            "Campur udang, tahu, tomat, kemangi, santan cair, dan bumbu halus hingga merata.",
+            "Bungkus dengan daun pisang, masukkan juga daun salam.",
+            "Kukus hingga matang.",
+            "Ketika akan dicampur dengan nasi, ambil kemangi dan daun salamnya. Lalu saring hingga teksturnya sesuai yang diinginkan."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    },
+    {
+      "id": "mpasi-pptx:bubur-daging-sapi",
+      "title": "Bubur Daging Sapi",
+      "age_stage": "6 bulan",
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi",
+              "amount": "60 gram"
+            },
+            {
+              "item": "daging sapi giling",
+              "amount": "50 gram"
+            },
+            {
+              "item": "bayam, rebus matang, iris kecil-kecil",
+              "amount": "15 gram"
+            },
+            {
+              "item": "minyak kelapa",
+              "amount": "7,5 ml"
+            },
+            {
+              "item": "garam secukupnya (jika diperlukan)",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "1 butir"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "1 siung"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 80,
+        "karbohidrat_g": 6,
+        "lemak_g": 4.3,
+        "protein_g": 4.3,
+        "zat_besi_mg": 0.7,
+        "seng_mg": 0.8
+      },
+      "allergens": [],
+      "original_id": "bubur-daging-sapi",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Kukus daging sapi giling yang sudah dicampur bumbu halus di dalam wadah tahan panas hingga matang.",
+            "Tambahkan bayam.",
+            "Masukkan minyak kelapa dan garam secukupnya.",
+            "Tambahkan nasi, lalu saring hingga teksturnya sesuai yang diinginkan."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    },
+    {
+      "id": "mpasi-pptx:bubur-ayam-mentega",
+      "title": "Bubur Ayam Mentega",
+      "age_stage": "6 bulan",
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "beras",
+              "amount": "30 gram"
+            },
+            {
+              "item": "daging ayam giling",
+              "amount": "30 gram"
+            },
+            {
+              "item": "telur",
+              "amount": "1 butir"
+            },
+            {
+              "item": "wortel parut",
+              "amount": "1 1/2 sdm"
+            },
+            {
+              "item": "air kaldu",
+              "amount": "300 ml"
+            },
+            {
+              "item": "mentega, untuk menumis",
+              "amount": "1 1/2 sdm"
+            },
+            {
+              "item": "garam secukupnya (jika diperlukan)",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "1 butir"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "1 siung"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 92,
+        "karbohidrat_g": 7.9,
+        "lemak_g": 4.9,
+        "protein_g": 4.1,
+        "zat_besi_mg": 0.4,
+        "seng_mg": 0.3
+      },
+      "allergens": [
+        "telur",
+        "mentega (susu)"
+      ],
+      "original_id": "bubur-ayam-mentega",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bumbu halus dengan mentega hingga harum.",
+            "Masukkan daging ayam giling, aduk sampai berubah warna.",
+            "Masukkan beras dan air kaldu ke dalam panci, tambahkan tumisan ayam, wortel parut, dan garam secukupnya.",
+            "Masak sambil diaduk hingga beras menjadi bubur.",
+            "Masukkan telur kocok, aduk rata. Angkat bubur, lalu saring."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    },
+    {
+      "id": "mpasi-pptx:pure-avokad-jeruk",
+      "title": "Pure Avokad Jeruk",
+      "age_stage": "6 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "avokad",
+              "amount": "30 gram"
+            },
+            {
+              "item": "jeruk peras",
+              "amount": "20 gram"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 58,
+        "karbohidrat_g": 4.9,
+        "lemak_g": 4.4,
+        "protein_g": 0.8,
+        "zat_besi_mg": 0.2,
+        "seng_mg": 0.2
+      },
+      "allergens": [],
+      "original_id": "pure-avokad-jeruk",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Campur avokad dengan jeruk peras, lalu haluskan."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    },
+    {
+      "id": "mpasi-pptx:pure-pisang-apel",
+      "title": "Pure Pisang Apel",
+      "age_stage": "6 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "apel",
+              "amount": "50 gram"
+            },
+            {
+              "item": "pisang",
+              "amount": "50 gram"
+            },
+            {
+              "item": "yoghurt",
+              "amount": "2 sdm"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 80,
+        "karbohidrat_g": 6.1,
+        "lemak_g": 1,
+        "protein_g": 1.4,
+        "zat_besi_mg": 0.2,
+        "seng_mg": 0.2
+      },
+      "allergens": [
+        "yoghurt (susu)"
+      ],
+      "original_id": "pure-pisang-apel",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Haluskan apel (jika diperlukan, boleh dikukus terlebih dahulu).",
+            "Campur dengan pisang yang sudah dihaluskan.",
+            "Tambahkan yoghurt, lalu aduk rata."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    },
+    {
+      "id": "mpasi-pptx:kentang-dori-saus-keju",
+      "title": "Kentang Dori Saus Keju",
+      "age_stage": "9 bulan",
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "ikan dori",
+              "amount": "50 gram"
+            },
+            {
+              "item": "kentang",
+              "amount": "150 gram"
+            },
+            {
+              "item": "keju parut",
+              "amount": "40 gram"
+            },
+            {
+              "item": "tepung roti secukupnya",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Saus Keju",
+          "items": [
+            {
+              "item": "susu UHT full cream",
+              "amount": "40 ml"
+            },
+            {
+              "item": "air untuk merebus",
+              "amount": "50 ml"
+            },
+            {
+              "item": "kuning telur",
+              "amount": "1 butir"
+            },
+            {
+              "item": "tepung maizena",
+              "amount": "2 sdm"
+            },
+            {
+              "item": "keju parut secukupnya",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 110,
+        "karbohidrat_g": 11,
+        "lemak_g": 5.6,
+        "protein_g": 7.1,
+        "zat_besi_mg": 0.5,
+        "seng_mg": 0.7
+      },
+      "allergens": [
+        "ikan (dori)",
+        "keju (susu)",
+        "telur",
+        "gluten (tepung roti)"
+      ],
+      "original_id": "kentang-dori-saus-keju",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "SAUS KEJU: Panaskan susu dengan api kecil, masukkan parutan keju, aduk sampai keju mencair dan susu mendidih.",
+            "Aduk maizena, kuning telur, dan air sampai tercampur rata.",
+            "Masukkan ke dalam campuran susu dan keju sedikit demi sedikit sambil diaduk terus menggunakan api kecil.",
+            "Angkat dari kompor.",
+            "KENTANG DORI: Kukus kentang dan ikan dori secara terpisah, lalu haluskan.",
+            "Campur kentang, ikan dori, dan keju, lalu bentuk adonan menjadi bulatan.",
+            "Gulirkan ke tepung roti hingga permukaannya tertutup dengan rata, lalu goreng.",
+            "Sajikan dengan saus keju."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    },
+    {
+      "id": "mpasi-pptx:tim-kuning-semur-hati-ayam",
+      "title": "Tim Kuning Semur Hati Ayam",
+      "age_stage": "9 bulan",
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": "Nasi Tim Kuning",
+          "items": [
+            {
+              "item": "beras",
+              "amount": "60 gram"
+            },
+            {
+              "item": "air",
+              "amount": "200 ml"
+            },
+            {
+              "item": "wortel parut",
+              "amount": "1 1/2 sdm"
+            },
+            {
+              "item": "tempe, potong kecil-kecil",
+              "amount": "20 gram"
+            },
+            {
+              "item": "kunyit bubuk",
+              "amount": "1/2 sdt"
+            },
+            {
+              "item": "daun salam",
+              "amount": "2 lembar"
+            },
+            {
+              "item": "bawang merah, geprek",
+              "amount": "1 siung"
+            },
+            {
+              "item": "daun bawang, potong kecil-kecil",
+              "amount": "1 batang"
+            },
+            {
+              "item": "seledri, potong kecil-kecil",
+              "amount": "1 batang"
+            }
+          ]
+        },
+        {
+          "group": "Semur Hati",
+          "items": [
+            {
+              "item": "hati ayam, potong kecil-kecil",
+              "amount": "40 gram"
+            },
+            {
+              "item": "bawang putih, haluskan",
+              "amount": "1 siung"
+            },
+            {
+              "item": "tomat, haluskan",
+              "amount": "1/3"
+            },
+            {
+              "item": "kunyit bubuk",
+              "amount": "1/4 sdt"
+            },
+            {
+              "item": "kecap manis",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "minyak jagung, untuk menumis",
+              "amount": "10 ml"
+            },
+            {
+              "item": "garam dan gula secukupnya (jika diperlukan)",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 109,
+        "karbohidrat_g": 11.5,
+        "lemak_g": 4.5,
+        "protein_g": 5.7,
+        "zat_besi_mg": 1.1,
+        "seng_mg": 1
+      },
+      "allergens": [
+        "hati ayam",
+        "tempe (kedelai)"
+      ],
+      "original_id": "tim-kuning-semur-hati-ayam",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "NASI TIM KUNING: Rebus beras, tambahkan daun salam, bawang merah, daun bawang, dan seledri sampai setengah matang.",
+            "Masukkan wortel dan tempe, beri kunyit bubuk. Aduk rata.",
+            "Masukkan nasi ke dalam wadah tahan panas, lalu masak kembali sampai menjadi nasi tim.",
+            "SEMUR HATI: Tumis bawang putih dan tomat sampai harum. Masukkan kunyit bubuk, garam, dan gula secukupnya.",
+            "Masukkan hati ayam dan tambahkan sedikit air agar tidak terlalu kering. Terakhir bubuhi kecap manis. Masak hingga matang.",
+            "Angkat dan sajikan dengan nasi tim."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    },
+    {
+      "id": "mpasi-pptx:tim-semur-sapi-tempe",
+      "title": "Tim Semur Sapi Tempe",
+      "age_stage": "9 bulan",
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi",
+              "amount": "75 gram"
+            },
+            {
+              "item": "daging sapi, potong dadu kecil-kecil",
+              "amount": "60 gram"
+            },
+            {
+              "item": "tempe, potong kecil-kecil",
+              "amount": "20 gram"
+            },
+            {
+              "item": "minyak jagung",
+              "amount": "7,5 cc"
+            },
+            {
+              "item": "tomat",
+              "amount": "20 gram"
+            },
+            {
+              "item": "jeruk nipis",
+              "amount": "1/2"
+            },
+            {
+              "item": "kecap manis",
+              "amount": "1/4 sdt"
+            },
+            {
+              "item": "garam",
+              "amount": "1/4 sdt"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "1 butir"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "1/2 siung"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 108,
+        "karbohidrat_g": 8.9,
+        "lemak_g": 4.1,
+        "protein_g": 7.6,
+        "zat_besi_mg": 1.5,
+        "seng_mg": 1.7
+      },
+      "allergens": [
+        "tempe (kedelai)"
+      ],
+      "original_id": "tim-semur-sapi-tempe",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Lumuri potongan dadu sapi dengan perasan jeruk nipis, diamkan selama 10 menit, lalu lumuri dengan bumbu halus.",
+            "Beri kecap manis, garam, dan irisan tomat.",
+            "Masukkan tempe, lalu tumis hingga matang.",
+            "Masukkan nasi ke dalam wadah tahan panas, tambahkan tumisan daging dan sedikit air serta minyak jagung, lalu kukus hingga menjadi nasi tim."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    },
+    {
+      "id": "mpasi-pptx:nasi-tim-ayam-jamur",
+      "title": "Nasi Tim Ayam Jamur",
+      "age_stage": "9 bulan",
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi",
+              "amount": "120 gram"
+            },
+            {
+              "item": "daging ayam, potong dadu",
+              "amount": "60 gram"
+            },
+            {
+              "item": "jamur merang, iris tipis",
+              "amount": "20 gram"
+            },
+            {
+              "item": "wortel parut",
+              "amount": "1 1/2 sdm"
+            },
+            {
+              "item": "minyak wijen",
+              "amount": "1/2 sdt"
+            },
+            {
+              "item": "kecap manis",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "kecap asin",
+              "amount": "1/2 sdt"
+            },
+            {
+              "item": "kaldu ayam",
+              "amount": "100 ml"
+            },
+            {
+              "item": "minyak kelapa sawit, untuk menumis",
+              "amount": "10 ml"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "1 buah"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "1 siung"
+            },
+            {
+              "item": "bawang bombai, iris tipis",
+              "amount": "1/2"
+            },
+            {
+              "item": "jahe",
+              "amount": "1/2 cm"
+            },
+            {
+              "item": "merica secukupnya",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 113,
+        "karbohidrat_g": 10.1,
+        "lemak_g": 4.8,
+        "protein_g": 7.3,
+        "zat_besi_mg": 0.4,
+        "seng_mg": 0.4
+      },
+      "allergens": [
+        "jamur"
+      ],
+      "original_id": "nasi-tim-ayam-jamur",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bumbu halus hingga harum, masukkan daging ayam cincang, wortel, dan jamur.",
+            "Tambahkan minyak wijen, kecap manis, dan kecap asin, lalu masukkan kaldu.",
+            "Aduk rata, masak hingga kuah mengental dan matang.",
+            "Masukkan tumisan ke dalam wadah tahan panas, tumpuk dengan nasi di atasnya, kukus hingga teksturnya sesuai yang diinginkan."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    },
+    {
+      "id": "mpasi-pptx:tim-mie-ayam",
+      "title": "Tim Mie Ayam",
+      "age_stage": "9 bulan",
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "mie telur, rebus hingga matang",
+              "amount": "150 gram"
+            },
+            {
+              "item": "daging ayam cincang",
+              "amount": "75 gram"
+            },
+            {
+              "item": "telur ayam, kocok lepas",
+              "amount": "1 butir"
+            },
+            {
+              "item": "kaldu ayam",
+              "amount": "200 ml"
+            },
+            {
+              "item": "kecap asin",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "kecap manis",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "sawi, iris kecil",
+              "amount": "30 gram"
+            },
+            {
+              "item": "minyak canola",
+              "amount": "10 ml"
+            },
+            {
+              "item": "daun seledri, iris halus",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang merah",
+              "amount": "1 buah"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "1 siung"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 150,
+        "karbohidrat_g": 15,
+        "lemak_g": 6.8,
+        "protein_g": 6.5,
+        "zat_besi_mg": 0.7,
+        "seng_mg": 0.8
+      },
+      "allergens": [
+        "telur",
+        "gluten (mie telur)"
+      ],
+      "original_id": "tim-mie-ayam",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Campurkan mie telur yang sudah matang dengan bumbu halus, kecap asin, kecap manis, telur ayam kocok, kaldu ayam, dan daging ayam cincang. Aduk hingga tercampur rata. Tambahkan minyak canola.",
+            "Masukkan campuran mie ke dalam wadah tahan panas, lalu kukus hingga kaldu terserap mie.",
+            "Tambahkan irisan seledri dan sawi, lalu kukus kembali hingga matang."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    },
+    {
+      "id": "mpasi-pptx:nasi-goreng-udang",
+      "title": "Nasi Goreng Udang",
+      "age_stage": "12 bulan",
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "nasi",
+              "amount": "150 gram"
+            },
+            {
+              "item": "udang, buang kulitnya",
+              "amount": "100 gram"
+            },
+            {
+              "item": "tepung maizena",
+              "amount": "1/2 sdt"
+            },
+            {
+              "item": "telur, kocok",
+              "amount": "1 butir"
+            },
+            {
+              "item": "kacang polong",
+              "amount": "30 gram"
+            },
+            {
+              "item": "minyak jagung, untuk menumis",
+              "amount": "15 ml"
+            },
+            {
+              "item": "daun bawang, iris tipis",
+              "amount": null
+            },
+            {
+              "item": "garam secukupnya",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang putih",
+              "amount": "2 siung"
+            },
+            {
+              "item": "bawang merah",
+              "amount": "1 butir"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 183,
+        "karbohidrat_g": 17,
+        "lemak_g": 7.6,
+        "protein_g": 11.2,
+        "zat_besi_mg": 1.7,
+        "seng_mg": 1.1
+      },
+      "allergens": [
+        "udang",
+        "telur"
+      ],
+      "original_id": "nasi-goreng-udang",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Lumuri udang dengan garam dan tepung maizena, diamkan sekitar 15 menit.",
+            "Goreng udang hingga matang, masukkan telur dan kacang polong, lalu diorak-arik. Sisihkan.",
+            "Tumis bumbu halus hingga harum, masukkan daun bawang.",
+            "Tambahkan nasi dan garam secukupnya, aduk rata.",
+            "Masukkan udang, orak-arik telur, dan kacang polong, lalu aduk hingga tercampur rata."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    },
+    {
+      "id": "mpasi-pptx:nasi-gurih-cah-bakso-ikan-brokoli",
+      "title": "Nasi Gurih Cah Bakso Ikan Brokoli",
+      "age_stage": "12 bulan",
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "beras",
+              "amount": "100 gram"
+            },
+            {
+              "item": "santan cair",
+              "amount": "100 ml"
+            },
+            {
+              "item": "daun salam",
+              "amount": "1 lembar"
+            },
+            {
+              "item": "serai, memarkan",
+              "amount": "1 batang"
+            }
+          ]
+        },
+        {
+          "group": "Tumisan",
+          "items": [
+            {
+              "item": "bakso ikan, potong kecil",
+              "amount": "150 gram"
+            },
+            {
+              "item": "wortel, potong kecil",
+              "amount": "1 1/2 sdm"
+            },
+            {
+              "item": "brokoli, potong kecil",
+              "amount": "30 gram"
+            },
+            {
+              "item": "tepung maizena",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "saus tiram",
+              "amount": "1/2 sdm"
+            },
+            {
+              "item": "bawang putih, iris tipis",
+              "amount": "1 siung"
+            },
+            {
+              "item": "bawang merah, iris tipis",
+              "amount": "1 buah"
+            },
+            {
+              "item": "daun bawang, iris kasar",
+              "amount": "1 batang"
+            },
+            {
+              "item": "minyak kedelai, untuk menumis",
+              "amount": "2 sdm"
+            },
+            {
+              "item": "merica secukupnya",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 190,
+        "karbohidrat_g": 19.8,
+        "lemak_g": 8.6,
+        "protein_g": 9.4,
+        "zat_besi_mg": 0.8,
+        "seng_mg": 0.6
+      },
+      "allergens": [
+        "ikan (bakso ikan)",
+        "saus tiram (kerang)"
+      ],
+      "original_id": "nasi-gurih-cah-bakso-ikan-brokoli",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Masak beras, daun salam, dan serai dengan santan hingga matang.",
+            "Tumis bawang putih dan bawang merah hingga harum, lalu masukkan bakso ikan, daun bawang, dan merica hingga harum.",
+            "Masukkan brokoli, wortel, tepung maizena, dan saus tiram. Masak hingga matang.",
+            "Sajikan dengan nasi gurih."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    },
+    {
+      "id": "mpasi-pptx:mie-goreng-telur-puyuh",
+      "title": "Mie Goreng Telur Puyuh",
+      "age_stage": "12 bulan",
+      "servings": 3,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "mie telur, rebus hingga lunak",
+              "amount": "300 gram"
+            },
+            {
+              "item": "telur puyuh, rebus",
+              "amount": "10 butir"
+            },
+            {
+              "item": "udang kupas",
+              "amount": "50 gram"
+            },
+            {
+              "item": "caisim, iris",
+              "amount": "1 batang"
+            },
+            {
+              "item": "wortel, potongan kecil",
+              "amount": "1 1/2 sdm"
+            },
+            {
+              "item": "kecap manis",
+              "amount": "3 sdm"
+            },
+            {
+              "item": "kecap asin",
+              "amount": "1 1/2 sdm"
+            },
+            {
+              "item": "minyak jagung, untuk menumis",
+              "amount": "15 ml"
+            },
+            {
+              "item": "saus tiram secukupnya",
+              "amount": null
+            },
+            {
+              "item": "garam secukupnya",
+              "amount": null
+            },
+            {
+              "item": "merica secukupnya",
+              "amount": null
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "item": "bawang putih",
+              "amount": "3 siung"
+            },
+            {
+              "item": "bawang merah",
+              "amount": "2 buah"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 240,
+        "karbohidrat_g": 25.4,
+        "lemak_g": 10.1,
+        "protein_g": 12.2,
+        "zat_besi_mg": 2.5,
+        "seng_mg": 1.5
+      },
+      "allergens": [
+        "udang",
+        "telur (puyuh)",
+        "gluten (mie telur)",
+        "saus tiram (kerang)"
+      ],
+      "original_id": "mie-goreng-telur-puyuh",
+      "source_id": "mpasi-pptx",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bumbu halus hingga harum, lalu masukkan udang, caisim, dan wortel.",
+            "Masukkan garam dan merica, jika terlalu kering boleh ditambahkan air.",
+            "Masukkan mie, dan tambahkan kecap asin, kecap manis, dan saus tiram.",
+            "Aduk hingga tercampur rata.",
+            "Sajikan dengan telur puyuh rebus."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null
+    }
+  ]
+}

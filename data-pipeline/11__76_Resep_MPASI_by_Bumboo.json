@@ -1,0 +1,331 @@
+{
+  "recipes": [
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "telur",
+        "susu"
+      ],
+      "id": "puding-telur-susu",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "1 butir",
+              "item": "Kuning Telur"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "Santan"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "BUMBOO Keju Bubuk"
+            },
+            {
+              "amount": "125 ml",
+              "item": "Susu UHT"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Siapkan mangkuk bersih tahan panas.",
+        "Pecahkan telur, masukkan ke mangkuk.",
+        "Tambahkan santan dan susu UHT.",
+        "Aduk perlahan hingga tercampur.",
+        "Tambahkan BUMBOO Keju Bubuk.",
+        "Aduk lagi hingga semua bahan tercampur rata.",
+        "Kukus adonan hingga matang."
+      ],
+      "title": "Puding Telur Susu",
+      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi."
+    },
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "ikan"
+      ],
+      "id": "bubur-ikan-jagung",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "25 gr",
+              "item": "Bubur Nasi"
+            },
+            {
+              "amount": "1 siung",
+              "item": "Bawang Putih"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "Wortel"
+            },
+            {
+              "amount": "25 gr",
+              "item": "Jagung Pipil"
+            },
+            {
+              "amount": "60 gr",
+              "item": "Daging Ikan"
+            },
+            {
+              "amount": "1 sdt",
+              "item": "Bumboo Olive Oil (EVOO)"
+            },
+            {
+              "amount": "1/2 sdt",
+              "item": "Bumboo Teri Bubuk"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Siapkan rice cooker atau panci.",
+        "Cuci beras hingga bersih.",
+        "Masukkan beras yang sudah dicuci ke rice cooker atau panci, tambahkan air, BUMBOO Teri Bubuk, BUMBOO Olive Oil (EVOO), ikan, jagung, bawang putih dan parutan wortel.",
+        "Aduk merata, masak dengan api sedang hingga nasi menjadi bubur."
+      ],
+      "title": "Bubur Ikan Jagung",
+      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi."
+    },
+    {
+      "age_stage": "9-11 bulan",
+      "allergens": [
+        "ikan",
+        "telur",
+        "susu",
+        "kedelai"
+      ],
+      "id": "tim-telur-teri",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "100 gr",
+              "item": "Nasi"
+            },
+            {
+              "amount": "20 gr",
+              "item": "Teri Basah"
+            },
+            {
+              "amount": "80 ml",
+              "item": "Santan"
+            },
+            {
+              "amount": "1 butir",
+              "item": "Telur"
+            },
+            {
+              "amount": "1 buah",
+              "item": "Tahu Jepang"
+            },
+            {
+              "amount": "1 buah",
+              "item": "Tomat, potong dadu"
+            },
+            {
+              "amount": "2 sdt",
+              "item": "BUMBOO Kaldu Ayam"
+            },
+            {
+              "amount": "2 sdt",
+              "item": "BUMBOO Ati Ayam Bubuk"
+            },
+            {
+              "amount": "2 sdt",
+              "item": "BUMBOO Keju Bubuk"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 2,
+      "steps": [
+        "Campurkan teri, santan, telur, tahu jepang, dan tomat.",
+        "Tambahkan BUMBOO Kaldu Ayam, BUMBOO Ati Ayam Bubuk, dan BUMBOO Keju Bubuk ke adonan teri.",
+        "Aduk rata.",
+        "Pindahkan adonan ke wadah tahan panas, kukus 30 menit.",
+        "Hidangkan bersama nasi dengan tekstur sesuai selera."
+      ],
+      "title": "Tim Telur Teri",
+      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi."
+    },
+    {
+      "age_stage": "12-23 bulan",
+      "allergens": [
+        "susu"
+      ],
+      "id": "sup-cream-ayam-jagung",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "100 gr",
+              "item": "Daging Dada Ayam"
+            },
+            {
+              "amount": "1 buah",
+              "item": "Jagung, dipipil"
+            },
+            {
+              "amount": "1/2 sdm",
+              "item": "Bawang Bombay"
+            },
+            {
+              "amount": "2 sdm",
+              "item": "Wortel Parut"
+            },
+            {
+              "amount": "150 ml",
+              "item": "Susu UHT"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "BUMBOO Olive Oil (EVOO)"
+            },
+            {
+              "amount": "2 sdt",
+              "item": "BUMBOO Kaldu Ayam"
+            },
+            {
+              "amount": "2 sdt",
+              "item": "BUMBOO Ati Ayam Bubuk"
+            },
+            {
+              "amount": "1 sdt",
+              "item": "BUMBOO Keju Bubuk"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 2,
+      "steps": [
+        "Masukkan air untuk merebus dada ayam. Campurkan BUMBOO Kaldu Ayam, BUMBOO Ati Ayam. Tunggu 5 menit, lalu tiriskan dada ayam.",
+        "Pakai kembali air rebusan dada ayam untuk merebus jagung pipil.",
+        "Pisahkan sebagian jagung pipil untuk diblender dengan air rebusan dada ayam.",
+        "Potong dada ayam kecil-kecil.",
+        "Panaskan wajan dengan api kecil, masukkan BUMBOO Olive Oil (EVOO), bawang bombay, wortel, tumis sebentar sampai harum.",
+        "Masukkan jagung pipil yang sudah diblender.",
+        "Campurkan kembali BUMBOO Kaldu Ayam, BUMBOO Ati Ayam, dan BUMBOO Keju Bubuk, dada ayam, jagung pipil utuh yang tersisa, dan susu UHT.",
+        "Aduk merata sampai mengental.",
+        "Sup Cream Ayam Jagung siap dihidangkan."
+      ],
+      "title": "Sup Cream Ayam Jagung",
+      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi."
+    },
+    {
+      "age_stage": "2-5 tahun",
+      "allergens": [
+        "telur",
+        "susu",
+        "gandum"
+      ],
+      "id": "creamy-meatballs",
+      "ingredient_groups": [
+        {
+          "group": "Daging Meatballs",
+          "items": [
+            {
+              "amount": "100 gr",
+              "item": "Daging Sapi Giling"
+            },
+            {
+              "amount": "10 gr",
+              "item": "Bawang Bombay"
+            },
+            {
+              "amount": "1 pcs",
+              "item": "Telur Ayam Kampung"
+            },
+            {
+              "amount": "2 sdm",
+              "item": "Tepung Roti"
+            },
+            {
+              "amount": "50 ml",
+              "item": "Susu UHT"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "BUMBOO Keju Bubuk"
+            }
+          ]
+        },
+        {
+          "group": "Mashed Potato",
+          "items": [
+            {
+              "amount": "1 pcs",
+              "item": "Kentang"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "Susu UHT"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "BUMBOO Keju Bubuk"
+            }
+          ]
+        },
+        {
+          "group": "Saus",
+          "items": [
+            {
+              "amount": "2 sdm",
+              "item": "Tepung Terigu"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "BUMBOO Kaldu Sapi"
+            },
+            {
+              "amount": "1 sdt",
+              "item": "Bawang Putih Bubuk"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "Susu UHT"
+            }
+          ]
+        },
+        {
+          "group": "Lainnya",
+          "items": [
+            {
+              "amount": "2 sdm",
+              "item": "BUMBOO Canola Oil"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 2,
+      "steps": [
+        "Tumis bawang bombay dengan BUMBOO Canola Oil di wajan hingga berubah warna. Sisihkan.",
+        "Siapkan mangkuk, masukkan daging sapi, telur, bawang bombay yang sudah ditumis, BUMBOO Keju Bubuk, tepung roti, dan susu UHT. Aduk rata, sisihkan.",
+        "Diamkan adonan daging di dalam kulkas sekitar 15 menit - 1 jam agar mudah dibentuk. Setelah adonan memadat, buat adonan daging menjadi bentuk bulat-bulat.",
+        "Panaskan wajan dengan api kecil. Masukkan BUMBOO Canola Oil, goreng adonan daging yang sudah dibentuk sampai matang merata. Tiriskan.",
+        "Mashed Potato: Panaskan wajan dengan api kecil. Masukkan kentang kukus yang sudah dilumatkan, susu UHT, dan BUMBOO Keju Bubuk. Aduk perlahan hingga rata lalu sisihkan.",
+        "Saus: Siapkan wajan dengan api kecil. Masukkan tepung terigu, aduk dengan cepat. Tuang air, tambahkan BUMBOO Kaldu Sapi, bawang putih bubuk, dan susu UHT. Aduk kembali.",
+        "Siapkan piring berisi mashed potato, daging meatballs, dan saus. Creamy Meatballs siap dihidangkan."
+      ],
+      "title": "Creamy Meatballs",
+      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi."
+    }
+  ],
+  "source": "11. 76 Resep MPASI by Bumboo.pdf",
+  "source_id": "bumboo-76-resep"
+}

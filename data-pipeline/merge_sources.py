@@ -168,8 +168,6 @@ def main():
         json.dump(combined, f, ensure_ascii=False, indent=2)
 
     print(f"\nWrote {OUTPUT_FILE.name}: {len(combined_recipes)} recipes from {len(all_sources)} source(s)")
-    print("Next step: copy this file into the app —")
-    print("  cp combined_recipes.json ../src/data/combined_recipes.json")
 
 
 if __name__ == "__main__":

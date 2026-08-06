@@ -1,0 +1,164 @@
+{
+  "recipes": [
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "Udang"
+      ],
+      "id": "menu-udang-tahu-santan",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "20 gram",
+              "item": "Beras"
+            },
+            {
+              "amount": "4 buah",
+              "item": "Udang ukuran sedang"
+            },
+            {
+              "amount": "satu potong sedang",
+              "item": "Tahu"
+            },
+            {
+              "amount": "1 buah",
+              "item": "Buncis"
+            },
+            {
+              "amount": "30 ml",
+              "item": "Santan"
+            },
+            {
+              "amount": "1/2 sdt",
+              "item": "Minyak"
+            },
+            {
+              "amount": null,
+              "item": "Seledri"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu",
+          "items": [
+            {
+              "amount": "1 siung",
+              "item": "Bumtik"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 3,
+      "steps": [
+        "Bersihkan semua bahan2 yg akan dimasak, udang dimarinasi dengan jeruk untuk mengurangi amis, kemudian cuci kembali",
+        "Masak beras dipanci terpisah dengan air 500ml, api sedang",
+        "Tumis udang dengan bumtik, kemudian tambahkan air dan masukkan santan, buncis dan tahu",
+        "Setelah beras setengah matang masukkan udang yg sudah ditumis dengan santan",
+        "Tutup panci, tunggu air menyusut",
+        "Atur tekstur dan pisahkan menjadi 3 porsi"
+      ],
+      "title": "Menu Udang tahu santan"
+    },
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "Ikan"
+      ],
+      "id": "bubur-ikan-gabus",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "30 gram",
+              "item": "beras"
+            },
+            {
+              "amount": "45 gram",
+              "item": "ikan gabus"
+            },
+            {
+              "amount": "15 gram",
+              "item": "wortel cincang halus"
+            },
+            {
+              "amount": "145 ml",
+              "item": "kaldu homemade"
+            },
+            {
+              "amount": "1 sdt",
+              "item": "minyak"
+            },
+            {
+              "amount": null,
+              "item": "Irisan seledri"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "amount": null,
+              "item": "Bumtik bawang putih dan merah dihaluskan"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 3,
+      "steps": [
+        "Rebus beras dengan 300ml air..",
+        "Tumis ikan gabus dengan bumtik dan minyak",
+        "Masukkan kaldu dan ikan yg sudah ditumis beserta minyak nya ke dalam rebusan beras",
+        "Tambahkan wortel yg sudah dicincang",
+        "Masukkan irisan seledri",
+        "Aduk sampai lunak",
+        "Saring kasar, bagi 2 sampai 3 porsi"
+      ],
+      "title": "Bubur Ikan gabus"
+    },
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "Ayam"
+      ],
+      "id": "resep-kaldu-ayam",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": null,
+              "item": "Ayam dan tulang ayam (bisa masukin ceker)"
+            },
+            {
+              "amount": null,
+              "item": "Wortel potong besar"
+            },
+            {
+              "amount": null,
+              "item": "Bawang bombai"
+            },
+            {
+              "amount": "1000 ml",
+              "item": "Air"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Campurkan semua bahan",
+        "Masak sampai air tinggal 1/2 atau 3/4 Bun."
+      ],
+      "title": "Resep kaldu ayam"
+    }
+  ],
+  "source": "15. Sharing Menu MPASI 46.pdf",
+  "source_id": "sharing-menu-mpasi-46"
+}

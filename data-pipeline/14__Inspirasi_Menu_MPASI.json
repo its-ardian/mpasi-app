@@ -1,0 +1,878 @@
+{
+  "recipes": [
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "ASI/Susu"
+      ],
+      "id": "bubur-susu-dengan-asi-perah",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "50 gram",
+              "item": "tepung beras"
+            },
+            {
+              "amount": "60 cc",
+              "item": "ASI perah"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Larutkan tepung beras halus dengan air matang. Aduk sampai rata.",
+        "Panaskan dengan api kecil sambil diaduk sampai kental dan matang. Angkat dari api",
+        "Terus aduk bubur sampai panasnya berkurang dan tambahkan ASI perah. Sajikan."
+      ],
+      "title": "Bubur Susu dengan ASI Perah"
+    },
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "ASI/Susu"
+      ],
+      "id": "bubur-hati-ayam",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "30 gram",
+              "item": "beras"
+            },
+            {
+              "amount": "30 gram",
+              "item": "hati ayam"
+            },
+            {
+              "amount": "50 cc",
+              "item": "ASI perah"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "minyak zaitun"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "Daun bawang iris"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Masaklah beras hingga menjad bubur, angkat dan saring hingga halus. Sisihkan.",
+        "Tumis hati ayam dengan minyak zaitun bersama daun bawang sampai masak.",
+        "Saring dengan penyaring kawat. Sisihkan.",
+        "Campur rata bubur, hati ayam dengan ASI perah. Sajikan"
+      ],
+      "title": "Bubur Hati Ayam"
+    },
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "Kedelai"
+      ],
+      "id": "bubur-bobor",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "50 gram",
+              "item": "beras"
+            },
+            {
+              "amount": "30 gram",
+              "item": "tempe"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "margarin"
+            },
+            {
+              "amount": "30 gram",
+              "item": "bayam, petiki daunnya"
+            },
+            {
+              "amount": "½ gelas",
+              "item": "santan"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Halus",
+          "items": [
+            {
+              "amount": "secukupnya",
+              "item": "Bawang putih"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "Bawang merah"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "Kemiri"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "Ketumbar"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "Garam"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Masak beras sampai menjadi bubur. Sisihkan",
+        "Haluskan bawang merah, bawang putih, kemiri dan ketumbar. Tumis bumbu halus dengan margarin.",
+        "Rebus air, masukkan bumbu tumis, tempe dan bayam. Tambahkan garam secukupnya, kemudian tambahkan santan. Masak hingga matang.",
+        "Campur bubur dengan bobor (sayur dan tempe yang dibuat ditahap sebelumnya). Haluskam dengan penyaring kawat. Sajikan."
+      ],
+      "title": "Bubur Bobor"
+    },
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "Telur"
+      ],
+      "id": "bubur-bayam-telur-puyuh",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "50 gram",
+              "item": "beras"
+            },
+            {
+              "amount": "1 butir",
+              "item": "telur puyuh"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "minyak zaitun"
+            },
+            {
+              "amount": "30 gram",
+              "item": "bayam, petiki daunnya"
+            },
+            {
+              "amount": "30 gram",
+              "item": "daging sapi cincang"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Iris",
+          "items": [
+            {
+              "amount": "secukupnya",
+              "item": "Bawang merah iris"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "Bawang putih iris"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "Daun bawang iris"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Masukkan beras dan daging sapi, bawang merah, bawang putih ke dalam wadah tim. Tambahkan air, minyak zaitun, garam dan daun bawang.",
+        "Masukkan wadah tim ke dalam panci berisi air panas, tunggu hingga air habis.",
+        "Rebus bayam dan telur puyuh. Angkat.",
+        "Campur nasi tim, bayam dan telur puyuh, lalu saring hingga halus. Sajikan."
+      ],
+      "title": "Bubur Bayam Telur Puyuh"
+    },
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "Ikan",
+        "Kedelai"
+      ],
+      "id": "bubur-ikan-campur",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "20 gram",
+              "item": "beras"
+            },
+            {
+              "amount": "30 gram",
+              "item": "daging ikan kembung"
+            },
+            {
+              "amount": "30 gram",
+              "item": "tempe"
+            },
+            {
+              "amount": "20 gram",
+              "item": "bayam"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "minyak zaitun"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Iris",
+          "items": [
+            {
+              "amount": "secukupnya",
+              "item": "bawang putih iris"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "Daun bawang iris"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Campur beras, daging ikan, tempe, air dan minyak. Tim sampai lunak.",
+        "Masukkan sayur bayam, bawang putih dan daun bawang, lalu tim kembali sampai matang.",
+        "Haluskan bubur dengan blender atau saringan. Sajikan"
+      ],
+      "title": "Bubur Ikan Campur"
+    },
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "Telur"
+      ],
+      "id": "bubur-cah-hati-brokoli",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "50 gram",
+              "item": "beras"
+            },
+            {
+              "amount": "30 gram",
+              "item": "hati ayam"
+            },
+            {
+              "amount": "1 butir",
+              "item": "telur"
+            },
+            {
+              "amount": "30 gram",
+              "item": "brokoli, iris kecil sesuai kuntumnya"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "mentega"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Iris",
+          "items": [
+            {
+              "amount": "secukupnya",
+              "item": "Bawang putih iris"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "Bawang bombai iris"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Campurkan beras dan hati ayam serta air. Tim sampai lunak.",
+        "Masukkan brokoli, bawang putih dan bawang bombai, lalu tim sampai matang",
+        "Goreng telur dengan mentega",
+        "Campurkan telur dengan nasi tim, lalu haluskan dengan blender atau saringan. Sajikan."
+      ],
+      "title": "Bubur Cah Hati Brokoli"
+    },
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [],
+      "id": "sup-ayam",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "20 gram",
+              "item": "beras"
+            },
+            {
+              "amount": "15 gram",
+              "item": "wortel, potong dadu"
+            },
+            {
+              "amount": "15 gram",
+              "item": "kentang, potong dadu"
+            },
+            {
+              "amount": "30 gram",
+              "item": "dada ayam, potong dadu"
+            },
+            {
+              "amount": "2 sdt",
+              "item": "minyak zaitun"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Iris",
+          "items": [
+            {
+              "amount": "secukupnya",
+              "item": "Seledri iris"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "Daun bawang iris"
+            },
+            {
+              "amount": "secukupnya",
+              "item": "Bawang bombai iris"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Tumis bawang bombai, daun bawang dan seledri dengan minyak zaitun. Masukkan dada ayam, tambahkan air secukupnya.",
+        "Setelah ayam matang, masukkan wortel dan kentang. Masak hingga matang.",
+        "Tim beras hingga matang.",
+        "Campurkan nasi tim dengan sup ayam. Haluskan menggunakan penyaring kawat atau blender. Sajikan."
+      ],
+      "title": "Sup Ayam"
+    },
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "ASI/Susu"
+      ],
+      "id": "puree-avokad",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "¼ buah",
+              "item": "avokad"
+            },
+            {
+              "amount": "¼ cangkir (50 cc)",
+              "item": "ASI perah"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Keruk daging buah avokad.",
+        "Campurkan daging avokad dengan ASI perah.",
+        "Haluskan dan sajikan."
+      ],
+      "title": "Puree Avokad",
+      "source_notes": "Sumber menandai resep ini sebagai 'Selingan' (kategori camilan), bukan tahap usia. Dikategorikan ulang ke '6-8 bulan' berdasarkan posisinya di sumber (tepat setelah bagian resep 6-8 bulan)."
+    },
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "ASI/Susu"
+      ],
+      "id": "puree-labu-ayam-bayam",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "50 gram",
+              "item": "labu kuning"
+            },
+            {
+              "amount": "50 gram",
+              "item": "daging ayam"
+            },
+            {
+              "amount": "25 gram",
+              "item": "bayam"
+            },
+            {
+              "amount": "50 cc",
+              "item": "ASI perah"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Rebus labu kuning dan daging ayam yang sudah dibersihkan sampai matang.",
+        "Tambahkan bayam, rebus sampai lunak.",
+        "Tiriskan ayam, labu dan bayam.",
+        "Haluskan dan tambahkan ASI perah. Sajikan,"
+      ],
+      "title": "Puree Labu Ayam Bayam",
+      "source_notes": "Sumber menandai resep ini sebagai 'Selingan' (kategori camilan), bukan tahap usia. Dikategorikan ulang ke '6-8 bulan' berdasarkan posisinya di sumber (tepat setelah bagian resep 6-8 bulan)."
+    },
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "ASI/Susu"
+      ],
+      "id": "puree-pepaya-pisang",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "25 gram",
+              "item": "pepaya"
+            },
+            {
+              "amount": "50 gram",
+              "item": "pisang"
+            },
+            {
+              "amount": "20 ml",
+              "item": "ASI perah"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Keruk daging buah pepaya, campurkan dengan pisang.",
+        "Haluskan pepaya dan pisang, campur dengan ASI perah. Sajikan."
+      ],
+      "title": "Puree Pepaya Pisang",
+      "source_notes": "Sumber menandai resep ini sebagai 'Selingan' (kategori camilan), bukan tahap usia. Dikategorikan ulang ke '6-8 bulan' berdasarkan posisinya di sumber (tepat setelah bagian resep 6-8 bulan)."
+    },
+    {
+      "age_stage": "6-8 bulan",
+      "allergens": [
+        "ASI/Susu"
+      ],
+      "id": "puree-pepaya-mangga",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "50 gram",
+              "item": "pepaya"
+            },
+            {
+              "amount": "50 gram",
+              "item": "mangga"
+            },
+            {
+              "amount": "50 ml",
+              "item": "ASI perah"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Keruk daging buah pepaya dan mangga",
+        "Haluskan daging buah dan campur dengan ASI perah. Sajikan."
+      ],
+      "title": "Puree Pepaya Mangga",
+      "source_notes": "Sumber menandai resep ini sebagai 'Selingan' (kategori camilan), bukan tahap usia. Dikategorikan ulang ke '6-8 bulan' berdasarkan posisinya di sumber (tepat setelah bagian resep 6-8 bulan)."
+    },
+    {
+      "age_stage": "9-11 bulan",
+      "allergens": [],
+      "id": "nasi-tim-campur",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "20 gram",
+              "item": "beras merah"
+            },
+            {
+              "amount": "600 cc",
+              "item": "air"
+            },
+            {
+              "amount": "25 gram",
+              "item": "daging ayam giling"
+            },
+            {
+              "amount": "15 gram",
+              "item": "hati ayam"
+            },
+            {
+              "amount": "15 gram",
+              "item": "wortel iris"
+            },
+            {
+              "amount": "25 gram",
+              "item": "brokoli iris menurut kuntumnya"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Iris",
+          "items": [
+            {
+              "amount": "½ sdt",
+              "item": "bawang putih cincang"
+            },
+            {
+              "amount": "1 sdt",
+              "item": "daun bawang iris"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Masak beras merah dengan air hingga lunak",
+        "Masukkan ayam, hati ayam, wortel dan brokoli sampai matang.",
+        "Lalu pindahkan ke dalam panci tim, masukkan daun bawang iris. Masak hingga matang.",
+        "Saring dan sajikan."
+      ],
+      "title": "Nasi Tim Campur"
+    },
+    {
+      "age_stage": "9-11 bulan",
+      "allergens": [],
+      "id": "nasi-tim-beras-merah",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "20 gram",
+              "item": "beras merah"
+            },
+            {
+              "amount": "600 cc",
+              "item": "air"
+            },
+            {
+              "amount": "25 gram",
+              "item": "daging sapi cincang"
+            },
+            {
+              "amount": "40 gram",
+              "item": "brokoli, iris menurut kuntumnya"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Iris",
+          "items": [
+            {
+              "amount": "½ sdt",
+              "item": "bawang putih cincang"
+            },
+            {
+              "amount": "1 sdt",
+              "item": "daun bawang iris"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Masak beras merah dan air hingga lunak.",
+        "Tambahkan daging sapi cincang, brokoli, daun bawang dan bawang putih. Masak hingga semua bahan matang dan air terserap.",
+        "Masukkan campuran nasi, sayur dan daging ke dalam panci tim. Masak selama 30 menit atau hingga tekstur beras benar-benar lunak.",
+        "Saring dan sajikan"
+      ],
+      "title": "Nasi Tim Beras Merah"
+    },
+    {
+      "age_stage": "9-11 bulan",
+      "allergens": [
+        "Kedelai"
+      ],
+      "id": "nasi-tim-bayam",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "20 gram",
+              "item": "beras"
+            },
+            {
+              "amount": "600 cc",
+              "item": "air"
+            },
+            {
+              "amount": "25 gram",
+              "item": "hati ayam, potong dadu"
+            },
+            {
+              "amount": "25 gram",
+              "item": "tahu, potong dadu"
+            },
+            {
+              "amount": "25 gram",
+              "item": "tomat iris"
+            },
+            {
+              "amount": "25 gram",
+              "item": "bayam, petiki daunnya"
+            },
+            {
+              "amount": "1 sdt",
+              "item": "mentega"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Masak beras dan air hingga lunak.",
+        "Masukkan hati ayam, tahu, tomat, bayam dan mentega hingga matang.",
+        "Masukkan campuran nasi, sayur dan lauk ke dalam panci tim, masak hingga lunak. Sajikan."
+      ],
+      "title": "Nasi Tim Bayam"
+    },
+    {
+      "age_stage": "9-11 bulan",
+      "allergens": [],
+      "id": "sup-kacang-merah",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "15 gram",
+              "item": "kacang merah"
+            },
+            {
+              "amount": "25 gram",
+              "item": "buncis, potong kecil"
+            },
+            {
+              "amount": "25 gram",
+              "item": "daging giling"
+            },
+            {
+              "amount": "25 gram",
+              "item": "tomat iris"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "margarin"
+            },
+            {
+              "amount": "250 cc",
+              "item": "kaldu ayam"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Iris",
+          "items": [
+            {
+              "amount": "1 sdm",
+              "item": "daun bawang iris"
+            },
+            {
+              "amount": "1 sdt",
+              "item": "seledri iris"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Rebus kacang merah hingga empuk. Sisihkan",
+        "Tumis daun bawang, daging ayam giling, buncis dan tomat dengan margarin. Tuangkan kaldu",
+        "Rebus kaldu hingga sayuran matang, masukkan kacang merah dan seledri, masak hingga matang.",
+        "Hidangkan dengan nasi."
+      ],
+      "title": "Sup Kacang Merah"
+    },
+    {
+      "age_stage": "9-11 bulan",
+      "allergens": [
+        "Gandum",
+        "Telur",
+        "Susu"
+      ],
+      "id": "makaroni-kukus",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "50 gram",
+              "item": "makaroni"
+            },
+            {
+              "amount": "30 gram",
+              "item": "kentang, potong dadu"
+            },
+            {
+              "amount": "30 gram",
+              "item": "daging ayam cincang"
+            },
+            {
+              "amount": "20 gram",
+              "item": "wortel iris"
+            },
+            {
+              "amount": "20 gram",
+              "item": "brokoli parut"
+            },
+            {
+              "amount": "20 gram",
+              "item": "keju parut"
+            },
+            {
+              "amount": "2 butir",
+              "item": "telur ayam"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "mentega"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Rebus makaroni hingga lunak, tiriskan.",
+        "Rebus daging ayam cincang, lalu masukkan wortel, kentang dan brokoli hingga lunak.",
+        "Oleskan mentega ke wadah, lalu masukkan rebusan makaroni, wortel, kentang , brokoli, daging ayam cincang dan kocokan telur.",
+        "Kemudian parut keju di atas adonan.",
+        "Kukus kurang lebih 30 menit.",
+        "Sajikan."
+      ],
+      "title": "Makaroni Kukus"
+    },
+    {
+      "age_stage": "9-11 bulan",
+      "allergens": [
+        "Kedelai",
+        "Telur",
+        "Gandum"
+      ],
+      "id": "bola-bola-tempe",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "120 gram",
+              "item": "tempe"
+            },
+            {
+              "amount": "30 gram",
+              "item": "bayam, petiki daunnya"
+            },
+            {
+              "amount": "2 butir",
+              "item": "telur"
+            },
+            {
+              "amount": "25 gram",
+              "item": "tepung terigu"
+            },
+            {
+              "amount": "25 gram",
+              "item": "tepung panir"
+            }
+          ]
+        },
+        {
+          "group": "Bumbu Iris",
+          "items": [
+            {
+              "amount": "1 siung",
+              "item": "bawang putih iris"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Haluskan tempe, campurkan dengan telur, tepung terigu, irisan baym serta irisan bawang putih.",
+        "Ambil setengah sendok makan tempe, bulatkan lalu gulingkan di atas tepung tereigu. Celupkan ke bener",
+        "Sajikan."
+      ],
+      "title": "Bola-bola Tempe"
+    },
+    {
+      "age_stage": "9-11 bulan",
+      "allergens": [
+        "ASI/Susu"
+      ],
+      "id": "bola-ubi-pisang",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "1 buah",
+              "item": "pisang"
+            },
+            {
+              "amount": "150 gram",
+              "item": "ubi"
+            },
+            {
+              "amount": "3 sdm",
+              "item": "ASI Perah"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Kukus ubi dengan matang",
+        "Haluskan ubi bersama pisang, tambahlan ASI perah",
+        "Benuk menjadi bola-bola dan Sajikan"
+      ],
+      "title": "Bola Ubi Pisang"
+    }
+  ],
+  "source": "14. Inspirasi Menu MPASI.pdf",
+  "source_id": "inspirasi-menu-mpasi"
+}

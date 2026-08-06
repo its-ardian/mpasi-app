@@ -5,7 +5,7 @@
     {
       "id": "bubur-hati-ayam",
       "title": "Bubur Hati Ayam",
-      "age_stage": "6 bulan",
+      "age_stage": "6-8 bulan",
       "servings": 3,
       "ingredient_groups": [
         {
@@ -71,7 +71,7 @@
     {
       "id": "bubur-udang-tahu",
       "title": "Bubur Udang Tahu",
-      "age_stage": "6 bulan",
+      "age_stage": "6-8 bulan",
       "servings": 3,
       "ingredient_groups": [
         {
@@ -164,7 +164,7 @@
     {
       "id": "bubur-daging-sapi",
       "title": "Bubur Daging Sapi",
-      "age_stage": "6 bulan",
+      "age_stage": "6-8 bulan",
       "servings": 3,
       "ingredient_groups": [
         {
@@ -225,7 +225,7 @@
     {
       "id": "bubur-ayam-mentega",
       "title": "Bubur Ayam Mentega",
-      "age_stage": "6 bulan",
+      "age_stage": "6-8 bulan",
       "servings": 3,
       "ingredient_groups": [
         {
@@ -298,7 +298,7 @@
     {
       "id": "pure-avokad-jeruk",
       "title": "Pure Avokad Jeruk",
-      "age_stage": "6 bulan",
+      "age_stage": "6-8 bulan",
       "servings": 1,
       "ingredient_groups": [
         {
@@ -331,7 +331,7 @@
     {
       "id": "pure-pisang-apel",
       "title": "Pure Pisang Apel",
-      "age_stage": "6 bulan",
+      "age_stage": "6-8 bulan",
       "servings": 1,
       "ingredient_groups": [
         {
@@ -372,7 +372,7 @@
     {
       "id": "kentang-dori-saus-keju",
       "title": "Kentang Dori Saus Keju",
-      "age_stage": "9 bulan",
+      "age_stage": "9-11 bulan",
       "servings": 3,
       "ingredient_groups": [
         {
@@ -450,7 +450,7 @@
     {
       "id": "tim-kuning-semur-hati-ayam",
       "title": "Tim Kuning Semur Hati Ayam",
-      "age_stage": "9 bulan",
+      "age_stage": "9-11 bulan",
       "servings": 3,
       "ingredient_groups": [
         {
@@ -552,7 +552,7 @@
     {
       "id": "tim-semur-sapi-tempe",
       "title": "Tim Semur Sapi Tempe",
-      "age_stage": "9 bulan",
+      "age_stage": "9-11 bulan",
       "servings": 3,
       "ingredient_groups": [
         {
@@ -627,7 +627,7 @@
     {
       "id": "nasi-tim-ayam-jamur",
       "title": "Nasi Tim Ayam Jamur",
-      "age_stage": "9 bulan",
+      "age_stage": "9-11 bulan",
       "servings": 3,
       "ingredient_groups": [
         {
@@ -718,7 +718,7 @@
     {
       "id": "tim-mie-ayam",
       "title": "Tim Mie Ayam",
-      "age_stage": "9 bulan",
+      "age_stage": "9-11 bulan",
       "servings": 3,
       "ingredient_groups": [
         {
@@ -797,7 +797,7 @@
     {
       "id": "nasi-goreng-udang",
       "title": "Nasi Goreng Udang",
-      "age_stage": "12 bulan",
+      "age_stage": "12-23 bulan",
       "servings": 3,
       "ingredient_groups": [
         {
@@ -874,7 +874,7 @@
     {
       "id": "nasi-gurih-cah-bakso-ikan-brokoli",
       "title": "Nasi Gurih Cah Bakso Ikan Brokoli",
-      "age_stage": "12 bulan",
+      "age_stage": "12-23 bulan",
       "servings": 3,
       "ingredient_groups": [
         {
@@ -966,7 +966,7 @@
     {
       "id": "mie-goreng-telur-puyuh",
       "title": "Mie Goreng Telur Puyuh",
-      "age_stage": "12 bulan",
+      "age_stage": "12-23 bulan",
       "servings": 3,
       "ingredient_groups": [
         {

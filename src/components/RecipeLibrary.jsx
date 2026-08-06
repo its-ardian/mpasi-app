@@ -54,24 +54,23 @@ export default function RecipeLibrary({
         />
       </div>
 
-      <div className="chip-row">
-        <button
-          className={`chip${ageStage === null ? " active" : ""}`}
-          onClick={() => setAgeStage(null)}
-        >
-          Semua usia
-        </button>
-        {AGE_STAGE_ORDER.map((stage) => (
-          <button
-            key={stage}
-            className={`chip${ageStage === stage ? " active" : ""}`}
-            onClick={() => setAgeStage(stage === ageStage ? null : stage)}
+      <div className="filter-row">
+        <div className={`select-pill${ageStage ? " has-value" : ""}`}>
+          <select
+            value={ageStage || ""}
+            onChange={(e) => setAgeStage(e.target.value || null)}
+            aria-label="Filter usia"
           >
-            {stage}
-          </button>
-        ))}
+            <option value="">Semua usia</option>
+            {AGE_STAGE_ORDER.map((stage) => (
+              <option key={stage} value={stage}>
+                {stage}
+              </option>
+            ))}
+          </select>
+        </div>
         <button
-          className={`chip${favoritesOnly ? " active" : ""}`}
+          className={`chip favorite-toggle${favoritesOnly ? " active" : ""}`}
           onClick={() => setFavoritesOnly((v) => !v)}
         >
           <HeartIcon

@@ -157,6 +157,67 @@ a {
   height: 22px;
 }
 
+/* ---------- Filter dropdown ---------- */
+.filter-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.select-pill {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+}
+
+.select-pill select {
+  width: 100%;
+  appearance: none;
+  -webkit-appearance: none;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  padding: 10px 34px 10px 14px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-ink);
+  cursor: pointer;
+}
+
+.select-pill select:focus-visible {
+  outline: 2px solid var(--color-kunyit);
+  outline-offset: 1px;
+}
+
+.select-pill.has-value select {
+  background: var(--color-kunyit);
+  border-color: var(--color-kunyit);
+  color: white;
+}
+
+.select-pill::after {
+  content: "";
+  position: absolute;
+  right: 14px;
+  top: 50%;
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid var(--color-ink-faint);
+  border-bottom: 2px solid var(--color-ink-faint);
+  transform: translateY(-65%) rotate(45deg);
+  pointer-events: none;
+}
+
+.select-pill.has-value::after {
+  border-color: white;
+}
+
+.chip.favorite-toggle {
+  flex-shrink: 0;
+}
+
 /* ---------- Chips / filters ---------- */
 .chip-row {
   display: flex;

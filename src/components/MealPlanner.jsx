@@ -212,15 +212,21 @@ function SlotPicker({ picking, activeBaby, days, onCancel, onPick }) {
         />
       </div>
 
-      <div className="chip-row">
-        <button className={`chip${ageStage === null ? " active" : ""}`} onClick={() => setAgeStage(null)}>
-          Semua usia
-        </button>
-        {AGE_STAGE_ORDER.map((s) => (
-          <button key={s} className={`chip${ageStage === s ? " active" : ""}`} onClick={() => setAgeStage(s === ageStage ? null : s)}>
-            {s}
-          </button>
-        ))}
+      <div className="filter-row">
+        <div className={`select-pill${ageStage ? " has-value" : ""}`}>
+          <select
+            value={ageStage || ""}
+            onChange={(e) => setAgeStage(e.target.value || null)}
+            aria-label="Filter usia"
+          >
+            <option value="">Semua usia</option>
+            {AGE_STAGE_ORDER.map((s) => (
+              <option key={s} value={s}>
+                {s}
+              </option>
+            ))}
+          </select>
+        </div>
       </div>
 
       {results.map((r) => (

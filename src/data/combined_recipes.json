@@ -103,7 +103,15 @@
       "nutrition_per_serving": null,
       "servings": 1,
       "title": "Puding Telur Susu",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi.",
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 36,
+        "lemak_percent": 34,
+        "protein_percent": 39,
+        "karbohidrat_percent": 16,
+        "zat_besi_percent": 12,
+        "akg_reference_age": "6-8 Bulan"
+      },
       "original_id": "puding-telur-susu",
       "source_id": "bumboo-76-resep",
       "step_groups": [
@@ -122,7 +130,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -168,7 +177,15 @@
       "nutrition_per_serving": null,
       "servings": 1,
       "title": "Bubur Ikan Jagung",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi.",
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 22,
+        "lemak_percent": 17,
+        "protein_percent": 69,
+        "karbohidrat_percent": 18,
+        "zat_besi_percent": 19,
+        "akg_reference_age": "6-8 Bulan"
+      },
       "original_id": "bubur-ikan-jagung",
       "source_id": "bumboo-76-resep",
       "step_groups": [
@@ -184,7 +201,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
@@ -241,7 +259,15 @@
       "nutrition_per_serving": null,
       "servings": 2,
       "title": "Tim Telur Teri",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi.",
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 35,
+        "lemak_percent": 35,
+        "protein_percent": 51,
+        "karbohidrat_percent": 28,
+        "zat_besi_percent": 42,
+        "akg_reference_age": "9-11 Bulan"
+      },
       "original_id": "tim-telur-teri",
       "source_id": "bumboo-76-resep",
       "step_groups": [
@@ -258,7 +284,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "12-23 bulan",
@@ -312,7 +339,15 @@
       "nutrition_per_serving": null,
       "servings": 2,
       "title": "Sup Cream Ayam Jagung",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi.",
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 28,
+        "lemak_percent": 33,
+        "protein_percent": 73,
+        "karbohidrat_percent": 13,
+        "zat_besi_percent": 29,
+        "akg_reference_age": "1-3 Tahun"
+      },
       "original_id": "sup-cream-ayam-jagung",
       "source_id": "bumboo-76-resep",
       "step_groups": [
@@ -333,7 +368,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "2-5 tahun",
@@ -424,7 +460,15 @@
       "nutrition_per_serving": null,
       "servings": 2,
       "title": "Creamy Meatballs",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi.",
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 44,
+        "lemak_percent": 65,
+        "protein_percent": 78,
+        "karbohidrat_percent": 22,
+        "zat_besi_percent": 32,
+        "akg_reference_age": "1-3 Tahun"
+      },
       "original_id": "creamy-meatballs",
       "source_id": "bumboo-76-resep",
       "step_groups": [
@@ -443,12 +487,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:bubur-susu-dengan-asi-perah",
       "ingredient_groups": [
@@ -484,12 +529,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:bubur-hati-ayam",
       "ingredient_groups": [
@@ -538,12 +584,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "kedelai"
+        "Kedelai"
       ],
       "id": "inspirasi-menu-mpasi:bubur-bobor",
       "ingredient_groups": [
@@ -617,12 +664,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "telur"
+        "Telur"
       ],
       "id": "inspirasi-menu-mpasi:bubur-bayam-telur-puyuh",
       "ingredient_groups": [
@@ -688,13 +736,14 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ikan",
-        "kedelai"
+        "Ikan",
+        "Kedelai"
       ],
       "id": "inspirasi-menu-mpasi:bubur-ikan-campur",
       "ingredient_groups": [
@@ -755,12 +804,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "telur"
+        "Telur"
       ],
       "id": "inspirasi-menu-mpasi:bubur-cah-hati-brokoli",
       "ingredient_groups": [
@@ -822,7 +872,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
@@ -891,12 +942,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:puree-avokad",
       "ingredient_groups": [
@@ -932,12 +984,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:puree-labu-ayam-bayam",
       "ingredient_groups": [
@@ -982,12 +1035,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:puree-pepaya-pisang",
       "ingredient_groups": [
@@ -1026,12 +1080,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:puree-pepaya-mangga",
       "ingredient_groups": [
@@ -1070,7 +1125,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "9-11 bulan",
@@ -1139,7 +1195,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
@@ -1200,12 +1257,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
       "allergens": [
-        "kedelai"
+        "Kedelai"
       ],
       "id": "inspirasi-menu-mpasi:nasi-tim-bayam",
       "ingredient_groups": [
@@ -1261,7 +1319,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
@@ -1330,14 +1389,15 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
       "allergens": [
-        "gandum",
-        "telur",
-        "susu"
+        "Gandum",
+        "Telur",
+        "Susu"
       ],
       "id": "inspirasi-menu-mpasi:makaroni-kukus",
       "ingredient_groups": [
@@ -1400,14 +1460,15 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
       "allergens": [
-        "kedelai",
-        "telur",
-        "gandum"
+        "Kedelai",
+        "Telur",
+        "Gandum"
       ],
       "id": "inspirasi-menu-mpasi:bola-bola-tempe",
       "ingredient_groups": [
@@ -1464,12 +1525,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "9-11 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:bola-ubi-pisang",
       "ingredient_groups": [
@@ -1509,12 +1571,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "udang"
+        "Udang"
       ],
       "id": "sharing-menu-mpasi-46:menu-udang-tahu-santan",
       "ingredient_groups": [
@@ -1582,12 +1645,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ikan"
+        "Ikan"
       ],
       "id": "sharing-menu-mpasi-46:bubur-ikan-gabus",
       "ingredient_groups": [
@@ -1652,12 +1716,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ayam"
+        "Ayam"
       ],
       "id": "sharing-menu-mpasi-46:resep-kaldu-ayam",
       "ingredient_groups": [
@@ -1700,7 +1765,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:bubur-singkong-isi-ikan-ayam-saus-jeruk",
@@ -1791,7 +1857,8 @@
       ],
       "original_id": "bubur-singkong-isi-ikan-ayam-saus-jeruk",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:bubur-soto-ayam-santan",
@@ -1897,7 +1964,8 @@
       ],
       "original_id": "bubur-soto-ayam-santan",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:bubur-sup-daging-kacang-merah",
@@ -1994,7 +2062,8 @@
       ],
       "source_notes": "The 45.1 g protein figure is printed as-is in the source document but is almost certainly a typo/OCR artifact (implausible for a 98 kcal serving) — worth verifying against the original PDF before using in the app.",
       "original_id": "bubur-sup-daging-kacang-merah",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:bubur-kanju-rumbi-ayam-udang",
@@ -2111,7 +2180,8 @@
       ],
       "original_id": "bubur-kanju-rumbi-ayam-udang",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:puding-kentang-ayam-telur",
@@ -2210,7 +2280,8 @@
       ],
       "original_id": "puding-kentang-ayam-telur",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-tim-ikan-tuna-telur-puyuh",
@@ -2284,7 +2355,8 @@
       ],
       "original_id": "nasi-tim-ikan-tuna-telur-puyuh",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-tim-ayam-lele-cincang",
@@ -2357,7 +2429,8 @@
       ],
       "original_id": "nasi-tim-ayam-lele-cincang",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:mie-kukus-telur-puyuh",
@@ -2433,7 +2506,8 @@
       ],
       "original_id": "mie-kukus-telur-puyuh",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-tim-ikan-telur-sayuran",
@@ -2503,7 +2577,8 @@
       ],
       "source_notes": "The ingredient list in the source repeats '100 gr (10 sdm) nasi' as two separate lines (once as 'nasi putih', once as 'nasi') — recorded here once as a single nasi putih entry, treating the duplicate as a printing artifact.",
       "original_id": "nasi-tim-ikan-telur-sayuran",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:tim-bubur-manado-daging-udang",
@@ -2597,7 +2672,8 @@
       ],
       "original_id": "tim-bubur-manado-daging-udang",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-sup-telur-puyuh-bola-tahu-ayam",
@@ -2704,7 +2780,8 @@
       ],
       "original_id": "nasi-sup-telur-puyuh-bola-tahu-ayam",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-soto-ayam-kuah-kuning",
@@ -2852,7 +2929,8 @@
       ],
       "source_notes": "Recipe says to serve 'lengkapi dengan buah' but does not name a specific fruit/amount like the other recipes; fruit field left null rather than guessed.",
       "original_id": "nasi-soto-ayam-kuah-kuning",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:sup-telur-puyuh-ikan-air-tawar-labu-kuning",
@@ -2943,7 +3021,8 @@
       ],
       "original_id": "sup-telur-puyuh-ikan-air-tawar-labu-kuning",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-ikan-kuah-kuning",
@@ -3074,7 +3153,8 @@
       ],
       "original_id": "nasi-ikan-kuah-kuning",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nugget-tempe-ayam-sayuran",
@@ -3178,7 +3258,8 @@
       ],
       "original_id": "nugget-tempe-ayam-sayuran",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-bakar-ayam-santan",
@@ -3363,7 +3444,8 @@
       ],
       "original_id": "nasi-bakar-ayam-santan",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-sup-tabas-udang-sayur",
@@ -3533,7 +3615,8 @@
       ],
       "original_id": "nasi-sup-tabas-udang-sayur",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-masak-ayam-kecap-sayur",
@@ -3624,7 +3707,8 @@
       ],
       "original_id": "nasi-masak-ayam-kecap-sayur",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:bola-bola-nasi-rabuk-ikan",
@@ -3729,7 +3813,8 @@
       ],
       "original_id": "bola-bola-nasi-rabuk-ikan",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-kuning-harum-rampa-ikan-tuna-balado",
@@ -3955,7 +4040,8 @@
       ],
       "source_notes": "This is a pregnancy-menu recipe, not a baby/toddler recipe — flagged with age_stage 'ibu hamil' so it can be excluded from a baby-food-only app view. The source's 'Bahan Balado Ikan Tuna/Tongkol' ingredient list appears to duplicate the chicken/tofu/shrimp filling from the 'Nasi Bakar Ayam Santan' recipe rather than listing tuna/tongkol ingredients — likely a template copy-paste error in the original document. Cooking steps for the balado ikan and tumisan jantung components are not present in the extracted text (only 'Cara Membuat Nasi Harum' is given).",
       "original_id": "nasi-kuning-harum-rampa-ikan-tuna-balado",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:liwet-ikan-goreng-kari-daun-singkong-ebi",
@@ -4153,7 +4239,8 @@
       ],
       "source_notes": "Pregnancy-menu recipe (age_stage 'ibu hamil'), not intended for babies/toddlers.",
       "original_id": "liwet-ikan-goreng-kari-daun-singkong-ebi",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:siomay-ayam-udang-komplit",
@@ -4327,7 +4414,8 @@
       ],
       "source_notes": "Pregnancy-menu recipe (age_stage 'ibu hamil'), not intended for babies/toddlers.",
       "original_id": "siomay-ayam-udang-komplit",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:lapis-tamie-isi-ayam",
@@ -4489,7 +4577,8 @@
       ],
       "source_notes": "Pregnancy-menu recipe (age_stage 'ibu hamil'), not intended for babies/toddlers.",
       "original_id": "lapis-tamie-isi-ayam",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-rawon",
@@ -4626,7 +4715,8 @@
       ],
       "source_notes": "Pregnancy-menu recipe (age_stage 'ibu hamil'), not intended for babies/toddlers.",
       "original_id": "nasi-rawon",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
@@ -4670,7 +4760,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -4716,7 +4807,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
@@ -4761,7 +4853,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -4812,7 +4905,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
@@ -4861,13 +4955,14 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
         "kedelai",
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:pure-kentang-wortel-tempe",
       "ingredient_groups": [
@@ -4917,7 +5012,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -4965,7 +5061,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "9-11 bulan",
@@ -5018,12 +5115,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "susu"
+        "susu (dairy)"
       ],
       "id": "menu-mpasi-buah-hati:pure-pisang-apel",
       "ingredient_groups": [
@@ -5072,7 +5170,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -5110,7 +5209,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -5156,12 +5256,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:bubur-krim-sup-ayam",
       "ingredient_groups": [
@@ -5215,12 +5316,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "12-23 bulan",
       "allergens": [
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:tim-beras-merah-buah",
       "ingredient_groups": [
@@ -5265,12 +5367,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:bubur-hati-ayam",
       "ingredient_groups": [
@@ -5323,7 +5426,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
@@ -5370,7 +5474,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -5437,12 +5542,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:bubur-kentang-kari-daging",
       "ingredient_groups": [
@@ -5504,7 +5610,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
@@ -5568,12 +5675,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:pure-brokoli",
       "ingredient_groups": [
@@ -5618,13 +5726,14 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
         "kedelai",
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:bubur-tahu-sayuran",
       "ingredient_groups": [
@@ -5690,13 +5799,14 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
         "kedelai",
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:bubur-manado",
       "ingredient_groups": [
@@ -5758,7 +5868,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
@@ -5803,7 +5914,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "id": "mpasi-pptx:bubur-hati-ayam",
@@ -5880,7 +5992,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:bubur-udang-tahu",
@@ -5984,7 +6097,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:bubur-daging-sapi",
@@ -6056,7 +6170,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:bubur-ayam-mentega",
@@ -6140,7 +6255,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:pure-avokad-jeruk",
@@ -6184,7 +6300,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "camilan"
     },
     {
       "id": "mpasi-pptx:pure-pisang-apel",
@@ -6236,7 +6353,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "camilan"
     },
     {
       "id": "mpasi-pptx:kentang-dori-saus-keju",
@@ -6325,7 +6443,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:tim-kuning-semur-hati-ayam",
@@ -6438,7 +6557,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:tim-semur-sapi-tempe",
@@ -6524,7 +6644,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:nasi-tim-ayam-jamur",
@@ -6626,7 +6747,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:tim-mie-ayam",
@@ -6716,7 +6838,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:nasi-goreng-udang",
@@ -6804,7 +6927,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:nasi-gurih-cah-bakso-ikan-brokoli",
@@ -6907,7 +7031,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:mie-goreng-telur-puyuh",
@@ -7009,7 +7134,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     }
   ]
 }

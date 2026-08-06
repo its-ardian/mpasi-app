@@ -12,6 +12,14 @@ const NUTRITION_LABELS = {
   seng_mg: { label: "Seng", unit: "mg" },
 };
 
+const AKG_LABELS = {
+  energi_percent: "Energi",
+  protein_percent: "Protein",
+  lemak_percent: "Lemak",
+  karbohidrat_percent: "Karbo",
+  zat_besi_percent: "Zat Besi",
+};
+
 export default function RecipeDetail({
   recipe,
   isFavorite,
@@ -45,6 +53,7 @@ export default function RecipeDetail({
       <div className="recipe-meta-row">
         <span className="badge">{recipe.age_stage}</span>
         <span className="badge kkal">{recipe.servings} porsi</span>
+        {recipe.meal_type === "camilan" && <span className="badge">🍪 Camilan</span>}
         <TextureDial ageStage={recipe.age_stage} />
       </div>
 
@@ -86,6 +95,26 @@ export default function RecipeDetail({
               tambahan sehari.
             </div>
           )}
+        </>
+      )}
+
+      {recipe.nutrition_percent_akg && (
+        <>
+          <div className="section-title">Gizi per porsi (% AKG)</div>
+          <div className="nutrition-grid">
+            {Object.entries(recipe.nutrition_percent_akg)
+              .filter(([key]) => key !== "akg_reference_age")
+              .map(([key, value]) => (
+                <div className="nutrition-cell" key={key}>
+                  <span className="nutrition-value">{value}%</span>
+                  <span className="nutrition-label">{AKG_LABELS[key] || key}</span>
+                </div>
+              ))}
+          </div>
+          <div style={{ fontSize: "0.78rem", color: "var(--color-ink-soft)", marginTop: 8 }}>
+            Persentase dari Angka Kecukupan Gizi (AKG) harian untuk usia{" "}
+            {recipe.nutrition_percent_akg.akg_reference_age}, bukan nilai gram/kkal absolut.
+          </div>
         </>
       )}
 

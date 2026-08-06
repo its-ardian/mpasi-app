@@ -1,0 +1,204 @@
+{
+  "generated_by": "Gemini",
+  "sources": [
+    {
+      "source_id": "6",
+      "filename": "text_input",
+      "source_title": "Solusi Masalah Makan pada Anak"
+    },
+    {
+      "source_id": "7",
+      "filename": "Screenshot_6.jpg",
+      "source_title": "Bagaimana cara tepat menaikkan berat badan Si Kecil?"
+    },
+    {
+      "source_id": "8",
+      "filename": "Screenshot_4.jpg",
+      "source_title": "Pentingkah variasi menu pada MPASI?"
+    },
+    {
+      "source_id": "9",
+      "filename": "Screenshot_3.jpg",
+      "source_title": "Membekukan dan Menghangatkan MPASI"
+    },
+    {
+      "source_id": "10",
+      "filename": "Screenshot_2.jpg",
+      "source_title": "Pertanyaan Umum Seputar MPASI"
+    },
+    {
+      "source_id": "11",
+      "filename": "Screenshot_1.png",
+      "source_title": "Gula dan Garam di MPASI"
+    },
+    {
+      "source_id": "12",
+      "filename": "Screenshot_5.jpg",
+      "source_title": "Tekstur, Frekuensi, dan Porsi MPASI"
+    }
+  ],
+  "total_items": 14,
+  "guidelines": [
+    {
+      "topic": "Gerakan Tutup Mulut (GTM)",
+      "description": "Bayi yang tadinya lahap bisa tiba-tiba menolak suapan. GTM tidak selalu disebabkan Si Kecil kurang suka dengan makanan yang diberikan.",
+      "causes": [
+        "Tumbuh gigi.",
+        "Bosan dengan menu yang sama.",
+        "Ingin belajar mandiri.",
+        "Kebiasaan makan sambil menonton video.",
+        "Lelah mengunyah.",
+        "Sembelit atau perut terasa tidak nyaman.",
+        "Ada masalah kesehatan lainnya, seperti anemia.",
+        "Takut mencoba makanan dengan tekstur baru."
+      ],
+      "tips": [
+        "Jangan dipaksa. Biarkan ia berhenti, lalu coba lagi di waktu lain.",
+        "Variasikan menu dengan warna, tekstur, atau cara penyajian baru.",
+        "Libatkan anak: biarkan ia pegang finger food lembut, meski berantakan."
+      ]
+    },
+    {
+      "topic": "Picky Eater",
+      "description": "Anak hanya mau satu-dua jenis makanan, menolak yang lain. Hal ini wajar di fase belajar rasa karena lidah bayi butuh waktu untuk terbiasa.",
+      "causes": [],
+      "tips": [
+        "Kenalkan satu makanan baru berulang kali (10-15 kali) dengan cara berbeda.",
+        "Makanlah bersama keluarga, anak akan lebih mudah meniru.",
+        "Buat suasana makan positif: tanpa TV, tanpa ancaman, penuh senyum."
+      ]
+    },
+    {
+      "topic": "Alergi Makanan",
+      "description": "Ada anak yang sensitif dengan telur, ikan, atau susu karena sistem imun bayi masih berkembang.",
+      "causes": [],
+      "tips": [
+        "Perkenalkan satu jenis makanan baru setiap 3-5 hari, agar mudah dipantau.",
+        "Tanda alergi meliputi ruam kulit, tampak gatal, muntah, dan kesulitan bernapas.",
+        "Jika muncul reaksi alergi seperti ruam, muntah, atau diare, segera hentikan dan hubungi dokter untuk mendapatkan penanganan yang tepat.",
+        "Cari pengganti bahan: misal protein dari tempe/tahu jika anak alergi telur."
+      ]
+    },
+    {
+      "topic": "Cara Menaikkan Berat Badan Si Kecil",
+      "description": "Panduan nutrisi untuk meningkatkan berat badan anak yang kurang.",
+      "causes": [],
+      "tips": [
+        "Tambah asupan karbohidrat: Berikan variasi karbohidrat dengan porsi kecil seperti kentang, ubi, dan jagung, karena anak dengan BB kurang biasanya sulit makan porsi besar.",
+        "Tambah asupan lemak: Pilih sumber lemak untuk MPASI seperti ikan berlemak, daging sapi, keju, dan minyak kelapa (lemak jenuh dan tak jenuh dibutuhkan untuk perkembangan).",
+        "Pilih makanan berkalori tinggi: Tambahkan porsi makan hingga mencapai 550-725 Kkal, dengan contoh makanan seperti telur, salmon, ayam, dan alpukat.",
+        "Atur jadwal makan: Buat jadwal 3 kali sehari dan 2 selingan secara disiplin untuk mencegah GTM.",
+        "Variasi menu makanan: Mencegah kebosanan yang memicu GTM dan menyeimbangkan nutrisi."
+      ]
+    },
+    {
+      "topic": "Porsi Awal MPASI",
+      "description": "Aturan porsi untuk bayi di awal masa MPASI.",
+      "causes": [],
+      "tips": [
+        "Perut bayi di bawah 1 tahun masih kecil untuk memuat banyak makanan.",
+        "Cukup berikan 2-3 sdm sekali makan pada masa awal MPASI.",
+        "Lama kelamaan porsi makan bayi akan meningkat."
+      ]
+    },
+    {
+      "topic": "Pentingnya Variasi Menu MPASI",
+      "description": "Tujuan dan manfaat dari memberikan menu makanan yang bervariasi.",
+      "causes": [],
+      "tips": [
+        "Memastikan asupan nutrisi yang diberikan untuk Si Kecil lengkap sesuai kebutuhan.",
+        "Membantu Si Kecil lebih banyak mengenal rasa dan tekstur.",
+        "Mencegah Si Kecil menjadi picky eater."
+      ]
+    },
+    {
+      "topic": "Pemberian Telur, Ikan, dan Sayur",
+      "description": "Aturan pengenalan protein hewani dan sayuran di awal MPASI.",
+      "causes": [],
+      "tips": [
+        "Si Kecil sudah boleh diberi protein hewani seperti telur dan ikan sebelum 1 tahun dalam keadaan matang sempurna.",
+        "Sebaiknya berikan sedikit dulu untuk dicicipi dan melihat apakah ada reaksi alergi.",
+        "Pemberian sayuran di usia 6 bulan sebaiknya hanya untuk perkenalan dengan porsi sedikit, karena sistem pencernaan belum sempurna untuk mencerna serat."
+      ]
+    },
+    {
+      "topic": "Cara Menyiapkan MPASI",
+      "description": "Langkah-langkah menjaga kebersihan dalam menyiapkan MPASI.",
+      "causes": [],
+      "tips": [
+        "Cuci tangan dengan sabun dan air mengalir.",
+        "Buah dan sayuran mentah dicuci dan disimpan di tempat sejuk.",
+        "Memisahkan makanan yang mentah dan matang.",
+        "Simpan makanan matang dalam wadah tertutup."
+      ]
+    },
+    {
+      "topic": "Membekukan dan Menghangatkan MPASI",
+      "description": "Panduan menyimpan dan menyajikan ulang MPASI.",
+      "causes": [],
+      "tips": [
+        "Simpan di freezer dengan suhu minimal 5°C. Aman dikonsumsi dalam 3-4 minggu ke depan.",
+        "Jangan terlalu lama menyimpan dalam keadaan beku karena tekstur dan rasanya akan berubah.",
+        "Cairkan di kulkas jika dalam keadaan beku, jangan langsung dipanaskan.",
+        "Panaskan dengan api kecil di kompor atau selama 15-30 detik di microwave.",
+        "Cicipi dan pastikan makanan hangat suam-suam kuku sebelum diberikan.",
+        "Pindahkan ke wadah lain setelah dihangatkan untuk menghindari kontaminasi bakteri.",
+        "Buang MPASI yang sudah berada di suhu ruang selama lebih dari 2 jam.",
+        "Makanan yang tersisa jangan disimpan atau dipanaskan kembali."
+      ]
+    },
+    {
+      "topic": "Aturan Gula dan Garam",
+      "description": "Rekomendasi batas konsumsi gula dan garam pada anak.",
+      "causes": [],
+      "tips": [
+        "Usia 0-12 Bulan: Batas asupan garam per hari kurang dari 1 gram atau 0,2 sendok teh (menurut NHS Inggris).",
+        "Usia 1-3 Tahun: Garam sebanyak 2 gram per hari atau setara dengan 0,4 sendok teh.",
+        "Penambahan bumbu boleh dilakukan dengan tetap memperhatikan kadar garam dan gula dalam bumbu tersebut."
+      ]
+    },
+    {
+      "topic": "Tahap MPASI Usia 6-8 Bulan",
+      "description": "Tekstur, frekuensi, dan porsi untuk bayi usia 6-8 bulan.",
+      "causes": [],
+      "tips": [
+        "Frekuensi: 2-3 kali makan utama, 1-2 kali makanan selingan.",
+        "Porsi: 125 ml atau 3 sendok makan sekali makan.",
+        "Proporsi nutrisi: 70% ASI dan 30% MPASI.",
+        "Tekstur: Kental berupa puree atau bubur halus serta lumat (dapat dilakukan dengan menyaring makanan)."
+      ]
+    },
+    {
+      "topic": "Tahap MPASI Usia 9-11 Bulan",
+      "description": "Tekstur, frekuensi, dan porsi untuk bayi usia 9-11 bulan.",
+      "causes": [],
+      "tips": [
+        "Frekuensi: 3-4 kali makan utama, 1-2 kali finger food.",
+        "Porsi: 125 ml atau 3 sendok makan sekali makan.",
+        "Proporsi nutrisi: 50% ASI dan 50% MPASI.",
+        "Tekstur: Cincang halus (minced), cincang kasar (chopped), dan bisa digigit/digenggam (finger food seperti potongan alpukat, brokoli kukus, daging cincang). Tidak perlu disaring lagi."
+      ]
+    },
+    {
+      "topic": "Tahap MPASI Usia 12+ Bulan",
+      "description": "Tekstur, frekuensi, dan porsi untuk anak usia 12 bulan ke atas.",
+      "causes": [],
+      "tips": [
+        "Frekuensi: 3-4 kali makan utama, 1-2 kali finger food.",
+        "Porsi: Perlahan ditambah hingga 3/4 mangkuk ukuran 250 ml.",
+        "Proporsi nutrisi: 30% ASI dan 70% MPASI.",
+        "Tekstur: Beradaptasi dengan makanan keluarga (nasi dan lauk pauk yang mudah dikunyah)."
+      ]
+    },
+    {
+      "topic": "Tanda Si Kecil Sudah Kenyang",
+      "description": "Ciri-ciri bayi sudah tidak ingin makan lagi.",
+      "causes": [],
+      "tips": [
+        "Menghindar atau menolak saat disuapi.",
+        "Bersandar ke kursi.",
+        "Mulai bermain dengan makanan maupun alat makannya."
+      ]
+    }
+  ]
+}

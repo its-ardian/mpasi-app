@@ -42,7 +42,15 @@
         "Kukus adonan hingga matang."
       ],
       "title": "Puding Telur Susu",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi."
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 36,
+        "lemak_percent": 34,
+        "protein_percent": 39,
+        "karbohidrat_percent": 16,
+        "zat_besi_percent": 12,
+        "akg_reference_age": "6-8 Bulan"
+      }
     },
     {
       "age_stage": "6-8 bulan",
@@ -94,7 +102,15 @@
         "Aduk merata, masak dengan api sedang hingga nasi menjadi bubur."
       ],
       "title": "Bubur Ikan Jagung",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi."
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 22,
+        "lemak_percent": 17,
+        "protein_percent": 69,
+        "karbohidrat_percent": 18,
+        "zat_besi_percent": 19,
+        "akg_reference_age": "6-8 Bulan"
+      }
     },
     {
       "age_stage": "9-11 bulan",
@@ -158,7 +174,15 @@
         "Hidangkan bersama nasi dengan tekstur sesuai selera."
       ],
       "title": "Tim Telur Teri",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi."
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 35,
+        "lemak_percent": 35,
+        "protein_percent": 51,
+        "karbohidrat_percent": 28,
+        "zat_besi_percent": 42,
+        "akg_reference_age": "9-11 Bulan"
+      }
     },
     {
       "age_stage": "12-23 bulan",
@@ -223,7 +247,15 @@
         "Sup Cream Ayam Jagung siap dihidangkan."
       ],
       "title": "Sup Cream Ayam Jagung",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi."
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 28,
+        "lemak_percent": 33,
+        "protein_percent": 73,
+        "karbohidrat_percent": 13,
+        "zat_besi_percent": 29,
+        "akg_reference_age": "1-3 Tahun"
+      }
     },
     {
       "age_stage": "2-5 tahun",
@@ -323,7 +355,15 @@
         "Siapkan piring berisi mashed potato, daging meatballs, dan saus. Creamy Meatballs siap dihidangkan."
       ],
       "title": "Creamy Meatballs",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi."
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 44,
+        "lemak_percent": 65,
+        "protein_percent": 78,
+        "karbohidrat_percent": 22,
+        "zat_besi_percent": 32,
+        "akg_reference_age": "1-3 Tahun"
+      }
     }
   ],
   "source": "11. 76 Resep MPASI by Bumboo.pdf",

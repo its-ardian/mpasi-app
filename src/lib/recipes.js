@@ -23,11 +23,15 @@ export function findRecipe(id) {
   return ALL_RECIPES.find((r) => r.id === id) || null;
 }
 
-export function filterRecipes({ ageStage, query, excludeAllergens, favoritesOnly, favoriteIds }) {
+export function filterRecipes({ ageStage, query, excludeAllergens, favoritesOnly, favoriteIds, mealType }) {
   let list = ALL_RECIPES;
 
   if (ageStage) {
     list = list.filter((r) => r.age_stage === ageStage);
+  }
+
+  if (mealType) {
+    list = list.filter((r) => r.meal_type === mealType);
   }
 
   if (excludeAllergens && excludeAllergens.length > 0) {

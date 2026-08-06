@@ -13,6 +13,7 @@ export default function RecipeLibrary({
   const [query, setQuery] = useState("");
   const [favoritesOnly, setFavoritesOnly] = useState(false);
   const [respectAllergies, setRespectAllergies] = useState(true);
+  const [mealType, setMealType] = useState(null);
 
   const excludeAllergens = useMemo(() => {
     if (!respectAllergies || !activeBaby) return [];
@@ -27,8 +28,9 @@ export default function RecipeLibrary({
         excludeAllergens,
         favoritesOnly,
         favoriteIds,
+        mealType,
       }),
-    [ageStage, query, excludeAllergens, favoritesOnly, favoriteIds]
+    [ageStage, query, excludeAllergens, favoritesOnly, favoriteIds, mealType]
   );
 
   return (
@@ -52,6 +54,27 @@ export default function RecipeLibrary({
           value={query}
           onChange={(e) => setQuery(e.target.value)}
         />
+      </div>
+
+      <div className="segmented">
+        <button
+          className={mealType === null ? "active" : ""}
+          onClick={() => setMealType(null)}
+        >
+          Semua Menu
+        </button>
+        <button
+          className={mealType === "utama" ? "active" : ""}
+          onClick={() => setMealType("utama")}
+        >
+          Menu Utama
+        </button>
+        <button
+          className={mealType === "camilan" ? "active" : ""}
+          onClick={() => setMealType("camilan")}
+        >
+          🍪 Camilan
+        </button>
       </div>
 
       <div className="filter-row">

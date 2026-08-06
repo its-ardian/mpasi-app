@@ -126,7 +126,7 @@ a {
   left: 0;
   right: 0;
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   background: var(--color-surface);
   border-top: 1px solid var(--color-border);
   padding: 6px 4px calc(6px + env(safe-area-inset-bottom));
@@ -140,9 +140,9 @@ a {
   gap: 3px;
   background: none;
   border: none;
-  padding: 6px 2px;
+  padding: 6px 1px;
   color: var(--color-ink-faint);
-  font-size: 0.65rem;
+  font-size: 0.6rem;
   font-weight: 600;
   cursor: pointer;
   border-radius: var(--radius-sm);
@@ -153,8 +153,8 @@ a {
 }
 
 .nav-btn svg {
-  width: 22px;
-  height: 22px;
+  width: 20px;
+  height: 20px;
 }
 
 /* ---------- Filter dropdown ---------- */
@@ -216,6 +216,33 @@ a {
 
 .chip.favorite-toggle {
   flex-shrink: 0;
+}
+
+.segmented {
+  display: flex;
+  background: var(--color-surface-alt);
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  padding: 3px;
+  margin-bottom: 14px;
+}
+
+.segmented button {
+  flex: 1;
+  padding: 8px 10px;
+  border: none;
+  background: none;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-ink-soft);
+  cursor: pointer;
+}
+
+.segmented button.active {
+  background: var(--color-daun);
+  color: white;
 }
 
 /* ---------- Chips / filters ---------- */

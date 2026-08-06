@@ -1,10 +1,11 @@
-import { BowlIcon, CalendarIcon, BagIcon, ClockIcon, UserIcon } from "./Icons";
+import { BowlIcon, CalendarIcon, BagIcon, ClockIcon, UserIcon, InfoIcon } from "./Icons";
 
 const TABS = [
   { key: "recipes", label: "Resep", icon: BowlIcon },
   { key: "planner", label: "Rencana", icon: CalendarIcon },
   { key: "grocery", label: "Belanja", icon: BagIcon },
   { key: "tracker", label: "Riwayat", icon: ClockIcon },
+  { key: "info", label: "Info", icon: InfoIcon },
   { key: "profile", label: "Profil", icon: UserIcon },
 ];
 

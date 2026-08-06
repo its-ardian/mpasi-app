@@ -10,12 +10,14 @@ import MealPlanner from "./components/MealPlanner";
 import GroceryList from "./components/GroceryList";
 import Tracker from "./components/Tracker";
 import Profile from "./components/Profile";
+import InfoGuide from "./components/InfoGuide";
 
 const TAB_META = {
   recipes: { title: "Resep MPASI", subtitle: "Untuk bayi, balita & ibu hamil" },
   planner: { title: "Rencana Makan", subtitle: "Susun menu seminggu ke depan" },
   grocery: { title: "Daftar Belanja", subtitle: "Otomatis dari rencana makan" },
   tracker: { title: "Riwayat Makan", subtitle: "Pantau makanan & reaksi" },
+  info: { title: "Info & Tips", subtitle: "GTM, alergi, tekstur, dan lainnya" },
   profile: { title: "Profil Anak", subtitle: "Usia, tahapan tekstur & alergi" },
 };
 
@@ -142,6 +144,8 @@ export default function App() {
             onChangeEntries={setTrackerEntries}
             activeBaby={activeBaby}
           />
+        ) : tab === "info" ? (
+          <InfoGuide />
         ) : (
           <Profile
             babies={babies}

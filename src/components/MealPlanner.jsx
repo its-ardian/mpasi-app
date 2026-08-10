@@ -130,6 +130,9 @@ function SlotPicker({ picking, activeBaby, days, onCancel, onPick }) {
   const [slot, setSlot] = useState(picking.slot || MEAL_SLOTS[0]);
   const [ageStage, setAgeStage] = useState(null);
   const [query, setQuery] = useState("");
+  const [mealType, setMealType] = useState(
+    picking.slot === "Camilan Pagi" ? "camilan" : null
+  );
 
   // Hooks must run unconditionally on every render, so this is computed
   // even in "autoRecipeId" mode where it ends up unused.
@@ -138,9 +141,10 @@ function SlotPicker({ picking, activeBaby, days, onCancel, onPick }) {
       filterRecipes({
         ageStage,
         query,
+        mealType,
         excludeAllergens: activeBaby?.allergies || [],
       }),
-    [ageStage, query, activeBaby]
+    [ageStage, query, mealType, activeBaby]
   );
 
   // Came from "Tambah ke rencana" on a recipe's detail page: the recipe is
@@ -210,6 +214,27 @@ function SlotPicker({ picking, activeBaby, days, onCancel, onPick }) {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
         />
+      </div>
+
+      <div className="segmented">
+        <button
+          className={mealType === null ? "active" : ""}
+          onClick={() => setMealType(null)}
+        >
+          Semua Menu
+        </button>
+        <button
+          className={mealType === "utama" ? "active" : ""}
+          onClick={() => setMealType("utama")}
+        >
+          Menu Utama
+        </button>
+        <button
+          className={mealType === "camilan" ? "active" : ""}
+          onClick={() => setMealType("camilan")}
+        >
+          🍪 Camilan
+        </button>
       </div>
 
       <div className="filter-row">

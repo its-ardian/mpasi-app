@@ -55,6 +55,31 @@ OUTPUT_FILE = DATA_DIR / "combined_recipes.json"
 # Files that are themselves outputs / not sources
 SKIP_FILES = {"combined_recipes.json"}
 
+# --- meal_type classification -----------------------------------------
+# Individual source files generally don't state whether a recipe is a
+# full meal ("utama") or a snack ("camilan"). Rather than maintaining that
+# by hand across every source file (where it's easy to lose on a re-merge,
+# as happened once already), it's classified here on every run, so it's
+# always present and always reproducible from the source data alone.
+CAMILAN_PATTERNS = [
+    r"^pure\b", r"^puree\b", r"puding", r"pudding",
+    r"bola-bola", r"^bola\b", r"bubur susu",
+]
+
+# Recipes where the keyword heuristic misfires -- checked individually
+# against ingredients/portion data, keyed by the final namespaced id.
+MEAL_TYPE_OVERRIDES = {
+    "kemenkes-2023:puding-kentang-ayam-telur": "utama",  # full combo dish despite the name
+    "kemenkes-2023:bola-bola-nasi-rabuk-ikan": "utama",  # 468kcal/33% daily energy = main dish
+}
+
+
+def classify_meal_type(recipe_id, title):
+    if recipe_id in MEAL_TYPE_OVERRIDES:
+        return MEAL_TYPE_OVERRIDES[recipe_id]
+    t = title.lower()
+    return "camilan" if any(re.search(p, t) for p in CAMILAN_PATTERNS) else "utama"
+
 
 def slugify(text: str) -> str:
     text = text.lower().strip()
@@ -85,6 +110,9 @@ def normalize_recipe(recipe: dict, source_id: str) -> dict:
     normalized.setdefault("source_notes", None)
     normalized.setdefault("allergens", [])
     normalized.setdefault("servings", 3)
+    normalized.setdefault(
+        "meal_type", classify_meal_type(normalized["id"], normalized["title"])
+    )
 
     return normalized
 
@@ -144,12 +172,6 @@ def main():
         all_sources.append(source_meta)
         all_recipes.append((path.name, source_meta["source_id"], len(recipes)))
         print(f"Loaded {path.name}: {len(recipes)} recipes -> source_id='{source_meta['source_id']}'")
-
-        # accumulate
-        with open(path, encoding="utf-8") as f:
-            data = json.load(f)
-        for r in data["recipes"]:
-            pass  # already normalized above; re-collect properly below
 
     # Re-run cleanly to collect normalized recipes into one flat list
     combined_recipes = []

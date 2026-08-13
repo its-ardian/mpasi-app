@@ -1,0 +1,534 @@
+{
+  "source_id": "menu-pmt-posyandu",
+  "source": "ilide_info-menu-pmt-posyandu-2025-pr (PDF)",
+  "source_title": "Menu PMT Posyandu Puskesmas Kebayoran Baru 2025",
+  "publisher": "Puskesmas Kebayoran Baru",
+  "year": 2025,
+  "recipes": [
+    {
+      "id": "bubur-kacang-hijau-telur-rebus",
+      "title": "Bubur Kacang Hijau & Telur Rebus",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Telur Ayam",
+              "amount": "60 gram (1 butir)"
+            },
+            {
+              "item": "Kacang Hijau",
+              "amount": "30 gram"
+            },
+            {
+              "item": "Susu UHT Full Cream",
+              "amount": "40 ml"
+            },
+            {
+              "item": "Gula Merah",
+              "amount": "10 gram"
+            },
+            {
+              "item": "Gula Pasir",
+              "amount": "10 gram"
+            },
+            {
+              "item": "Daun Pandan",
+              "amount": "secukupnya"
+            },
+            {
+              "item": "Jahe",
+              "amount": "secukupnya"
+            },
+            {
+              "item": "Garam",
+              "amount": "secukupnya"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": "Bubur Kacang Hijau",
+          "steps": [
+            "Didihkan air 300 ml.",
+            "Masukkan kacang hijau yang sudah dicuci bersih, jahe, daun pandan.",
+            "Jika kacang sudah empuk dan mekar, tambahkan gula merah, gula pasir, garam, santan.",
+            "Aduk hingga matang atau mendidih kembali.",
+            "Sajikan bersama roti tawar"
+          ]
+        },
+        {
+          "section": "Telur Rebus",
+          "steps": [
+            "Rebus telur ayam hingga matang",
+            "Sajikan"
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 251.3,
+        "protein_g": 22.5,
+        "lemak_g": 15.7,
+        "karbohidrat_g": 44.1
+      },
+      "allergens": [
+        "telur",
+        "susu"
+      ],
+      "source_notes": "Sumber ('Menu PMT Posyandu Puskesmas Kebayoran Baru 2025') menyatakan target usia secara umum sebagai 'balita usia 6-59 bulan' untuk seluruh resep PMT Penyuluhan, tanpa rincian usia per resep. age_stage 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, dilapisi tepung roti, bertekstur utuh -- bukan puree bayi), dikonfirmasi oleh pengguna. 1 porsi = 1 mangkuk dan 1 butir telur. Catatan tambahan: nilai gizi resep ini tidak sepenuhnya konsisten secara matematis (makro menyiratkan ~62% energi lebih tinggi dari yang tercantum) -- kemungkinan pembulatan di sumber asli. Tetap disimpan apa adanya."
+    },
+    {
+      "id": "kroket-daging",
+      "title": "Kroket Daging",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Kentang",
+              "amount": "60 gram"
+            },
+            {
+              "item": "Tepung Terigu",
+              "amount": "5 gram"
+            },
+            {
+              "item": "Tepung Panir",
+              "amount": "10 gram"
+            },
+            {
+              "item": "Daging Giling",
+              "amount": "25 gram"
+            },
+            {
+              "item": "Telur Ayam",
+              "amount": "10 gram"
+            },
+            {
+              "item": "Keju Parut",
+              "amount": "10 gram"
+            },
+            {
+              "item": "Brokoli",
+              "amount": "12 gram"
+            },
+            {
+              "item": "Margarin",
+              "amount": "3 gram"
+            },
+            {
+              "item": "Minyak goreng",
+              "amount": "secukupnya"
+            },
+            {
+              "item": "Bawang Putih",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "Daun Bawang",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "Kecap asin",
+              "amount": "secukupnya"
+            },
+            {
+              "item": "Saus tiram",
+              "amount": "secukupnya"
+            },
+            {
+              "item": "Lada",
+              "amount": "secukupnya"
+            },
+            {
+              "item": "Garam",
+              "amount": "secukupnya"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Kukus kentang dan brokoli sampai matang",
+            "Haluskan kentang dan cincang kecil brokoli",
+            "Panaskan 2 sdm margarin, tambahkan bumbu halus (bawang putih, lada bubuk, garam), tepung terigu dan air secukupnya. Angkat.",
+            "Masukkan kentang dan kuning telur yang sudah dihaluskan kedalam adonan. Aduk hingga rata. Sisihkan dan dinginkan.",
+            "Masukkan 1 sdm margarin dan daging giling. Tumis hingga matang. Sisihkan.",
+            "Ambil 1 sdm adonan dan pipihkan. Lalu isi dengan tumis daging. Bentuk menjadi bola-bola kecil. Sisihkan.",
+            "Kocok telur, celupkan kroket ke dalam telur, lalu gulingkan ke tepung roti.",
+            "Panaskan minyak, goreng kroket hingga terendam minyak.",
+            "Angkat dan tiriskan jika sudah berwarna kuning keemasan.",
+            "Kroket kentang siap disajikan"
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 192.0,
+        "protein_g": 6.5,
+        "lemak_g": 12.2,
+        "karbohidrat_g": 15.1
+      },
+      "allergens": [
+        "telur",
+        "susu",
+        "gluten",
+        "saus tiram (kerang)",
+        "daging sapi"
+      ],
+      "source_notes": "Sumber ('Menu PMT Posyandu Puskesmas Kebayoran Baru 2025') menyatakan target usia secara umum sebagai 'balita usia 6-59 bulan' untuk seluruh resep PMT Penyuluhan, tanpa rincian usia per resep. age_stage 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, dilapisi tepung roti, bertekstur utuh -- bukan puree bayi), dikonfirmasi oleh pengguna. 1 porsi = 3 buah."
+    },
+    {
+      "id": "perkedel-tahu-puyuh",
+      "title": "Perkedel Tahu Puyuh",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Tepung Terigu",
+              "amount": "7 gram"
+            },
+            {
+              "item": "Telur puyuh",
+              "amount": "1 butir"
+            },
+            {
+              "item": "Telur ayam",
+              "amount": "22 gram"
+            },
+            {
+              "item": "Ayam Giling",
+              "amount": "30 gram"
+            },
+            {
+              "item": "Tahu",
+              "amount": "40 gram"
+            },
+            {
+              "item": "Daun Katuk",
+              "amount": "5 gram (rebus)"
+            },
+            {
+              "item": "Wortel",
+              "amount": "10 gram (iris tipis / parut)"
+            },
+            {
+              "item": "Minyak untuk menggoreng",
+              "amount": null
+            },
+            {
+              "item": "Bawang Putih",
+              "amount": "1/4 siung"
+            },
+            {
+              "item": "Garam",
+              "amount": "Secukupnya"
+            },
+            {
+              "item": "Lada",
+              "amount": "Secukupnya"
+            },
+            {
+              "item": "Gula Pasir",
+              "amount": "Secukupnya"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Haluskan tahu, masukkan daun katuk yang sudah direbus, wortel, dan ayam giling, aduk hingga rata.",
+            "Tambahkan garam dan lada untuk perasa, aduk hingga merata.",
+            "Tambahkan telur dan tepung terigu sebagai perekat adonan.",
+            "Ambil kurang lebih 2 sdm adonan, masukkan ke dalam cetakan / bentuk bulat pipih, tambahkan telur puyuh rebus di atasanya. Kukus selama 10 menit.",
+            "Lumuri adonan yang sudah dikukus dengan kocokan telur. Goreng sebentar hingga kuning keemasan. Angkat dan sajikan selagi hangat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 216.7,
+        "protein_g": 13.1,
+        "lemak_g": 16.5,
+        "karbohidrat_g": 5.3
+      },
+      "allergens": [
+        "telur (puyuh)",
+        "telur",
+        "tahu (kedelai)",
+        "gluten",
+        "ayam"
+      ],
+      "source_notes": "Sumber ('Menu PMT Posyandu Puskesmas Kebayoran Baru 2025') menyatakan target usia secara umum sebagai 'balita usia 6-59 bulan' untuk seluruh resep PMT Penyuluhan, tanpa rincian usia per resep. age_stage 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, dilapisi tepung roti, bertekstur utuh -- bukan puree bayi), dikonfirmasi oleh pengguna. 1 porsi = 1 buah."
+    },
+    {
+      "id": "puding-roti-susu-telur",
+      "title": "Puding Roti Susu Telur",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Roti Tawar Kupas",
+              "amount": "20 gram"
+            },
+            {
+              "item": "Telur Ayam",
+              "amount": "25 gram"
+            },
+            {
+              "item": "Susu UHT Full Cream",
+              "amount": "25 ml"
+            },
+            {
+              "item": "Keju",
+              "amount": "10 gram"
+            },
+            {
+              "item": "Margarin",
+              "amount": "3 gram"
+            },
+            {
+              "item": "Gula Pasir",
+              "amount": "5 gram"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Campur margarin, susu, gula, dan telur. Aduk rata.",
+            "Tata roti tawar di cup Alumunium Foil. Tuang campuran susu.",
+            "Taburi dengan keju parut",
+            "Panaskan kukusan dan lapisi penutupnya dengan kain atau serbet bersih.",
+            "Kukus puding roti tawar hingga matang.",
+            "Setelah uap panasnya hilang, simpan puding di dalam kulkas. Nikmati selagi dingin."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 184.8,
+        "protein_g": 8.0,
+        "lemak_g": 9.5,
+        "karbohidrat_g": 16.2
+      },
+      "allergens": [
+        "telur",
+        "susu",
+        "gluten"
+      ],
+      "source_notes": "Sumber ('Menu PMT Posyandu Puskesmas Kebayoran Baru 2025') menyatakan target usia secara umum sebagai 'balita usia 6-59 bulan' untuk seluruh resep PMT Penyuluhan, tanpa rincian usia per resep. age_stage 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, dilapisi tepung roti, bertekstur utuh -- bukan puree bayi), dikonfirmasi oleh pengguna. 1 porsi = 1 cup."
+    },
+    {
+      "id": "arem-arem-daging",
+      "title": "Arem-Arem Daging",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Beras",
+              "amount": "30 gram"
+            },
+            {
+              "item": "Daging Giling",
+              "amount": "20 gram"
+            },
+            {
+              "item": "Wortel",
+              "amount": "10 gram"
+            },
+            {
+              "item": "Santan Instan",
+              "amount": "6,5 ml"
+            },
+            {
+              "item": "Minyak goreng",
+              "amount": "1/2 sdt (menumis isi)"
+            },
+            {
+              "item": "Bawang Merah",
+              "amount": "1/2 siung"
+            },
+            {
+              "item": "Bawang Putih",
+              "amount": "1/4 siung"
+            },
+            {
+              "item": "Kemiri",
+              "amount": "1/8 butir (sangrai)"
+            },
+            {
+              "item": "Kecap Manis",
+              "amount": "1/2 sdt"
+            },
+            {
+              "item": "Garam",
+              "amount": "Secukupnya (nasi), Secukupnya (isian)"
+            },
+            {
+              "item": "Lada",
+              "amount": "Secukupnya"
+            },
+            {
+              "item": "Pembungkus",
+              "amount": "1 lembar daun pisang, Lidi / Tusuk Gigi"
+            },
+            {
+              "item": "Rempah Aromatik Nasi Aron",
+              "amount": "1 batang sereh memarkan, 1 lembar daun salam"
+            },
+            {
+              "item": "Rempah Aromatik Isian",
+              "amount": "1 batang sereh memarkan, 1 lembar daun salam, 1 ruas lengkuas"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": "Nasi Aron",
+          "steps": [
+            "Siapkan panci masukkan beras tambah air sepermukaan beras, masak api kecil aduk rata, masak hingga air menyusut setengahnya.",
+            "Tambahkan santan instan, garam, daun salam dan sereh. Aduk rata kembali.",
+            "Masak hingga air menyusut jangan lupa tes rasa."
+          ]
+        },
+        {
+          "section": "Isian",
+          "steps": [
+            "Haluskan bawang merah bawang putih dan kemiri.",
+            "Tumis bumbu halus hingga harum tambah sereh, daun salam, lengkuas, masukkan daging masak hingga berubah warna dan empuk tambahkan sedikit air bila perlu.",
+            "Masukkan wortel. Tambahkan garam, lada, kecap manis tambahkan sedikit air bila perlu aduk rata. masak hingga sayur layu tes rasa.",
+            "Siapkan daun yg sudah dijemur atau panaskan di atas api, perkiraan ukuran daun 20x30 cm.",
+            "Ambil 2 sdm nasi aron pipihkan dengan sendok yang sudah dimasukkan kedalam plastik (agar nasi tidak lengket disendok).",
+            "Taruh 1,5 sdm isian. Tutup nasi usahakan isian tertutup. Gulung daun, semat kedua ujung dengan lidi atau tusuk gigi.",
+            "Panaskan kukusan terlebih dahulu, kukus selama 40 menit atau lebih.",
+            "Setelah arem-arem matang angkat dan dinginkan. Siap diasajikan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 184.5,
+        "protein_g": 6.4,
+        "lemak_g": 6.9,
+        "karbohidrat_g": 24.6
+      },
+      "allergens": [
+        "daging sapi"
+      ],
+      "source_notes": "Sumber ('Menu PMT Posyandu Puskesmas Kebayoran Baru 2025') menyatakan target usia secara umum sebagai 'balita usia 6-59 bulan' untuk seluruh resep PMT Penyuluhan, tanpa rincian usia per resep. age_stage 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, dilapisi tepung roti, bertekstur utuh -- bukan puree bayi), dikonfirmasi oleh pengguna. 1 porsi = 1 buah."
+    },
+    {
+      "id": "macaroni-schotel",
+      "title": "Macaroni Schotel",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Makaroni",
+              "amount": "12 gram"
+            },
+            {
+              "item": "Tepung Terigu",
+              "amount": "3 gram"
+            },
+            {
+              "item": "Daging Cincang",
+              "amount": "12 gram"
+            },
+            {
+              "item": "Susu UHT Full Cream",
+              "amount": "23 ml"
+            },
+            {
+              "item": "Keju Cheddar",
+              "amount": "5 gram"
+            },
+            {
+              "item": "Telur Ayam",
+              "amount": "13 gram"
+            },
+            {
+              "item": "Brokoli",
+              "amount": "6 gram"
+            },
+            {
+              "item": "Margarin",
+              "amount": "1 gram"
+            },
+            {
+              "item": "Minyak goreng",
+              "amount": "1 ml"
+            },
+            {
+              "item": "Garam",
+              "amount": "secukupnya"
+            },
+            {
+              "item": "Lada",
+              "amount": "secukupnya"
+            },
+            {
+              "item": "Bawang Bombay",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "Oregano Bubuk",
+              "amount": "secukupnya"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Rebus macaroni bersama minyak hingga matang (6-8 menit). Sisihkan",
+            "Tumis daging cincang dengan sedikit bombay hingga matang. Sisihkan.",
+            "Siapkan teflon, masukkan mentega dan bombay hingga harum.",
+            "Masukkan tepung terigu hingga adonan matang.",
+            "Perlahan masukkan susu cair hingga tercampur dan pastikan tidak menggumpal. Masak hingga saus mengental.",
+            "Masukkan garam dan lada ke dalam saus. Aduk rata.",
+            "Masukkan macaroni, oregano, dan daging cincang yang sudah ditumis kedalam saus. Aduk rata.",
+            "Kocok telur, lalu masukkan ke dalam adonan yang sudah dicampur. Aduk rata.",
+            "Masukkan ke dalam loyang yang sudah diolesin mentega. Kukus hingga matang.",
+            "Panggang hingga kecoklatan. Sajikan"
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 140.3,
+        "protein_g": 7.1,
+        "lemak_g": 6.5,
+        "karbohidrat_g": 12.8
+      },
+      "allergens": [
+        "telur",
+        "susu",
+        "gluten",
+        "daging sapi"
+      ],
+      "source_notes": "Sumber ('Menu PMT Posyandu Puskesmas Kebayoran Baru 2025') menyatakan target usia secara umum sebagai 'balita usia 6-59 bulan' untuk seluruh resep PMT Penyuluhan, tanpa rincian usia per resep. age_stage 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, dilapisi tepung roti, bertekstur utuh -- bukan puree bayi), dikonfirmasi oleh pengguna. 1 porsi = 1 potong."
+    }
+  ]
+}

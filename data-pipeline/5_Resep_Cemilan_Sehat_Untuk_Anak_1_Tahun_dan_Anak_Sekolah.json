@@ -1,0 +1,257 @@
+{
+  "recipes": [
+    {
+      "age_stage": "12-23 bulan",
+      "allergens": [
+        "gluten",
+        "susu",
+        "telur"
+      ],
+      "id": "roti-gulung-sayuran-keju",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "6 lembar",
+              "item": "roti tawar, pipihkan"
+            },
+            {
+              "amount": "6 lembar",
+              "item": "keju cheddar"
+            },
+            {
+              "amount": "3 sdm",
+              "item": "mayones"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "saus tomat"
+            },
+            {
+              "amount": "25 gr",
+              "item": "brokoli, rebus, cincang"
+            },
+            {
+              "amount": "25 gr",
+              "item": "wortel, rebus, cincang dadu"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 6,
+      "steps": [
+        "Untuk membuat resep camilan anak 1 tahun ini, campurkan mayones dengan wortel, brokoli, dan saus tomat. Aduk rata, lalu sisihkan.",
+        "Oles roti tawar dengan campuran mayones, lalu letakkan selembar keju di atasnya.",
+        "Gulung roti, padatkan, lalu letakkan di atas roti berikutnya. Gulung lagi. Padatkan dengan membungkusnya memakai aluminium foil. Puntir kedua ujung aluminium foilnya.",
+        "Kerjakan sisanya. Biarkan selama sekitar satu jam.",
+        "Buka bungkusan aluminium foil dan iris masing-masing gulungan roti menjadi 4 bagian. Camilan sehat untuk anak siap disajikan."
+      ],
+      "title": "Roti Gulung Sayuran Keju",
+      "source_notes": "age_stage di sumber tertulis '1-3 tahun' (rentang lebih luas dari satu bucket aplikasi ini) -- dipetakan ke 12-23 bulan atas arahan pengguna."
+    },
+    {
+      "age_stage": "12-23 bulan",
+      "allergens": [
+        "telur",
+        "susu"
+      ],
+      "id": "pancake-kentang",
+      "ingredient_groups": [
+        {
+          "group": "Bahan pancake",
+          "items": [
+            {
+              "amount": "4 butir",
+              "item": "telur ayam, pisahkan putih dan kuningnya"
+            },
+            {
+              "amount": "200 ml",
+              "item": "susu cair"
+            },
+            {
+              "amount": "100 gr",
+              "item": "tepung kentang (bisa diganti dengan mashed potato siap pakai)"
+            },
+            {
+              "amount": "100 gr",
+              "item": "gula pasir"
+            },
+            {
+              "amount": "100 ml",
+              "item": "krim kental/heavy cream"
+            },
+            {
+              "amount": "75 gr",
+              "item": "mentega tawar, lelehkan"
+            },
+            {
+              "amount": "3 sdm",
+              "item": "rum"
+            },
+            {
+              "amount": "1 sdt",
+              "item": "garam"
+            },
+            {
+              "amount": "½ sdt",
+              "item": "ekstrak vanilla"
+            },
+            {
+              "amount": "½ sdt",
+              "item": "baking powder"
+            }
+          ]
+        },
+        {
+          "group": "Bahan taburan dan pelengkap",
+          "items": [
+            {
+              "amount": "100 gr",
+              "item": "kismis"
+            },
+            {
+              "amount": "150 gr",
+              "item": "daging buah kelapa muda suwir"
+            },
+            {
+              "amount": "12 scoop",
+              "item": "es krim vanilla"
+            },
+            {
+              "amount": "12 sdm",
+              "item": "saus karamel botolan, siap pakai"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 12,
+      "steps": [
+        "Untuk membuat resep camilan anak 1 tahun ini, kocok putih telur hingga kaku. Lalu sisihkan.",
+        "Kocok kuning telur dan semua sisa bahan pancake dengan mixer hingga tercampur rata. Lalu, tambahkan putih telur, aduk rata.",
+        "Panaskan wajan datar anti lengket, olesi minyak.",
+        "Tuang 1 sendok sayur adonan pancake ke wajan. Beri taburan kismis dan daging kelapa. Masak hingga matang di kedua sisinya (± 5 menit untuk tiap sisinya). Angkat. Ulangi langkah yang sama untuk sisa bahan.",
+        "Camilan sehat untuk anak siap disajikan bersama es krim vanilla dan saus karamel."
+      ],
+      "title": "Pancake Kentang",
+      "source_notes": "age_stage di sumber tertulis '1-3 tahun' (rentang lebih luas dari satu bucket aplikasi ini) -- dipetakan ke 12-23 bulan atas arahan pengguna."
+    },
+    {
+      "age_stage": "12-23 bulan",
+      "allergens": [],
+      "id": "es-sumsum-pisang",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "6 buah",
+              "item": "pisang raja masak, kukus hingga matang, kupas, potong serong 1 cm"
+            },
+            {
+              "amount": "3 mata (50 g)",
+              "item": "nangka masak, buang bijinya, potong dadu 1 cm"
+            },
+            {
+              "amount": "150 gr",
+              "item": "tapai ketan hijau, siap pakai"
+            },
+            {
+              "amount": "180 ml",
+              "item": "sirup merah"
+            },
+            {
+              "amount": null,
+              "item": "Es batu, pecahkan"
+            }
+          ]
+        },
+        {
+          "group": "Bahan sumsum",
+          "items": [
+            {
+              "amount": "300 ml",
+              "item": "santan dari 1 butir kelapa parut"
+            },
+            {
+              "amount": "25 gr",
+              "item": "tepung beras"
+            },
+            {
+              "amount": "1 lembar",
+              "item": "daun pandan, simpulkan"
+            },
+            {
+              "amount": "50 gr",
+              "item": "gula pasir"
+            },
+            {
+              "amount": "½ sdt",
+              "item": "garam"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 6,
+      "steps": [
+        "Untuk membuat resep camilan anak 1 tahun ini, tuangkan 100 ml santan sedikit demi sedikit ke dalam mangkuk berisi tepung beras, lalu aduk-aduk hingga tercampur rata and tidak menggumpal. Sisihkan.",
+        "Didihkan sisa santan bersama daun pandan, gula, dan garam sambil diaduk. Lalu, tambahkan larutan tepung beras, aduk rata hingga kental dan matang. Angkat.",
+        "Tuang bubur sumsum ke dalam mangkuk saji, tambahkan pisang, nangka, dan tapai ketan. Tambahkan es batu. Siram dengan sirup merah.",
+        "Camilan sehat untuk anak siap disajikan."
+      ],
+      "title": "Es Sumsum Pisang",
+      "source_notes": "age_stage di sumber tertulis '1-3 tahun' (rentang lebih luas dari satu bucket aplikasi ini) -- dipetakan ke 12-23 bulan atas arahan pengguna."
+    },
+    {
+      "age_stage": "12-23 bulan",
+      "allergens": [
+        "kacang mete",
+        "oat"
+      ],
+      "id": "oatmeal-mangga-dan-kelapa",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "2 sdm",
+              "item": "kelapa parut kering"
+            },
+            {
+              "amount": "1 porsi",
+              "item": "oats (takaran sesuai selera penyajian)"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "brown sugar bubuk"
+            },
+            {
+              "amount": "80 gr",
+              "item": "mangga, potong kotak"
+            },
+            {
+              "amount": "2 sdm",
+              "item": "kacang mete, cincang kasar"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "steps": [
+        "Untuk membuat resep camilan anak 1 tahun yang satu ini, masak oats hingga matang.",
+        "Panaskan oven pada suhu 177OC.",
+        "Tebar kelapa parut di atas loyang, lalu panggang hingga warnanya keemasan (3-5 menit).",
+        "Siapkan oats yang sudah matang, taburi brown sugar di atasnya.",
+        "Tambahkan mangga, kacang mete, dan kelapa parut. Camilan sehat untuk anak siap disajikan."
+      ],
+      "title": "Oatmeal Mangga dan Kelapa",
+      "source_notes": "age_stage di sumber tertulis '1-3 tahun' (rentang lebih luas dari satu bucket aplikasi ini) -- dipetakan ke 12-23 bulan atas arahan pengguna."
+    }
+  ],
+  "source": "5 Resep Cemilan Sehat Untuk Anak 1 Tahun dan Anak Sekolah.pdf",
+  "source_id": "cemilan-sehat-anak"
+}

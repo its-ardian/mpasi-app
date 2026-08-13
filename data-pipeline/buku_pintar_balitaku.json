@@ -1,0 +1,1300 @@
+{
+  "source_id": "buku-pintar-balitaku",
+  "source": "buku_pintar_balitaku (extracted)",
+  "source_title": "Buku Pintar Balitaku",
+  "recipes": [
+    {
+      "id": "pure-kentang-susu",
+      "title": "Pure Kentang Susu",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kentang kupas potong dadu",
+              "amount": "100 gram"
+            },
+            {
+              "item": "kaldu daging atau air matang",
+              "amount": "100 ml"
+            },
+            {
+              "item": "susu/ASI",
+              "amount": "100 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Kukus kentang hingga matang dan teksturnya lunak",
+            "Masukkan kentang dan kaldu daging/ air ke dalam blender. Haluskan hingga lembut.",
+            "Tambahkan susu/ASI",
+            "Tuangkan puree ke wadah makanan. Lalu sajikan menggunakan mangkuk bayi aman."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu"
+      ],
+      "age_stage": "6-8 bulan"
+    },
+    {
+      "id": "pure-pisang",
+      "title": "Pure Pisang",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Air",
+              "amount": "200 ml"
+            },
+            {
+              "item": "Biskuit Bayi",
+              "amount": "20 gram"
+            },
+            {
+              "item": "Pisang",
+              "amount": "50 gram"
+            },
+            {
+              "item": "Susu Formula Bubuk",
+              "amount": "3 sendok makan"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Pertama haluskan biskuit bayi dan pisang.",
+            "Kemudian masak air hingga mendidih",
+            "Selanjutnya masukkan biskuit aduk rata kemudian angkat tambahkan susu formula",
+            "Kemudian kemudian tambahkan pisang yg telah dihaluskan aduk rata kembali",
+            "Lalu setelah agak dingin siap disajikan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu"
+      ],
+      "age_stage": "6-8 bulan"
+    },
+    {
+      "id": "sari-jeruk",
+      "title": "Sari Jeruk",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "jeruk manis (jeruk baby atau jeruk pontianak)",
+              "amount": "1 buah"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Cuci buah jeruk hingga benar-benar bersih",
+            "Belah jeruk menjadi dua bagian dan iris melintang",
+            "Peras buah jeruk menggunakan perasan khusus",
+            "Tuangkan air perasan ke dalam cangkir kecil dan sajikan pada bayi menggunakan sendok"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [],
+      "age_stage": "6-8 bulan"
+    },
+    {
+      "id": "bubur-susu-labu-kuning",
+      "title": "Bubur Susu Labu Kuning",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "labu kuning, kukus haluskan",
+              "amount": "100 gram"
+            },
+            {
+              "item": "tepung beras",
+              "amount": "1/2 sdm"
+            },
+            {
+              "item": "susu formula lanjutan sesuai usia, larutkan dengan 60 ml air matang",
+              "amount": "2 sdm"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Larutkan tepung beras dengan air, aduk rata. Masak dengan air mendidih dan kental",
+            "Masukkan labu kunng, didihkan kembali. Angkat, kemudian tuang larutan susu formula, aduk rata",
+            "Tuang kedalam mangkok saji, dan bubur susu labu kuning siap disajikan"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu"
+      ],
+      "age_stage": "6-8 bulan"
+    },
+    {
+      "id": "bubur-susu-beras-merah",
+      "title": "Bubur Susu Beras Merah",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "beras merah, rendam, tiriskan, haluskan, dan ayak",
+              "amount": "50 gram"
+            },
+            {
+              "item": "kaldu kaki ayam",
+              "amount": "300"
+            },
+            {
+              "item": "takar susu formula lanjutan / 100 ml ASI",
+              "amount": "2"
+            },
+            {
+              "item": "pisang ambon, keruk dan haluskan",
+              "amount": "25 g"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Campur tepung beras merah dengan kaldu ayam, aduk rata. Jerang di atas api sambil diaduk hingga matang. Angkat.",
+            "Tambahkan susu formula / ASI dan pisang, aduk rata.",
+            "Berikan pada bayi selagi hangat"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu",
+        "ayam"
+      ],
+      "age_stage": "6-8 bulan"
+    },
+    {
+      "id": "bubur-susu-daun-bayam",
+      "title": "Bubur Susu Daun Bayam",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "bayam, bersihkan",
+              "amount": "20 gr"
+            },
+            {
+              "item": "susu formula atau ASI",
+              "amount": "50 ml"
+            },
+            {
+              "item": "tepung beras",
+              "amount": "30 gr"
+            },
+            {
+              "item": "air",
+              "amount": "100"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Kukus bayam yang sudah di bersihkan tadi. Kemudian kukus higga matang. Lalu blender dan ambil sarinya. Sisihkan",
+            "Masak tepung beras dengan air hingga mengental dengan api kecil. Aduk rata. Angkat. Sisihkan",
+            "Campur sari bayam dengan bubur tepung. Kemudian tambahkan suus formula atau ASI. Aduk rata. Hidangkan hangat"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu"
+      ],
+      "age_stage": "6-8 bulan"
+    },
+    {
+      "id": "nasi-tim-saring-ikan-salmon",
+      "title": "Nasi Tim Saring Ikan Salmon",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "beras putih",
+              "amount": "25 gram"
+            },
+            {
+              "item": "air putih",
+              "amount": "500 cc"
+            },
+            {
+              "item": "daging ikan salmon tanpa tulang (fillet)",
+              "amount": "30 gram"
+            },
+            {
+              "item": "tomat potong kecil-kecil",
+              "amount": "50 gram"
+            },
+            {
+              "item": "mentega",
+              "amount": "1 sendok teh"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Siapkan panci kemudian beras bersama dengan daging ikan salmon hingga menjadi bubur",
+            "Tambahkan tomat kemudian aduk-aduk.",
+            "Tambahkan mentega lalu aduk hingga bubur mengental. Sisihkan.",
+            "Haluskan dengan blender lalu saring dengan saringan teh atau saringan kawat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "ikan (salmon)",
+        "ikan",
+        "susu"
+      ],
+      "age_stage": "9-11 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 8-10 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna."
+    },
+    {
+      "id": "nasi-tim-saring-hati-ayam",
+      "title": "Nasi Tim Saring Hati Ayam",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Bayam Merah",
+              "amount": "30 gram"
+            },
+            {
+              "item": "Beras Merah",
+              "amount": "2 sendok makan"
+            },
+            {
+              "item": "Hati Ayam",
+              "amount": "1 buah"
+            },
+            {
+              "item": "Kaldu Ayam",
+              "amount": "750 ml"
+            },
+            {
+              "item": "Tahu Putih",
+              "amount": "1 buah"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Pertama cuci bersih beras merah",
+            "Kemudian potong dadu hati ayam",
+            "Selanjutnya potong dadu tahu putih",
+            "Kemudian cuci bersih bayam merah dan iris halus",
+            "Lalu campur beras merah, kaldu kaki ayam, hati ayam, dan tahu. rebus sambil diaduk-aduk hingga menjadi bubur",
+            "Masukkan bayam, didihkan",
+            "Masukkan asi atau susu formula yang telah dicairkan, didihkan sebentar, angkat. dinginkan.",
+            "Saring bubur dengan saringan kawat kemudian hidangkan"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "tahu (kedelai)",
+        "hati ayam",
+        "ayam"
+      ],
+      "age_stage": "9-11 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 8-10 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna."
+    },
+    {
+      "id": "pure-buah-advokat",
+      "title": "Pure Buah Advokat",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "alpukat matang yang masih segar (ambil dangingnya kemudian pitong menjadi beberapa bagian)",
+              "amount": "50 gram"
+            },
+            {
+              "item": "ASI perah atau bisa menggunakan susu formula",
+              "amount": "25 cc"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Siapkan blender. Kemudian masukkan buah alpukat yang telah dipotong-potong menjadi beberapa bagian kemudian tambahkan dengan ASI atau susu formula.",
+            "Blender sampai buah alpukat benar-benar halus kira-kira 3-4 menit.",
+            "Sajikan dalam mangkuk kecil atau tempat makan bayi.",
+            "Sajikan untuk satu kali makan (lebih cocok diberikan saat makan siang)"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu"
+      ],
+      "age_stage": "9-11 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 8-10 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna."
+    },
+    {
+      "id": "bubur-tempe",
+      "title": "Bubur Tempe",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "tempe",
+              "amount": "100 gr"
+            },
+            {
+              "item": "Air matang/ASI/susu formula",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tempe dibersihkan dan dicincang",
+            "Kukus sampai matang",
+            "Haluskan dengan saringan makanan bayi, atau blender dengan air secukupnya (bisa menggunakan kaldu atau ASI/susu formula)"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "tempe (kedelai)",
+        "susu"
+      ],
+      "age_stage": "9-11 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 8-10 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna."
+    },
+    {
+      "id": "sup-krim-ayam",
+      "title": "Sup Krim Ayam",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "dada ayam tanpa tulang dan kulit",
+              "amount": "1"
+            },
+            {
+              "item": "cangkir ASI/susu formula",
+              "amount": "1"
+            },
+            {
+              "item": "tepung maizena",
+              "amount": "1/2 sdt"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Hilangkan kulit, lemak dan sisa-sisa tulang pada ayam. Cuci sampai bersih, potong dadu.",
+            "Rebus ayam dengan air secukupnya selama 10 menit atau sampai ayam matang. Angkat dan tiriskan. Simpan kaldu.",
+            "Masukkan ayam, tepung dan kaldu ke dalam blender, haluskan. Gunakan kaldu untuk mengencerkan/mengentalkan adonan hingga kekentalan yang diinginkan.",
+            "Tim adonan sampai matang. Saat ingin menyajikan tambahkan ASI/susu formula."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu",
+        "ayam"
+      ],
+      "age_stage": "9-11 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 8-10 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna."
+    },
+    {
+      "id": "bubur-jagung-manis",
+      "title": "Bubur Jagung Manis",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "jagung manis segar (iris lalu dihaluskan )",
+              "amount": "1 buah"
+            },
+            {
+              "item": "susu cair 175 ml",
+              "amount": null
+            },
+            {
+              "item": "gula pasir 3 sendok makan",
+              "amount": null
+            },
+            {
+              "item": "keju cheddar parut secukupnya",
+              "amount": null
+            },
+            {
+              "item": "tepung meizena 10 gr (larutkan dengan sedikit air )",
+              "amount": null
+            },
+            {
+              "item": "vanili bubuk",
+              "amount": "1/2 sendok teh"
+            },
+            {
+              "item": "garam halus",
+              "amount": "1/2 sendok teh"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Rebus susu cair bersama gula pasir dan vanili bubuk diatas api sedang",
+            "Aduk-aduk hingga mendidih dan gula larut dengan susu",
+            "Masukkan jagung manis yang sudah dihaluskan kedalam rebusan susu",
+            "Aduk sampai jagung menjadi setengah matang",
+            "Tambahkan garam kedalam rebusan jagung yang sedang dimasak",
+            "Tunggu beberapa menit sampai jagung matang dan mengental",
+            "Tuang larutan tepung meizena lalu aduk lagi sampai meletup-letup",
+            "Angkat lalu diamkan sampai hangat kemudian taburi dengan keju parut dan sajikan"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu"
+      ],
+      "age_stage": "9-11 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 8-10 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna."
+    },
+    {
+      "id": "nasi-tim-ayam-jagung-manis-dan-bayam",
+      "title": "Nasi Tim Ayam Jagung Manis Dan Bayam",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "jagung manis",
+              "amount": "50 gram"
+            },
+            {
+              "item": "Satu genggam bayam (iris halus)",
+              "amount": null
+            },
+            {
+              "item": "beras",
+              "amount": "30 gram"
+            },
+            {
+              "item": "ayam (haluskan dengan blender)",
+              "amount": "50 gram"
+            },
+            {
+              "item": "bawang merah (iris halus)",
+              "amount": "1 butir"
+            },
+            {
+              "item": "wortel (potong dadu)",
+              "amount": "1 buah"
+            },
+            {
+              "item": "kaldu ayam",
+              "amount": "150 cc"
+            },
+            {
+              "item": "Air",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Rebus beras hingga matang dan menjadi bubur, tambahkan ayam yang sudah di blender. Kemudian aduk sampai rata dan masukkan kaldu ayam.",
+            "Masukkan potongan jagung, lalu aduk secara perlahan hingga jagung matang",
+            "Masukkan irisan bawang sambil diaduk sampai matang",
+            "Angkat dan taburi nasi tim dengan bayam dan wortel yang sudah direbus",
+            "Siap untuk disajikan pada bayi (sajikan saat hangat)"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "ayam"
+      ],
+      "age_stage": "12-23 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 11-12 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna."
+    },
+    {
+      "id": "nasi-tim-daging-beras-merah",
+      "title": "Nasi Tim Daging Beras Merah",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "brokoli",
+              "amount": "100 gram"
+            },
+            {
+              "item": "daging Sapi",
+              "amount": "50 gram"
+            },
+            {
+              "item": "kuning telur",
+              "amount": "1 butir"
+            },
+            {
+              "item": "mentega",
+              "amount": "1 sendok teh"
+            },
+            {
+              "item": "santan",
+              "amount": "400 ml"
+            },
+            {
+              "item": "tomat",
+              "amount": "50 gram"
+            },
+            {
+              "item": "beras merah",
+              "amount": "100 gram"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Pertama rebus ubi hingga lunak, kupas dan haluskan.",
+            "Kemudian cincang halus daging sapi.",
+            "Selanjutnya cuci bersih brokoli dan cincang halus",
+            "Kemudian cincang halus tomat dan buang bijinya",
+            "Lalu campurkan semua bahan menjadi satu",
+            "Masukkan kedalam mangkuk tahan panas",
+            "Lalu dimasukkan kedalam mangkuk tahan panas yang lebih besar yang diberi air kemudian di oven.",
+            "Atau kukus hingga matang lalu angkat Sajikan selagi hangat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "telur",
+        "susu",
+        "daging sapi"
+      ],
+      "age_stage": "12-23 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 11-12 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna."
+    },
+    {
+      "id": "tim-makaroni-tabur-telur-kuning",
+      "title": "Tim Makaroni Tabur Telur Kuning",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Buncis",
+              "amount": "25 gram"
+            },
+            {
+              "item": "Kuning Telur",
+              "amount": "1 butir"
+            },
+            {
+              "item": "Makaroni",
+              "amount": "30 gram"
+            },
+            {
+              "item": "Minyak",
+              "amount": "1 sendok teh"
+            },
+            {
+              "item": "Tempe",
+              "amount": "25 gram"
+            },
+            {
+              "item": "Wortel",
+              "amount": "25 gram"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Pertama rebus makaroni sampai matang.",
+            "Kemudian potong dadu tempe.",
+            "Selanjutnya buang serat buncis dan iris halus.",
+            "Kemudian kupas wortel, cuci bersih dan parut.",
+            "Lalu rebus telur dan gunakan kuning telurnya saja untuk dihaluskan.",
+            "Masukkan parutan wortel, buncis dan makaroni pada pinggan tahan panas, beri air sampai semua bahan terendam, lalu tim.",
+            "Masukkan minyak kacang kedelai, angkat.",
+            "Taburkan kuning telur diatasnya. Hidangkan"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "telur",
+        "tempe (kedelai)"
+      ],
+      "age_stage": "12-23 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 11-12 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna."
+    },
+    {
+      "id": "tim-roti-daging",
+      "title": "Tim Roti Daging",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kaldu",
+              "amount": "250 ml"
+            },
+            {
+              "item": "daging sapi giling",
+              "amount": "25 gram"
+            },
+            {
+              "item": "wortel",
+              "amount": "25 gram"
+            },
+            {
+              "item": "jagung manis pipil",
+              "amount": "2 sdm"
+            },
+            {
+              "item": "roti tawar whole bread, potong kotak 1 cm",
+              "amount": "1 lembar"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Rebus kaldu dan daging giling sampai mendidih. Masukkan wortel, jagung manis, dan roti tawar, aduk hingga kaldu terserap.",
+            "Angkat dari api, dinginkan.",
+            "Blender kasar (sesuaikan dengan kebiasaan bayi), tuang ke dalam mangkuk tahan panas lalu kukus sekitar 20-25 menit."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "gluten",
+        "daging sapi"
+      ],
+      "age_stage": "12-23 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 11-12 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna."
+    },
+    {
+      "id": "tim-kentang-keju",
+      "title": "Tim Kentang Keju",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kentang, rebus, haluskan",
+              "amount": "200 gram"
+            },
+            {
+              "item": "krim keju",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "daging sapi giling",
+              "amount": "50 gram"
+            },
+            {
+              "item": "tahu, haluskan",
+              "amount": "50 gram"
+            },
+            {
+              "item": "brokoli, cincang halus",
+              "amount": "50 gram"
+            },
+            {
+              "item": "telur",
+              "amount": "1 butir"
+            },
+            {
+              "item": "kaldu sapi",
+              "amount": "400 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Campur semua bahan lalu aduk rata",
+            "Tematkan adonan pada mangkuk tahan panas lalu tutup dengan aluminium foil.",
+            "Panggang dalam oven sampai matang",
+            "Sajikan setelah agak dingin"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "telur",
+        "tahu (kedelai)",
+        "susu",
+        "daging sapi"
+      ],
+      "age_stage": "12-23 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 11-12 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna."
+    },
+    {
+      "id": "nasi-bayam",
+      "title": "Nasi Bayam",
+      "servings": 4,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "beras, cuci bersih",
+              "amount": "350 gram"
+            },
+            {
+              "item": "bawang putih, memarkan",
+              "amount": "2 siung"
+            },
+            {
+              "item": "jahe, memarkan",
+              "amount": "1 cm"
+            },
+            {
+              "item": "paha ayam fillet, potong dadu",
+              "amount": "150 gram"
+            },
+            {
+              "item": "jamur kancing, belah 2 bagian",
+              "amount": "100 gram"
+            },
+            {
+              "item": "garam",
+              "amount": "1/2 sendok makan"
+            },
+            {
+              "item": "merica bubuk",
+              "amount": "1/4 sendok teh"
+            },
+            {
+              "item": "air bayam, dari 100 gram bayam dan 25 ml air, blender, saring",
+              "amount": "200 ml"
+            },
+            {
+              "item": "kaldu ayam, dari rebusan tulang ayam",
+              "amount": "250 ml"
+            },
+            {
+              "item": "minyak untuk menumis",
+              "amount": "1 sendok makan"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bawang putih dan jahe sampai harum. Tambahkan ayam. Aduk sampai berubah warna. Masukkan jamur kancing. Aduk rata.",
+            "Masukkan beras, garam, dan merica bubuk. Aduk rata.",
+            "Tuang air bayam dan kaldu ayam sambil diaduk rata. Masak sampai meresap.",
+            "Kukus 45 menit di atas api sedang sampai matang."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "ayam"
+      ],
+      "age_stage": "12-23 bulan"
+    },
+    {
+      "id": "nasi-sup-ikan",
+      "title": "Nasi Sup Ikan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "ekor ikan kakap, potong masing-masing jadi 3 bagian",
+              "amount": "2"
+            },
+            {
+              "item": "belimbing wuluh",
+              "amount": "10 buah"
+            },
+            {
+              "item": "daun kemangi",
+              "amount": "50 gr"
+            },
+            {
+              "item": "air",
+              "amount": "800 ml"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "3 butir"
+            },
+            {
+              "item": "cabai merah",
+              "amount": "3 buah"
+            },
+            {
+              "item": "jahe",
+              "amount": "2 cm"
+            },
+            {
+              "item": "kunyit",
+              "amount": "1 cm"
+            },
+            {
+              "item": "garam",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "serai, memarkan",
+              "amount": "1 batang"
+            },
+            {
+              "item": "daun jeruk",
+              "amount": "2 lembar"
+            },
+            {
+              "item": "tomat, iris dadu",
+              "amount": "1 buah"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Didihkan air, masukkan bumbu halus, serai, daun jeruk dan ikan. Masak hingga bumbu meresap ke dalam ikan.",
+            "Masukkan tomat, belimbing wuluh, dan daun kemangi. Masak hingga daun kemangi layu.",
+            "Angkat, sajikan hangat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "ikan (kakap)",
+        "ikan"
+      ],
+      "age_stage": "12-23 bulan"
+    },
+    {
+      "id": "nasi-ikan-goreng",
+      "title": "Nasi Ikan Goreng",
+      "servings": 4,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "ekor ikan nila ukuran sedang, dikerat-kerat",
+              "amount": "4"
+            },
+            {
+              "item": "air jeruk nipis",
+              "amount": "2 sendok teh"
+            },
+            {
+              "item": "minyak untuk menggoreng",
+              "amount": null
+            },
+            {
+              "item": "bawang putih, dihaluskan",
+              "amount": "3 siung"
+            },
+            {
+              "item": "kemiri, disangrai, dihaluskan",
+              "amount": "2 buah"
+            },
+            {
+              "item": "ketumbar bubuk",
+              "amount": "1 sendok teh"
+            },
+            {
+              "item": "air",
+              "amount": "150 ml"
+            },
+            {
+              "item": "garam",
+              "amount": "2 sendok teh"
+            },
+            {
+              "item": "merica bubuk",
+              "amount": "1/4 sendok teh"
+            },
+            {
+              "item": "tepung protein sedang",
+              "amount": "200 gram"
+            },
+            {
+              "item": "tepung beras",
+              "amount": "50 gram"
+            },
+            {
+              "item": "baking powder",
+              "amount": "1/2 sendok teh"
+            },
+            {
+              "item": "garam",
+              "amount": "1/2 sendok teh"
+            },
+            {
+              "item": "merica bubuk",
+              "amount": "1/4 sendok teh"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Lumuri ikan dengan air jeruk nipis dan bumbu halus. Diamkan 15 menit.",
+            "Gulingkan di atas bahan pelapis. Kibas-kibaskan.",
+            "Goreng dalam minyak yang sudah dipanaskan di atas api sedang hingga matang."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "ikan (nila)",
+        "ikan",
+        "gluten"
+      ],
+      "age_stage": "12-23 bulan"
+    },
+    {
+      "id": "nugget-tahu",
+      "title": "Nugget Tahu",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Tahu Putih (hancurkan)",
+              "amount": "10 buah"
+            },
+            {
+              "item": "Tepung Terigu",
+              "amount": "8 sdm"
+            },
+            {
+              "item": "Telur Ayam",
+              "amount": "2 butir"
+            },
+            {
+              "item": "Wortel (parut halus menggunakan parutan keju)",
+              "amount": "1 buah"
+            },
+            {
+              "item": "daun bawang (cincang halus)",
+              "amount": "2 batang"
+            },
+            {
+              "item": "Bawang Bombay ukuran sedang (cincang halus)",
+              "amount": "1 buah"
+            },
+            {
+              "item": "Bawang Putih (cincang halus)",
+              "amount": "3 Siung"
+            },
+            {
+              "item": "Garam",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "Lada Bubuk",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "Margarin",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "Telur Ayam (kocok lepas)",
+              "amount": "2 butir"
+            },
+            {
+              "item": "secukupnya Tepung Roti",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bawang putih, bawang bombay dan daun bawang dengan margarin. Setelah harum matikan api.",
+            "Campurkan tumisan ke dalam tahu yang sudah dihancurkan. Tambahan telur, wortel, lada bubuk, garam dan tepung terigu. Aduk rata. Oles loyang dengan sedikit minyak agar adonan tidak kukus setelah dikukus. Kemudian kukus dalam loyang selama 20 menit.",
+            "Setelah kukusan dingin angkat dari loyang dan potong potong sesuai selera. Celupkan kedalam kocokan telur lalu gulingkan pada tepung roti. Kemudian goreng di minyak dengan api kecil saja agar warna nya bagus. Sisanya simpan dalam frezzeer."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "telur",
+        "tahu (kedelai)",
+        "susu",
+        "gluten",
+        "ayam"
+      ],
+      "age_stage": "12-23 bulan",
+      "meal_type": "camilan",
+      "source_notes": "Kategori 'Finger Snack' di sumber tidak menyertakan info usia sama sekali. Usia 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, ada gula tambahan/kental manis, nugget utuh) -- ini adalah perkiraan, bukan dari sumber."
+    },
+    {
+      "id": "cookies-keju",
+      "title": "Cookies Keju",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "tepung terigu",
+              "amount": "120 gr"
+            },
+            {
+              "item": "mentega",
+              "amount": "100 gr"
+            },
+            {
+              "item": "keju parut",
+              "amount": "100 gr"
+            },
+            {
+              "item": "kuning telur",
+              "amount": "2 butir"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Campur semua bahan. Uleni sampe kalis.",
+            "Ambil sebagian adonan, lalu pipihkan. Cetak adonan dg cetakan kue sesuai selera.",
+            "Jika tidak ada cetakan, potong2 adonan pakai pisau. Lalu pindahkan ke loyang yg sudah dioles sedikit mentega. Lalu oles dengan kuning telur.",
+            "Panggang hingga matang. Kue kuning kecoklatan.",
+            "Jika sudah dingin, masukkan kue ke toples."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "telur",
+        "susu",
+        "gluten"
+      ],
+      "age_stage": "12-23 bulan",
+      "meal_type": "camilan",
+      "source_notes": "Kategori 'Finger Snack' di sumber tidak menyertakan info usia sama sekali. Usia 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, ada gula tambahan/kental manis, nugget utuh) -- ini adalah perkiraan, bukan dari sumber."
+    },
+    {
+      "id": "puding-buah-mangga",
+      "title": "Puding Buah Mangga",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Agar-agar bubuk sebanyak 1 bungkus",
+              "amount": null
+            },
+            {
+              "item": "Gula pasir sebanyak 100 gram",
+              "amount": null
+            },
+            {
+              "item": "Air sebanyak 700 ml",
+              "amount": null
+            },
+            {
+              "item": "Susu kental manis putih sebanyak 1/2 kaleng",
+              "amount": null
+            },
+            {
+              "item": "Daging mangga pilihan sebanyak 500 gram",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Membuat puding mangga diawali dengan terlebih dahulu menghaluskan daging mangga dengan menggunakan 200 ml air.",
+            "Siapkan panci, kemudian campur susu, gula pasir, agar-agar bubuk, dan sisa air. Setelah itu aduk hingga tercampur menjadi rata.",
+            "Jika sudah rata, tambahkan mangga yang sudah diblender ke dalam campuran susu. Aduk lagi hingga rata.",
+            "Masak adonan puding tersebut di atas kompor sampai mendidih. Jangan lupa untuk terus mengaduk.",
+            "Tuangkan adonan puding ke dalam cetakan setelah itu masukkan ke dalam kulkas hingga mengeras.",
+            "Puding mangga sudah siap untuk dihidangkan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [],
+      "age_stage": "12-23 bulan",
+      "meal_type": "camilan",
+      "source_notes": "Kategori 'Finger Snack' di sumber tidak menyertakan info usia sama sekali. Usia 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, ada gula tambahan/kental manis, nugget utuh) -- ini adalah perkiraan, bukan dari sumber."
+    },
+    {
+      "id": "bola-tempe-keju",
+      "title": "Bola Tempe Keju",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "tempe",
+              "amount": "2 bungkus"
+            },
+            {
+              "item": "telur",
+              "amount": "1 butir"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "3 siung"
+            },
+            {
+              "item": "garam",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "gula pasir",
+              "amount": "1/4"
+            },
+            {
+              "item": "kaldu bubuk",
+              "amount": "1/2 bungkus"
+            },
+            {
+              "item": "merica",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "Keju mozzarella (tergantung jumlah hasil adonan bola tempe)",
+              "amount": null
+            },
+            {
+              "item": "Secukupnya tepung panir",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Kukus tempe selama 20 menit, haluskan.",
+            "Haluskan bawang putih, merica, garam, gula, kaldu bubuk. campur dengan tempe. buat adonan bola-bola seperti bakso. masukkan keju mozzarella di tengahnya kemudian tutup lagi adonan.",
+            "Celupkan adonan bola-bola tempe ke dalam telur, kemudian gulingkan ke tepung panir. lanjutkan hingga semua adonan selesai.",
+            "Goreng bola-bola tempe dalam minyak panas dan terendam sempurna dalam minyak. sajikan selagi hangat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "telur",
+        "tempe (kedelai)",
+        "susu"
+      ],
+      "age_stage": "12-23 bulan",
+      "meal_type": "camilan",
+      "source_notes": "Kategori 'Finger Snack' di sumber tidak menyertakan info usia sama sekali. Usia 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, ada gula tambahan/kental manis, nugget utuh) -- ini adalah perkiraan, bukan dari sumber."
+    }
+  ]
+}

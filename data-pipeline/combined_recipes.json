@@ -35,6 +35,28 @@
       "recipe_count": 3
     },
     {
+      "source_id": "cemilan-sehat-anak",
+      "filename": "5_Resep_Cemilan_Sehat_Untuk_Anak_1_Tahun_dan_Anak_Sekolah.json",
+      "source": "5 Resep Cemilan Sehat Untuk Anak 1 Tahun dan Anak Sekolah.pdf",
+      "source_title": null,
+      "publisher": null,
+      "year": null,
+      "isbn": null,
+      "note": null,
+      "recipe_count": 4
+    },
+    {
+      "source_id": "buku-pintar-balitaku",
+      "filename": "buku_pintar_balitaku.json",
+      "source": "buku_pintar_balitaku (extracted)",
+      "source_title": "Buku Pintar Balitaku",
+      "publisher": null,
+      "year": null,
+      "isbn": null,
+      "note": null,
+      "recipe_count": 24
+    },
+    {
       "source_id": "kemenkes-2023",
       "filename": "kemenkes_2023_recipes.json",
       "source": "5_Resep_MPASI_by_Kemenkes_2023.pdf",
@@ -57,6 +79,17 @@
       "recipe_count": 22
     },
     {
+      "source_id": "mpasi-booster-bubur",
+      "filename": "mpasi_booster_bubur.json",
+      "source": "19. EBOOK - 350+ MPASI BB BOOSTER ANAK_2.pdf",
+      "source_title": "350+ MPASI BB Booster Anak (bagian bubur)",
+      "publisher": null,
+      "year": null,
+      "isbn": null,
+      "note": null,
+      "recipe_count": 30
+    },
+    {
       "source_id": "mpasi-pptx",
       "filename": "mpasi_recipes.json",
       "source": "6_14_Resep_Basic_Menu_MPASI.pptx",
@@ -68,7 +101,7 @@
       "recipe_count": 14
     }
   ],
-  "total_recipes": 86,
+  "total_recipes": 144,
   "recipes": [
     {
       "age_stage": "6-8 bulan",
@@ -103,7 +136,15 @@
       "nutrition_per_serving": null,
       "servings": 1,
       "title": "Puding Telur Susu",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi.",
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 36,
+        "lemak_percent": 34,
+        "protein_percent": 39,
+        "karbohidrat_percent": 16,
+        "zat_besi_percent": 12,
+        "akg_reference_age": "6-8 Bulan"
+      },
       "original_id": "puding-telur-susu",
       "source_id": "bumboo-76-resep",
       "step_groups": [
@@ -122,7 +163,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -168,7 +210,15 @@
       "nutrition_per_serving": null,
       "servings": 1,
       "title": "Bubur Ikan Jagung",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi.",
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 22,
+        "lemak_percent": 17,
+        "protein_percent": 69,
+        "karbohidrat_percent": 18,
+        "zat_besi_percent": 19,
+        "akg_reference_age": "6-8 Bulan"
+      },
       "original_id": "bubur-ikan-jagung",
       "source_id": "bumboo-76-resep",
       "step_groups": [
@@ -184,7 +234,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
@@ -241,7 +292,15 @@
       "nutrition_per_serving": null,
       "servings": 2,
       "title": "Tim Telur Teri",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi.",
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 35,
+        "lemak_percent": 35,
+        "protein_percent": 51,
+        "karbohidrat_percent": 28,
+        "zat_besi_percent": 42,
+        "akg_reference_age": "9-11 Bulan"
+      },
       "original_id": "tim-telur-teri",
       "source_id": "bumboo-76-resep",
       "step_groups": [
@@ -258,7 +317,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "12-23 bulan",
@@ -312,7 +372,15 @@
       "nutrition_per_serving": null,
       "servings": 2,
       "title": "Sup Cream Ayam Jagung",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi.",
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 28,
+        "lemak_percent": 33,
+        "protein_percent": 73,
+        "karbohidrat_percent": 13,
+        "zat_besi_percent": 29,
+        "akg_reference_age": "1-3 Tahun"
+      },
       "original_id": "sup-cream-ayam-jagung",
       "source_id": "bumboo-76-resep",
       "step_groups": [
@@ -333,7 +401,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "2-5 tahun",
@@ -424,7 +493,15 @@
       "nutrition_per_serving": null,
       "servings": 2,
       "title": "Creamy Meatballs",
-      "source_notes": "Nilai gizi pada sumber asli tidak masuk akal secara fisik (mis. resep 22 kkal tercatat mengandung 69g protein — 1g protein = 4 kkal, jadi protein saja sudah jauh melebihi total kalori). Kemungkinan angka ini adalah %AKG atau nilai per takaran lain yang salah label. Dihapus daripada menampilkan data yang jelas keliru — perlu verifikasi ulang dari sumber asli sebelum diisi kembali. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti, bukan bumbu generik yang mudah disubstitusi.",
+      "source_notes": "Nilai gizi pada sumber berupa % Angka Kecukupan Gizi (AKG) harian, bukan gram/kkal absolut — lihat nutrition_percent_akg. Resep ini menggunakan produk komersial bermerek (BUMBOO) sebagai bahan inti.",
+      "nutrition_percent_akg": {
+        "energi_percent": 44,
+        "lemak_percent": 65,
+        "protein_percent": 78,
+        "karbohidrat_percent": 22,
+        "zat_besi_percent": 32,
+        "akg_reference_age": "1-3 Tahun"
+      },
       "original_id": "creamy-meatballs",
       "source_id": "bumboo-76-resep",
       "step_groups": [
@@ -443,12 +520,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:bubur-susu-dengan-asi-perah",
       "ingredient_groups": [
@@ -484,12 +562,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:bubur-hati-ayam",
       "ingredient_groups": [
@@ -538,12 +617,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "kedelai"
+        "Kedelai"
       ],
       "id": "inspirasi-menu-mpasi:bubur-bobor",
       "ingredient_groups": [
@@ -617,12 +697,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "telur"
+        "Telur"
       ],
       "id": "inspirasi-menu-mpasi:bubur-bayam-telur-puyuh",
       "ingredient_groups": [
@@ -688,13 +769,14 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ikan",
-        "kedelai"
+        "Ikan",
+        "Kedelai"
       ],
       "id": "inspirasi-menu-mpasi:bubur-ikan-campur",
       "ingredient_groups": [
@@ -755,12 +837,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "telur"
+        "Telur"
       ],
       "id": "inspirasi-menu-mpasi:bubur-cah-hati-brokoli",
       "ingredient_groups": [
@@ -822,7 +905,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
@@ -891,12 +975,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:puree-avokad",
       "ingredient_groups": [
@@ -932,12 +1017,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:puree-labu-ayam-bayam",
       "ingredient_groups": [
@@ -982,12 +1068,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:puree-pepaya-pisang",
       "ingredient_groups": [
@@ -1026,12 +1113,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:puree-pepaya-mangga",
       "ingredient_groups": [
@@ -1070,7 +1158,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "9-11 bulan",
@@ -1139,7 +1228,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
@@ -1200,12 +1290,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
       "allergens": [
-        "kedelai"
+        "Kedelai"
       ],
       "id": "inspirasi-menu-mpasi:nasi-tim-bayam",
       "ingredient_groups": [
@@ -1261,7 +1352,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
@@ -1330,14 +1422,15 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
       "allergens": [
-        "gandum",
-        "telur",
-        "susu"
+        "Gandum",
+        "Telur",
+        "Susu"
       ],
       "id": "inspirasi-menu-mpasi:makaroni-kukus",
       "ingredient_groups": [
@@ -1400,14 +1493,15 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
       "allergens": [
-        "kedelai",
-        "telur",
-        "gandum"
+        "Kedelai",
+        "Telur",
+        "Gandum"
       ],
       "id": "inspirasi-menu-mpasi:bola-bola-tempe",
       "ingredient_groups": [
@@ -1464,12 +1558,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "9-11 bulan",
       "allergens": [
-        "asi/susu"
+        "ASI/Susu"
       ],
       "id": "inspirasi-menu-mpasi:bola-ubi-pisang",
       "ingredient_groups": [
@@ -1509,12 +1604,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "udang"
+        "Udang"
       ],
       "id": "sharing-menu-mpasi-46:menu-udang-tahu-santan",
       "ingredient_groups": [
@@ -1582,12 +1678,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ikan"
+        "Ikan"
       ],
       "id": "sharing-menu-mpasi-46:bubur-ikan-gabus",
       "ingredient_groups": [
@@ -1652,12 +1749,13 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ayam"
+        "Ayam"
       ],
       "id": "sharing-menu-mpasi-46:resep-kaldu-ayam",
       "ingredient_groups": [
@@ -1700,7 +1798,1745 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
+    },
+    {
+      "age_stage": "12-23 bulan",
+      "allergens": [
+        "gluten",
+        "susu",
+        "telur"
+      ],
+      "id": "cemilan-sehat-anak:roti-gulung-sayuran-keju",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "6 lembar",
+              "item": "roti tawar, pipihkan"
+            },
+            {
+              "amount": "6 lembar",
+              "item": "keju cheddar"
+            },
+            {
+              "amount": "3 sdm",
+              "item": "mayones"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "saus tomat"
+            },
+            {
+              "amount": "25 gr",
+              "item": "brokoli, rebus, cincang"
+            },
+            {
+              "amount": "25 gr",
+              "item": "wortel, rebus, cincang dadu"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 6,
+      "title": "Roti Gulung Sayuran Keju",
+      "source_notes": "age_stage di sumber tertulis '1-3 tahun' (rentang lebih luas dari satu bucket aplikasi ini) -- dipetakan ke 12-23 bulan atas arahan pengguna.",
+      "original_id": "roti-gulung-sayuran-keju",
+      "source_id": "cemilan-sehat-anak",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Untuk membuat resep camilan anak 1 tahun ini, campurkan mayones dengan wortel, brokoli, dan saus tomat. Aduk rata, lalu sisihkan.",
+            "Oles roti tawar dengan campuran mayones, lalu letakkan selembar keju di atasnya.",
+            "Gulung roti, padatkan, lalu letakkan di atas roti berikutnya. Gulung lagi. Padatkan dengan membungkusnya memakai aluminium foil. Puntir kedua ujung aluminium foilnya.",
+            "Kerjakan sisanya. Biarkan selama sekitar satu jam.",
+            "Buka bungkusan aluminium foil dan iris masing-masing gulungan roti menjadi 4 bagian. Camilan sehat untuk anak siap disajikan."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "age_stage": "12-23 bulan",
+      "allergens": [
+        "telur",
+        "susu"
+      ],
+      "id": "cemilan-sehat-anak:pancake-kentang",
+      "ingredient_groups": [
+        {
+          "group": "Bahan pancake",
+          "items": [
+            {
+              "amount": "4 butir",
+              "item": "telur ayam, pisahkan putih dan kuningnya"
+            },
+            {
+              "amount": "200 ml",
+              "item": "susu cair"
+            },
+            {
+              "amount": "100 gr",
+              "item": "tepung kentang (bisa diganti dengan mashed potato siap pakai)"
+            },
+            {
+              "amount": "100 gr",
+              "item": "gula pasir"
+            },
+            {
+              "amount": "100 ml",
+              "item": "krim kental/heavy cream"
+            },
+            {
+              "amount": "75 gr",
+              "item": "mentega tawar, lelehkan"
+            },
+            {
+              "amount": "3 sdm",
+              "item": "rum"
+            },
+            {
+              "amount": "1 sdt",
+              "item": "garam"
+            },
+            {
+              "amount": "½ sdt",
+              "item": "ekstrak vanilla"
+            },
+            {
+              "amount": "½ sdt",
+              "item": "baking powder"
+            }
+          ]
+        },
+        {
+          "group": "Bahan taburan dan pelengkap",
+          "items": [
+            {
+              "amount": "100 gr",
+              "item": "kismis"
+            },
+            {
+              "amount": "150 gr",
+              "item": "daging buah kelapa muda suwir"
+            },
+            {
+              "amount": "12 scoop",
+              "item": "es krim vanilla"
+            },
+            {
+              "amount": "12 sdm",
+              "item": "saus karamel botolan, siap pakai"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 12,
+      "title": "Pancake Kentang",
+      "source_notes": "age_stage di sumber tertulis '1-3 tahun' (rentang lebih luas dari satu bucket aplikasi ini) -- dipetakan ke 12-23 bulan atas arahan pengguna.",
+      "original_id": "pancake-kentang",
+      "source_id": "cemilan-sehat-anak",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Untuk membuat resep camilan anak 1 tahun ini, kocok putih telur hingga kaku. Lalu sisihkan.",
+            "Kocok kuning telur dan semua sisa bahan pancake dengan mixer hingga tercampur rata. Lalu, tambahkan putih telur, aduk rata.",
+            "Panaskan wajan datar anti lengket, olesi minyak.",
+            "Tuang 1 sendok sayur adonan pancake ke wajan. Beri taburan kismis dan daging kelapa. Masak hingga matang di kedua sisinya (± 5 menit untuk tiap sisinya). Angkat. Ulangi langkah yang sama untuk sisa bahan.",
+            "Camilan sehat untuk anak siap disajikan bersama es krim vanilla dan saus karamel."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "age_stage": "12-23 bulan",
+      "allergens": [],
+      "id": "cemilan-sehat-anak:es-sumsum-pisang",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "6 buah",
+              "item": "pisang raja masak, kukus hingga matang, kupas, potong serong 1 cm"
+            },
+            {
+              "amount": "3 mata (50 g)",
+              "item": "nangka masak, buang bijinya, potong dadu 1 cm"
+            },
+            {
+              "amount": "150 gr",
+              "item": "tapai ketan hijau, siap pakai"
+            },
+            {
+              "amount": "180 ml",
+              "item": "sirup merah"
+            },
+            {
+              "amount": null,
+              "item": "Es batu, pecahkan"
+            }
+          ]
+        },
+        {
+          "group": "Bahan sumsum",
+          "items": [
+            {
+              "amount": "300 ml",
+              "item": "santan dari 1 butir kelapa parut"
+            },
+            {
+              "amount": "25 gr",
+              "item": "tepung beras"
+            },
+            {
+              "amount": "1 lembar",
+              "item": "daun pandan, simpulkan"
+            },
+            {
+              "amount": "50 gr",
+              "item": "gula pasir"
+            },
+            {
+              "amount": "½ sdt",
+              "item": "garam"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 6,
+      "title": "Es Sumsum Pisang",
+      "source_notes": "age_stage di sumber tertulis '1-3 tahun' (rentang lebih luas dari satu bucket aplikasi ini) -- dipetakan ke 12-23 bulan atas arahan pengguna.",
+      "original_id": "es-sumsum-pisang",
+      "source_id": "cemilan-sehat-anak",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Untuk membuat resep camilan anak 1 tahun ini, tuangkan 100 ml santan sedikit demi sedikit ke dalam mangkuk berisi tepung beras, lalu aduk-aduk hingga tercampur rata and tidak menggumpal. Sisihkan.",
+            "Didihkan sisa santan bersama daun pandan, gula, dan garam sambil diaduk. Lalu, tambahkan larutan tepung beras, aduk rata hingga kental dan matang. Angkat.",
+            "Tuang bubur sumsum ke dalam mangkuk saji, tambahkan pisang, nangka, dan tapai ketan. Tambahkan es batu. Siram dengan sirup merah.",
+            "Camilan sehat untuk anak siap disajikan."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "age_stage": "12-23 bulan",
+      "allergens": [
+        "kacang mete",
+        "oat"
+      ],
+      "id": "cemilan-sehat-anak:oatmeal-mangga-dan-kelapa",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "amount": "2 sdm",
+              "item": "kelapa parut kering"
+            },
+            {
+              "amount": "1 porsi",
+              "item": "oats (takaran sesuai selera penyajian)"
+            },
+            {
+              "amount": "1 sdm",
+              "item": "brown sugar bubuk"
+            },
+            {
+              "amount": "80 gr",
+              "item": "mangga, potong kotak"
+            },
+            {
+              "amount": "2 sdm",
+              "item": "kacang mete, cincang kasar"
+            }
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "servings": 1,
+      "title": "Oatmeal Mangga dan Kelapa",
+      "source_notes": "age_stage di sumber tertulis '1-3 tahun' (rentang lebih luas dari satu bucket aplikasi ini) -- dipetakan ke 12-23 bulan atas arahan pengguna.",
+      "original_id": "oatmeal-mangga-dan-kelapa",
+      "source_id": "cemilan-sehat-anak",
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Untuk membuat resep camilan anak 1 tahun yang satu ini, masak oats hingga matang.",
+            "Panaskan oven pada suhu 177OC.",
+            "Tebar kelapa parut di atas loyang, lalu panggang hingga warnanya keemasan (3-5 menit).",
+            "Siapkan oats yang sudah matang, taburi brown sugar di atasnya.",
+            "Tambahkan mangga, kacang mete, dan kelapa parut. Camilan sehat untuk anak siap disajikan."
+          ]
+        }
+      ],
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:pure-kentang-susu",
+      "title": "Pure Kentang Susu",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kentang kupas potong dadu",
+              "amount": "100 gram"
+            },
+            {
+              "item": "kaldu daging atau air matang",
+              "amount": "100 ml"
+            },
+            {
+              "item": "susu/ASI",
+              "amount": "100 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Kukus kentang hingga matang dan teksturnya lunak",
+            "Masukkan kentang dan kaldu daging/ air ke dalam blender. Haluskan hingga lembut.",
+            "Tambahkan susu/ASI",
+            "Tuangkan puree ke wadah makanan. Lalu sajikan menggunakan mangkuk bayi aman."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu"
+      ],
+      "age_stage": "6-8 bulan",
+      "original_id": "pure-kentang-susu",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null,
+      "meal_type": "camilan"
+    },
+    {
+      "id": "buku-pintar-balitaku:pure-pisang",
+      "title": "Pure Pisang",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Air",
+              "amount": "200 ml"
+            },
+            {
+              "item": "Biskuit Bayi",
+              "amount": "20 gram"
+            },
+            {
+              "item": "Pisang",
+              "amount": "50 gram"
+            },
+            {
+              "item": "Susu Formula Bubuk",
+              "amount": "3 sendok makan"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Pertama haluskan biskuit bayi dan pisang.",
+            "Kemudian masak air hingga mendidih",
+            "Selanjutnya masukkan biskuit aduk rata kemudian angkat tambahkan susu formula",
+            "Kemudian kemudian tambahkan pisang yg telah dihaluskan aduk rata kembali",
+            "Lalu setelah agak dingin siap disajikan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu"
+      ],
+      "age_stage": "6-8 bulan",
+      "original_id": "pure-pisang",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null,
+      "meal_type": "camilan"
+    },
+    {
+      "id": "buku-pintar-balitaku:sari-jeruk",
+      "title": "Sari Jeruk",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "jeruk manis (jeruk baby atau jeruk pontianak)",
+              "amount": "1 buah"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Cuci buah jeruk hingga benar-benar bersih",
+            "Belah jeruk menjadi dua bagian dan iris melintang",
+            "Peras buah jeruk menggunakan perasan khusus",
+            "Tuangkan air perasan ke dalam cangkir kecil dan sajikan pada bayi menggunakan sendok"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [],
+      "age_stage": "6-8 bulan",
+      "original_id": "sari-jeruk",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:bubur-susu-labu-kuning",
+      "title": "Bubur Susu Labu Kuning",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "labu kuning, kukus haluskan",
+              "amount": "100 gram"
+            },
+            {
+              "item": "tepung beras",
+              "amount": "1/2 sdm"
+            },
+            {
+              "item": "susu formula lanjutan sesuai usia, larutkan dengan 60 ml air matang",
+              "amount": "2 sdm"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Larutkan tepung beras dengan air, aduk rata. Masak dengan air mendidih dan kental",
+            "Masukkan labu kunng, didihkan kembali. Angkat, kemudian tuang larutan susu formula, aduk rata",
+            "Tuang kedalam mangkok saji, dan bubur susu labu kuning siap disajikan"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu"
+      ],
+      "age_stage": "6-8 bulan",
+      "original_id": "bubur-susu-labu-kuning",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null,
+      "meal_type": "camilan"
+    },
+    {
+      "id": "buku-pintar-balitaku:bubur-susu-beras-merah",
+      "title": "Bubur Susu Beras Merah",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "beras merah, rendam, tiriskan, haluskan, dan ayak",
+              "amount": "50 gram"
+            },
+            {
+              "item": "kaldu kaki ayam",
+              "amount": "300"
+            },
+            {
+              "item": "takar susu formula lanjutan / 100 ml ASI",
+              "amount": "2"
+            },
+            {
+              "item": "pisang ambon, keruk dan haluskan",
+              "amount": "25 g"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Campur tepung beras merah dengan kaldu ayam, aduk rata. Jerang di atas api sambil diaduk hingga matang. Angkat.",
+            "Tambahkan susu formula / ASI dan pisang, aduk rata.",
+            "Berikan pada bayi selagi hangat"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu",
+        "ayam"
+      ],
+      "age_stage": "6-8 bulan",
+      "original_id": "bubur-susu-beras-merah",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null,
+      "meal_type": "camilan"
+    },
+    {
+      "id": "buku-pintar-balitaku:bubur-susu-daun-bayam",
+      "title": "Bubur Susu Daun Bayam",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "bayam, bersihkan",
+              "amount": "20 gr"
+            },
+            {
+              "item": "susu formula atau ASI",
+              "amount": "50 ml"
+            },
+            {
+              "item": "tepung beras",
+              "amount": "30 gr"
+            },
+            {
+              "item": "air",
+              "amount": "100"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Kukus bayam yang sudah di bersihkan tadi. Kemudian kukus higga matang. Lalu blender dan ambil sarinya. Sisihkan",
+            "Masak tepung beras dengan air hingga mengental dengan api kecil. Aduk rata. Angkat. Sisihkan",
+            "Campur sari bayam dengan bubur tepung. Kemudian tambahkan suus formula atau ASI. Aduk rata. Hidangkan hangat"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu"
+      ],
+      "age_stage": "6-8 bulan",
+      "original_id": "bubur-susu-daun-bayam",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null,
+      "meal_type": "camilan"
+    },
+    {
+      "id": "buku-pintar-balitaku:nasi-tim-saring-ikan-salmon",
+      "title": "Nasi Tim Saring Ikan Salmon",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "beras putih",
+              "amount": "25 gram"
+            },
+            {
+              "item": "air putih",
+              "amount": "500 cc"
+            },
+            {
+              "item": "daging ikan salmon tanpa tulang (fillet)",
+              "amount": "30 gram"
+            },
+            {
+              "item": "tomat potong kecil-kecil",
+              "amount": "50 gram"
+            },
+            {
+              "item": "mentega",
+              "amount": "1 sendok teh"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Siapkan panci kemudian beras bersama dengan daging ikan salmon hingga menjadi bubur",
+            "Tambahkan tomat kemudian aduk-aduk.",
+            "Tambahkan mentega lalu aduk hingga bubur mengental. Sisihkan.",
+            "Haluskan dengan blender lalu saring dengan saringan teh atau saringan kawat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "ikan (salmon)",
+        "ikan",
+        "susu"
+      ],
+      "age_stage": "9-11 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 8-10 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna.",
+      "original_id": "nasi-tim-saring-ikan-salmon",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:nasi-tim-saring-hati-ayam",
+      "title": "Nasi Tim Saring Hati Ayam",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Bayam Merah",
+              "amount": "30 gram"
+            },
+            {
+              "item": "Beras Merah",
+              "amount": "2 sendok makan"
+            },
+            {
+              "item": "Hati Ayam",
+              "amount": "1 buah"
+            },
+            {
+              "item": "Kaldu Ayam",
+              "amount": "750 ml"
+            },
+            {
+              "item": "Tahu Putih",
+              "amount": "1 buah"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Pertama cuci bersih beras merah",
+            "Kemudian potong dadu hati ayam",
+            "Selanjutnya potong dadu tahu putih",
+            "Kemudian cuci bersih bayam merah dan iris halus",
+            "Lalu campur beras merah, kaldu kaki ayam, hati ayam, dan tahu. rebus sambil diaduk-aduk hingga menjadi bubur",
+            "Masukkan bayam, didihkan",
+            "Masukkan asi atau susu formula yang telah dicairkan, didihkan sebentar, angkat. dinginkan.",
+            "Saring bubur dengan saringan kawat kemudian hidangkan"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "tahu (kedelai)",
+        "hati ayam",
+        "ayam"
+      ],
+      "age_stage": "9-11 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 8-10 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna.",
+      "original_id": "nasi-tim-saring-hati-ayam",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:pure-buah-advokat",
+      "title": "Pure Buah Advokat",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "alpukat matang yang masih segar (ambil dangingnya kemudian pitong menjadi beberapa bagian)",
+              "amount": "50 gram"
+            },
+            {
+              "item": "ASI perah atau bisa menggunakan susu formula",
+              "amount": "25 cc"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Siapkan blender. Kemudian masukkan buah alpukat yang telah dipotong-potong menjadi beberapa bagian kemudian tambahkan dengan ASI atau susu formula.",
+            "Blender sampai buah alpukat benar-benar halus kira-kira 3-4 menit.",
+            "Sajikan dalam mangkuk kecil atau tempat makan bayi.",
+            "Sajikan untuk satu kali makan (lebih cocok diberikan saat makan siang)"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu"
+      ],
+      "age_stage": "9-11 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 8-10 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna.",
+      "original_id": "pure-buah-advokat",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
+    },
+    {
+      "id": "buku-pintar-balitaku:bubur-tempe",
+      "title": "Bubur Tempe",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "tempe",
+              "amount": "100 gr"
+            },
+            {
+              "item": "Air matang/ASI/susu formula",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tempe dibersihkan dan dicincang",
+            "Kukus sampai matang",
+            "Haluskan dengan saringan makanan bayi, atau blender dengan air secukupnya (bisa menggunakan kaldu atau ASI/susu formula)"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "tempe (kedelai)",
+        "susu"
+      ],
+      "age_stage": "9-11 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 8-10 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna.",
+      "original_id": "bubur-tempe",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:sup-krim-ayam",
+      "title": "Sup Krim Ayam",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "dada ayam tanpa tulang dan kulit",
+              "amount": "1"
+            },
+            {
+              "item": "cangkir ASI/susu formula",
+              "amount": "1"
+            },
+            {
+              "item": "tepung maizena",
+              "amount": "1/2 sdt"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Hilangkan kulit, lemak dan sisa-sisa tulang pada ayam. Cuci sampai bersih, potong dadu.",
+            "Rebus ayam dengan air secukupnya selama 10 menit atau sampai ayam matang. Angkat dan tiriskan. Simpan kaldu.",
+            "Masukkan ayam, tepung dan kaldu ke dalam blender, haluskan. Gunakan kaldu untuk mengencerkan/mengentalkan adonan hingga kekentalan yang diinginkan.",
+            "Tim adonan sampai matang. Saat ingin menyajikan tambahkan ASI/susu formula."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu",
+        "ayam"
+      ],
+      "age_stage": "9-11 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 8-10 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna.",
+      "original_id": "sup-krim-ayam",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:bubur-jagung-manis",
+      "title": "Bubur Jagung Manis",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "jagung manis segar (iris lalu dihaluskan )",
+              "amount": "1 buah"
+            },
+            {
+              "item": "susu cair 175 ml",
+              "amount": null
+            },
+            {
+              "item": "gula pasir 3 sendok makan",
+              "amount": null
+            },
+            {
+              "item": "keju cheddar parut secukupnya",
+              "amount": null
+            },
+            {
+              "item": "tepung meizena 10 gr (larutkan dengan sedikit air )",
+              "amount": null
+            },
+            {
+              "item": "vanili bubuk",
+              "amount": "1/2 sendok teh"
+            },
+            {
+              "item": "garam halus",
+              "amount": "1/2 sendok teh"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Rebus susu cair bersama gula pasir dan vanili bubuk diatas api sedang",
+            "Aduk-aduk hingga mendidih dan gula larut dengan susu",
+            "Masukkan jagung manis yang sudah dihaluskan kedalam rebusan susu",
+            "Aduk sampai jagung menjadi setengah matang",
+            "Tambahkan garam kedalam rebusan jagung yang sedang dimasak",
+            "Tunggu beberapa menit sampai jagung matang dan mengental",
+            "Tuang larutan tepung meizena lalu aduk lagi sampai meletup-letup",
+            "Angkat lalu diamkan sampai hangat kemudian taburi dengan keju parut dan sajikan"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "susu"
+      ],
+      "age_stage": "9-11 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 8-10 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna.",
+      "original_id": "bubur-jagung-manis",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:nasi-tim-ayam-jagung-manis-dan-bayam",
+      "title": "Nasi Tim Ayam Jagung Manis Dan Bayam",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "jagung manis",
+              "amount": "50 gram"
+            },
+            {
+              "item": "Satu genggam bayam (iris halus)",
+              "amount": null
+            },
+            {
+              "item": "beras",
+              "amount": "30 gram"
+            },
+            {
+              "item": "ayam (haluskan dengan blender)",
+              "amount": "50 gram"
+            },
+            {
+              "item": "bawang merah (iris halus)",
+              "amount": "1 butir"
+            },
+            {
+              "item": "wortel (potong dadu)",
+              "amount": "1 buah"
+            },
+            {
+              "item": "kaldu ayam",
+              "amount": "150 cc"
+            },
+            {
+              "item": "Air",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Rebus beras hingga matang dan menjadi bubur, tambahkan ayam yang sudah di blender. Kemudian aduk sampai rata dan masukkan kaldu ayam.",
+            "Masukkan potongan jagung, lalu aduk secara perlahan hingga jagung matang",
+            "Masukkan irisan bawang sambil diaduk sampai matang",
+            "Angkat dan taburi nasi tim dengan bayam dan wortel yang sudah direbus",
+            "Siap untuk disajikan pada bayi (sajikan saat hangat)"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "ayam"
+      ],
+      "age_stage": "12-23 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 11-12 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna.",
+      "original_id": "nasi-tim-ayam-jagung-manis-dan-bayam",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:nasi-tim-daging-beras-merah",
+      "title": "Nasi Tim Daging Beras Merah",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "brokoli",
+              "amount": "100 gram"
+            },
+            {
+              "item": "daging Sapi",
+              "amount": "50 gram"
+            },
+            {
+              "item": "kuning telur",
+              "amount": "1 butir"
+            },
+            {
+              "item": "mentega",
+              "amount": "1 sendok teh"
+            },
+            {
+              "item": "santan",
+              "amount": "400 ml"
+            },
+            {
+              "item": "tomat",
+              "amount": "50 gram"
+            },
+            {
+              "item": "beras merah",
+              "amount": "100 gram"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Pertama rebus ubi hingga lunak, kupas dan haluskan.",
+            "Kemudian cincang halus daging sapi.",
+            "Selanjutnya cuci bersih brokoli dan cincang halus",
+            "Kemudian cincang halus tomat dan buang bijinya",
+            "Lalu campurkan semua bahan menjadi satu",
+            "Masukkan kedalam mangkuk tahan panas",
+            "Lalu dimasukkan kedalam mangkuk tahan panas yang lebih besar yang diberi air kemudian di oven.",
+            "Atau kukus hingga matang lalu angkat Sajikan selagi hangat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "telur",
+        "susu",
+        "daging sapi"
+      ],
+      "age_stage": "12-23 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 11-12 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna.",
+      "original_id": "nasi-tim-daging-beras-merah",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:tim-makaroni-tabur-telur-kuning",
+      "title": "Tim Makaroni Tabur Telur Kuning",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Buncis",
+              "amount": "25 gram"
+            },
+            {
+              "item": "Kuning Telur",
+              "amount": "1 butir"
+            },
+            {
+              "item": "Makaroni",
+              "amount": "30 gram"
+            },
+            {
+              "item": "Minyak",
+              "amount": "1 sendok teh"
+            },
+            {
+              "item": "Tempe",
+              "amount": "25 gram"
+            },
+            {
+              "item": "Wortel",
+              "amount": "25 gram"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Pertama rebus makaroni sampai matang.",
+            "Kemudian potong dadu tempe.",
+            "Selanjutnya buang serat buncis dan iris halus.",
+            "Kemudian kupas wortel, cuci bersih dan parut.",
+            "Lalu rebus telur dan gunakan kuning telurnya saja untuk dihaluskan.",
+            "Masukkan parutan wortel, buncis dan makaroni pada pinggan tahan panas, beri air sampai semua bahan terendam, lalu tim.",
+            "Masukkan minyak kacang kedelai, angkat.",
+            "Taburkan kuning telur diatasnya. Hidangkan"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "telur",
+        "tempe (kedelai)"
+      ],
+      "age_stage": "12-23 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 11-12 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna.",
+      "original_id": "tim-makaroni-tabur-telur-kuning",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:tim-roti-daging",
+      "title": "Tim Roti Daging",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kaldu",
+              "amount": "250 ml"
+            },
+            {
+              "item": "daging sapi giling",
+              "amount": "25 gram"
+            },
+            {
+              "item": "wortel",
+              "amount": "25 gram"
+            },
+            {
+              "item": "jagung manis pipil",
+              "amount": "2 sdm"
+            },
+            {
+              "item": "roti tawar whole bread, potong kotak 1 cm",
+              "amount": "1 lembar"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Rebus kaldu dan daging giling sampai mendidih. Masukkan wortel, jagung manis, dan roti tawar, aduk hingga kaldu terserap.",
+            "Angkat dari api, dinginkan.",
+            "Blender kasar (sesuaikan dengan kebiasaan bayi), tuang ke dalam mangkuk tahan panas lalu kukus sekitar 20-25 menit."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "gluten",
+        "daging sapi"
+      ],
+      "age_stage": "12-23 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 11-12 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna.",
+      "original_id": "tim-roti-daging",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:tim-kentang-keju",
+      "title": "Tim Kentang Keju",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kentang, rebus, haluskan",
+              "amount": "200 gram"
+            },
+            {
+              "item": "krim keju",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "daging sapi giling",
+              "amount": "50 gram"
+            },
+            {
+              "item": "tahu, haluskan",
+              "amount": "50 gram"
+            },
+            {
+              "item": "brokoli, cincang halus",
+              "amount": "50 gram"
+            },
+            {
+              "item": "telur",
+              "amount": "1 butir"
+            },
+            {
+              "item": "kaldu sapi",
+              "amount": "400 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Campur semua bahan lalu aduk rata",
+            "Tematkan adonan pada mangkuk tahan panas lalu tutup dengan aluminium foil.",
+            "Panggang dalam oven sampai matang",
+            "Sajikan setelah agak dingin"
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "telur",
+        "tahu (kedelai)",
+        "susu",
+        "daging sapi"
+      ],
+      "age_stage": "12-23 bulan",
+      "source_notes": "age_stage disimpulkan dari kategori sumber 'Usia 11-12 bulan', yang mencakup rentang usia lebih luas dari satu bucket aplikasi ini -- dipetakan ke bucket terdekat, dikonfirmasi bersama pengguna.",
+      "original_id": "tim-kentang-keju",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:nasi-bayam",
+      "title": "Nasi Bayam",
+      "servings": 4,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "beras, cuci bersih",
+              "amount": "350 gram"
+            },
+            {
+              "item": "bawang putih, memarkan",
+              "amount": "2 siung"
+            },
+            {
+              "item": "jahe, memarkan",
+              "amount": "1 cm"
+            },
+            {
+              "item": "paha ayam fillet, potong dadu",
+              "amount": "150 gram"
+            },
+            {
+              "item": "jamur kancing, belah 2 bagian",
+              "amount": "100 gram"
+            },
+            {
+              "item": "garam",
+              "amount": "1/2 sendok makan"
+            },
+            {
+              "item": "merica bubuk",
+              "amount": "1/4 sendok teh"
+            },
+            {
+              "item": "air bayam, dari 100 gram bayam dan 25 ml air, blender, saring",
+              "amount": "200 ml"
+            },
+            {
+              "item": "kaldu ayam, dari rebusan tulang ayam",
+              "amount": "250 ml"
+            },
+            {
+              "item": "minyak untuk menumis",
+              "amount": "1 sendok makan"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bawang putih dan jahe sampai harum. Tambahkan ayam. Aduk sampai berubah warna. Masukkan jamur kancing. Aduk rata.",
+            "Masukkan beras, garam, dan merica bubuk. Aduk rata.",
+            "Tuang air bayam dan kaldu ayam sambil diaduk rata. Masak sampai meresap.",
+            "Kukus 45 menit di atas api sedang sampai matang."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "ayam"
+      ],
+      "age_stage": "12-23 bulan",
+      "original_id": "nasi-bayam",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:nasi-sup-ikan",
+      "title": "Nasi Sup Ikan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "ekor ikan kakap, potong masing-masing jadi 3 bagian",
+              "amount": "2"
+            },
+            {
+              "item": "belimbing wuluh",
+              "amount": "10 buah"
+            },
+            {
+              "item": "daun kemangi",
+              "amount": "50 gr"
+            },
+            {
+              "item": "air",
+              "amount": "800 ml"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "3 butir"
+            },
+            {
+              "item": "cabai merah",
+              "amount": "3 buah"
+            },
+            {
+              "item": "jahe",
+              "amount": "2 cm"
+            },
+            {
+              "item": "kunyit",
+              "amount": "1 cm"
+            },
+            {
+              "item": "garam",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "serai, memarkan",
+              "amount": "1 batang"
+            },
+            {
+              "item": "daun jeruk",
+              "amount": "2 lembar"
+            },
+            {
+              "item": "tomat, iris dadu",
+              "amount": "1 buah"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Didihkan air, masukkan bumbu halus, serai, daun jeruk dan ikan. Masak hingga bumbu meresap ke dalam ikan.",
+            "Masukkan tomat, belimbing wuluh, dan daun kemangi. Masak hingga daun kemangi layu.",
+            "Angkat, sajikan hangat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "ikan (kakap)",
+        "ikan"
+      ],
+      "age_stage": "12-23 bulan",
+      "original_id": "nasi-sup-ikan",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:nasi-ikan-goreng",
+      "title": "Nasi Ikan Goreng",
+      "servings": 4,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "ekor ikan nila ukuran sedang, dikerat-kerat",
+              "amount": "4"
+            },
+            {
+              "item": "air jeruk nipis",
+              "amount": "2 sendok teh"
+            },
+            {
+              "item": "minyak untuk menggoreng",
+              "amount": null
+            },
+            {
+              "item": "bawang putih, dihaluskan",
+              "amount": "3 siung"
+            },
+            {
+              "item": "kemiri, disangrai, dihaluskan",
+              "amount": "2 buah"
+            },
+            {
+              "item": "ketumbar bubuk",
+              "amount": "1 sendok teh"
+            },
+            {
+              "item": "air",
+              "amount": "150 ml"
+            },
+            {
+              "item": "garam",
+              "amount": "2 sendok teh"
+            },
+            {
+              "item": "merica bubuk",
+              "amount": "1/4 sendok teh"
+            },
+            {
+              "item": "tepung protein sedang",
+              "amount": "200 gram"
+            },
+            {
+              "item": "tepung beras",
+              "amount": "50 gram"
+            },
+            {
+              "item": "baking powder",
+              "amount": "1/2 sendok teh"
+            },
+            {
+              "item": "garam",
+              "amount": "1/2 sendok teh"
+            },
+            {
+              "item": "merica bubuk",
+              "amount": "1/4 sendok teh"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Lumuri ikan dengan air jeruk nipis dan bumbu halus. Diamkan 15 menit.",
+            "Gulingkan di atas bahan pelapis. Kibas-kibaskan.",
+            "Goreng dalam minyak yang sudah dipanaskan di atas api sedang hingga matang."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "ikan (nila)",
+        "ikan",
+        "gluten"
+      ],
+      "age_stage": "12-23 bulan",
+      "original_id": "nasi-ikan-goreng",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "source_notes": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "buku-pintar-balitaku:nugget-tahu",
+      "title": "Nugget Tahu",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Tahu Putih (hancurkan)",
+              "amount": "10 buah"
+            },
+            {
+              "item": "Tepung Terigu",
+              "amount": "8 sdm"
+            },
+            {
+              "item": "Telur Ayam",
+              "amount": "2 butir"
+            },
+            {
+              "item": "Wortel (parut halus menggunakan parutan keju)",
+              "amount": "1 buah"
+            },
+            {
+              "item": "daun bawang (cincang halus)",
+              "amount": "2 batang"
+            },
+            {
+              "item": "Bawang Bombay ukuran sedang (cincang halus)",
+              "amount": "1 buah"
+            },
+            {
+              "item": "Bawang Putih (cincang halus)",
+              "amount": "3 Siung"
+            },
+            {
+              "item": "Garam",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "Lada Bubuk",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "Margarin",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "Telur Ayam (kocok lepas)",
+              "amount": "2 butir"
+            },
+            {
+              "item": "secukupnya Tepung Roti",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Tumis bawang putih, bawang bombay dan daun bawang dengan margarin. Setelah harum matikan api.",
+            "Campurkan tumisan ke dalam tahu yang sudah dihancurkan. Tambahan telur, wortel, lada bubuk, garam dan tepung terigu. Aduk rata. Oles loyang dengan sedikit minyak agar adonan tidak kukus setelah dikukus. Kemudian kukus dalam loyang selama 20 menit.",
+            "Setelah kukusan dingin angkat dari loyang dan potong potong sesuai selera. Celupkan kedalam kocokan telur lalu gulingkan pada tepung roti. Kemudian goreng di minyak dengan api kecil saja agar warna nya bagus. Sisanya simpan dalam frezzeer."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "telur",
+        "tahu (kedelai)",
+        "susu",
+        "gluten",
+        "ayam"
+      ],
+      "age_stage": "12-23 bulan",
+      "meal_type": "camilan",
+      "source_notes": "Kategori 'Finger Snack' di sumber tidak menyertakan info usia sama sekali. Usia 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, ada gula tambahan/kental manis, nugget utuh) -- ini adalah perkiraan, bukan dari sumber.",
+      "original_id": "nugget-tahu",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null
+    },
+    {
+      "id": "buku-pintar-balitaku:cookies-keju",
+      "title": "Cookies Keju",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "tepung terigu",
+              "amount": "120 gr"
+            },
+            {
+              "item": "mentega",
+              "amount": "100 gr"
+            },
+            {
+              "item": "keju parut",
+              "amount": "100 gr"
+            },
+            {
+              "item": "kuning telur",
+              "amount": "2 butir"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Campur semua bahan. Uleni sampe kalis.",
+            "Ambil sebagian adonan, lalu pipihkan. Cetak adonan dg cetakan kue sesuai selera.",
+            "Jika tidak ada cetakan, potong2 adonan pakai pisau. Lalu pindahkan ke loyang yg sudah dioles sedikit mentega. Lalu oles dengan kuning telur.",
+            "Panggang hingga matang. Kue kuning kecoklatan.",
+            "Jika sudah dingin, masukkan kue ke toples."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "telur",
+        "susu",
+        "gluten"
+      ],
+      "age_stage": "12-23 bulan",
+      "meal_type": "camilan",
+      "source_notes": "Kategori 'Finger Snack' di sumber tidak menyertakan info usia sama sekali. Usia 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, ada gula tambahan/kental manis, nugget utuh) -- ini adalah perkiraan, bukan dari sumber.",
+      "original_id": "cookies-keju",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null
+    },
+    {
+      "id": "buku-pintar-balitaku:puding-buah-mangga",
+      "title": "Puding Buah Mangga",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "Agar-agar bubuk sebanyak 1 bungkus",
+              "amount": null
+            },
+            {
+              "item": "Gula pasir sebanyak 100 gram",
+              "amount": null
+            },
+            {
+              "item": "Air sebanyak 700 ml",
+              "amount": null
+            },
+            {
+              "item": "Susu kental manis putih sebanyak 1/2 kaleng",
+              "amount": null
+            },
+            {
+              "item": "Daging mangga pilihan sebanyak 500 gram",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Membuat puding mangga diawali dengan terlebih dahulu menghaluskan daging mangga dengan menggunakan 200 ml air.",
+            "Siapkan panci, kemudian campur susu, gula pasir, agar-agar bubuk, dan sisa air. Setelah itu aduk hingga tercampur menjadi rata.",
+            "Jika sudah rata, tambahkan mangga yang sudah diblender ke dalam campuran susu. Aduk lagi hingga rata.",
+            "Masak adonan puding tersebut di atas kompor sampai mendidih. Jangan lupa untuk terus mengaduk.",
+            "Tuangkan adonan puding ke dalam cetakan setelah itu masukkan ke dalam kulkas hingga mengeras.",
+            "Puding mangga sudah siap untuk dihidangkan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [],
+      "age_stage": "12-23 bulan",
+      "meal_type": "camilan",
+      "source_notes": "Kategori 'Finger Snack' di sumber tidak menyertakan info usia sama sekali. Usia 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, ada gula tambahan/kental manis, nugget utuh) -- ini adalah perkiraan, bukan dari sumber.",
+      "original_id": "puding-buah-mangga",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null
+    },
+    {
+      "id": "buku-pintar-balitaku:bola-tempe-keju",
+      "title": "Bola Tempe Keju",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "tempe",
+              "amount": "2 bungkus"
+            },
+            {
+              "item": "telur",
+              "amount": "1 butir"
+            },
+            {
+              "item": "bawang putih",
+              "amount": "3 siung"
+            },
+            {
+              "item": "garam",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "gula pasir",
+              "amount": "1/4"
+            },
+            {
+              "item": "kaldu bubuk",
+              "amount": "1/2 bungkus"
+            },
+            {
+              "item": "merica",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "Keju mozzarella (tergantung jumlah hasil adonan bola tempe)",
+              "amount": null
+            },
+            {
+              "item": "Secukupnya tepung panir",
+              "amount": null
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Kukus tempe selama 20 menit, haluskan.",
+            "Haluskan bawang putih, merica, garam, gula, kaldu bubuk. campur dengan tempe. buat adonan bola-bola seperti bakso. masukkan keju mozzarella di tengahnya kemudian tutup lagi adonan.",
+            "Celupkan adonan bola-bola tempe ke dalam telur, kemudian gulingkan ke tepung panir. lanjutkan hingga semua adonan selesai.",
+            "Goreng bola-bola tempe dalam minyak panas dan terendam sempurna dalam minyak. sajikan selagi hangat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": null,
+      "allergens": [
+        "telur",
+        "tempe (kedelai)",
+        "susu"
+      ],
+      "age_stage": "12-23 bulan",
+      "meal_type": "camilan",
+      "source_notes": "Kategori 'Finger Snack' di sumber tidak menyertakan info usia sama sekali. Usia 12-23 bulan disimpulkan dari kompleksitas resep (digoreng, ada gula tambahan/kental manis, nugget utuh) -- ini adalah perkiraan, bukan dari sumber.",
+      "original_id": "bola-tempe-keju",
+      "source_id": "buku-pintar-balitaku",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null
     },
     {
       "id": "kemenkes-2023:bubur-singkong-isi-ikan-ayam-saus-jeruk",
@@ -1791,7 +3627,8 @@
       ],
       "original_id": "bubur-singkong-isi-ikan-ayam-saus-jeruk",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:bubur-soto-ayam-santan",
@@ -1897,7 +3734,8 @@
       ],
       "original_id": "bubur-soto-ayam-santan",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:bubur-sup-daging-kacang-merah",
@@ -1994,7 +3832,8 @@
       ],
       "source_notes": "The 45.1 g protein figure is printed as-is in the source document but is almost certainly a typo/OCR artifact (implausible for a 98 kcal serving) — worth verifying against the original PDF before using in the app.",
       "original_id": "bubur-sup-daging-kacang-merah",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:bubur-kanju-rumbi-ayam-udang",
@@ -2111,7 +3950,8 @@
       ],
       "original_id": "bubur-kanju-rumbi-ayam-udang",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:puding-kentang-ayam-telur",
@@ -2210,7 +4050,8 @@
       ],
       "original_id": "puding-kentang-ayam-telur",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-tim-ikan-tuna-telur-puyuh",
@@ -2284,7 +4125,8 @@
       ],
       "original_id": "nasi-tim-ikan-tuna-telur-puyuh",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-tim-ayam-lele-cincang",
@@ -2357,7 +4199,8 @@
       ],
       "original_id": "nasi-tim-ayam-lele-cincang",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:mie-kukus-telur-puyuh",
@@ -2433,7 +4276,8 @@
       ],
       "original_id": "mie-kukus-telur-puyuh",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-tim-ikan-telur-sayuran",
@@ -2503,7 +4347,8 @@
       ],
       "source_notes": "The ingredient list in the source repeats '100 gr (10 sdm) nasi' as two separate lines (once as 'nasi putih', once as 'nasi') — recorded here once as a single nasi putih entry, treating the duplicate as a printing artifact.",
       "original_id": "nasi-tim-ikan-telur-sayuran",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:tim-bubur-manado-daging-udang",
@@ -2597,7 +4442,8 @@
       ],
       "original_id": "tim-bubur-manado-daging-udang",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-sup-telur-puyuh-bola-tahu-ayam",
@@ -2704,7 +4550,8 @@
       ],
       "original_id": "nasi-sup-telur-puyuh-bola-tahu-ayam",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-soto-ayam-kuah-kuning",
@@ -2852,7 +4699,8 @@
       ],
       "source_notes": "Recipe says to serve 'lengkapi dengan buah' but does not name a specific fruit/amount like the other recipes; fruit field left null rather than guessed.",
       "original_id": "nasi-soto-ayam-kuah-kuning",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:sup-telur-puyuh-ikan-air-tawar-labu-kuning",
@@ -2943,7 +4791,8 @@
       ],
       "original_id": "sup-telur-puyuh-ikan-air-tawar-labu-kuning",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-ikan-kuah-kuning",
@@ -3074,7 +4923,8 @@
       ],
       "original_id": "nasi-ikan-kuah-kuning",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nugget-tempe-ayam-sayuran",
@@ -3178,7 +5028,8 @@
       ],
       "original_id": "nugget-tempe-ayam-sayuran",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-bakar-ayam-santan",
@@ -3363,7 +5214,8 @@
       ],
       "original_id": "nasi-bakar-ayam-santan",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-sup-tabas-udang-sayur",
@@ -3533,7 +5385,8 @@
       ],
       "original_id": "nasi-sup-tabas-udang-sayur",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-masak-ayam-kecap-sayur",
@@ -3624,7 +5477,8 @@
       ],
       "original_id": "nasi-masak-ayam-kecap-sayur",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:bola-bola-nasi-rabuk-ikan",
@@ -3729,7 +5583,8 @@
       ],
       "original_id": "bola-bola-nasi-rabuk-ikan",
       "source_id": "kemenkes-2023",
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-kuning-harum-rampa-ikan-tuna-balado",
@@ -3955,7 +5810,8 @@
       ],
       "source_notes": "This is a pregnancy-menu recipe, not a baby/toddler recipe — flagged with age_stage 'ibu hamil' so it can be excluded from a baby-food-only app view. The source's 'Bahan Balado Ikan Tuna/Tongkol' ingredient list appears to duplicate the chicken/tofu/shrimp filling from the 'Nasi Bakar Ayam Santan' recipe rather than listing tuna/tongkol ingredients — likely a template copy-paste error in the original document. Cooking steps for the balado ikan and tumisan jantung components are not present in the extracted text (only 'Cara Membuat Nasi Harum' is given).",
       "original_id": "nasi-kuning-harum-rampa-ikan-tuna-balado",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:liwet-ikan-goreng-kari-daun-singkong-ebi",
@@ -4153,7 +6009,8 @@
       ],
       "source_notes": "Pregnancy-menu recipe (age_stage 'ibu hamil'), not intended for babies/toddlers.",
       "original_id": "liwet-ikan-goreng-kari-daun-singkong-ebi",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:siomay-ayam-udang-komplit",
@@ -4327,7 +6184,8 @@
       ],
       "source_notes": "Pregnancy-menu recipe (age_stage 'ibu hamil'), not intended for babies/toddlers.",
       "original_id": "siomay-ayam-udang-komplit",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:lapis-tamie-isi-ayam",
@@ -4489,7 +6347,8 @@
       ],
       "source_notes": "Pregnancy-menu recipe (age_stage 'ibu hamil'), not intended for babies/toddlers.",
       "original_id": "lapis-tamie-isi-ayam",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "id": "kemenkes-2023:nasi-rawon",
@@ -4626,7 +6485,8 @@
       ],
       "source_notes": "Pregnancy-menu recipe (age_stage 'ibu hamil'), not intended for babies/toddlers.",
       "original_id": "nasi-rawon",
-      "source_id": "kemenkes-2023"
+      "source_id": "kemenkes-2023",
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
@@ -4670,7 +6530,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -4716,7 +6577,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
@@ -4761,7 +6623,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -4812,7 +6675,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
@@ -4861,13 +6725,14 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
         "kedelai",
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:pure-kentang-wortel-tempe",
       "ingredient_groups": [
@@ -4917,7 +6782,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -4965,7 +6831,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "9-11 bulan",
@@ -5018,12 +6885,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "susu"
+        "susu (dairy)"
       ],
       "id": "menu-mpasi-buah-hati:pure-pisang-apel",
       "ingredient_groups": [
@@ -5072,7 +6940,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -5110,7 +6979,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -5156,12 +7026,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:bubur-krim-sup-ayam",
       "ingredient_groups": [
@@ -5215,12 +7086,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "12-23 bulan",
       "allergens": [
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:tim-beras-merah-buah",
       "ingredient_groups": [
@@ -5265,12 +7137,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:bubur-hati-ayam",
       "ingredient_groups": [
@@ -5323,7 +7196,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
@@ -5370,7 +7244,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
@@ -5437,12 +7312,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:bubur-kentang-kari-daging",
       "ingredient_groups": [
@@ -5504,7 +7380,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "9-11 bulan",
@@ -5568,12 +7445,13 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:pure-brokoli",
       "ingredient_groups": [
@@ -5618,13 +7496,14 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
         "kedelai",
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:bubur-tahu-sayuran",
       "ingredient_groups": [
@@ -5690,13 +7569,14 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
       "allergens": [
         "kedelai",
-        "ayam"
+        "unggas (ayam)"
       ],
       "id": "menu-mpasi-buah-hati:bubur-manado",
       "ingredient_groups": [
@@ -5758,7 +7638,8 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "age_stage": "6-8 bulan",
@@ -5803,7 +7684,1882 @@
       ],
       "page": null,
       "fruit": null,
-      "energy_contribution_percent": null
+      "energy_contribution_percent": null,
+      "meal_type": "camilan"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-ayam-beras-merah",
+      "title": "Bubur Ayam Beras Merah",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "margarin",
+              "amount": "1/2 sdm"
+            },
+            {
+              "item": "bawang putih, cincang halus",
+              "amount": "1/2 siung"
+            },
+            {
+              "item": "daging ayam giling",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "air kaldu, didihkan",
+              "amount": "300 ml"
+            },
+            {
+              "item": "wortel, iris dadu kecil",
+              "amount": "25 g"
+            },
+            {
+              "item": "beras merah, kukus setengah matang",
+              "amount": "40 g"
+            },
+            {
+              "item": "kuning telur, kocok sebentar",
+              "amount": "1 buah"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Panaskan margarin, tumis bawang putih sampai harum. Masukkan daging ayam giling, aduk sampai berubah warna. Angkat, pindahkan tumisan ke dalam panci.",
+            "Masukkan beras merah, beri air kaldu. Masak sambil diaduk sampai beras menjadi bubur.",
+            "Masukkan kuning telur kocok, aduk rata. Angkat bubur, saring dengan saringan kawat. Sajikan hangat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 164.9,
+        "protein_g": 7.5,
+        "lemak_g": 7.5,
+        "karbohidrat_g": 16.4
+      },
+      "allergens": [
+        "telur",
+        "ayam"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-ayam-beras-merah",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-beras-daging-cincang",
+      "title": "Bubur Beras Daging Cincang",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "beras, kukus setangah matang (beras aron)",
+              "amount": "40 g"
+            },
+            {
+              "item": "margarin",
+              "amount": "1/2 sdm"
+            },
+            {
+              "item": "bawang putih, cincang halus",
+              "amount": "1/2 siung"
+            },
+            {
+              "item": "daging sapi giling",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "wortel, potong kecil-kecil",
+              "amount": "20 g"
+            },
+            {
+              "item": "bayam, petik daunnya, cuci dengan air garam",
+              "amount": "3 batang"
+            },
+            {
+              "item": "air kaldu",
+              "amount": "300 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Panaskan margarin, tumis bawang putih sampai harum. Masukkan daging giling, aduk sampai berubah warna. Masukkan wortel dan bayam, aduk rata.",
+            "Tambahkan 2 sdm air/kaldu, aduk sampai daging matang. Angkat, sisihkan.",
+            "Didihkan air/kaldu, masukkan beras aron. Tambahkan tumisan daging dan sayuran, aduk rata. Masak sampai bubur matang, angkat. Proses bubur dengan blender sampai lembut. Sajikan hangat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 107.3,
+        "protein_g": 2.9,
+        "lemak_g": 3.0,
+        "karbohidrat_g": 16.6
+      },
+      "allergens": [
+        "daging sapi"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-beras-daging-cincang",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-beras-labu-kuning",
+      "title": "Bubur Beras Labu Kuning",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kaldu daging",
+              "amount": "400 ml"
+            },
+            {
+              "item": "beras, kukus setengah matang",
+              "amount": "40 g"
+            },
+            {
+              "item": "labu kuning, parut",
+              "amount": "40 g"
+            },
+            {
+              "item": "jagung manis, parut",
+              "amount": "10 g"
+            },
+            {
+              "item": "daging sapi giling",
+              "amount": "20 g"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Didihkan kaldu daging, masukkan beras. Masak beras sambil diaduk sampai menjadi bubur.",
+            "Masukkan labu kuning, jagung manis, dan daging giling. Lanjutkan memasak sambil diaduk sampai daging matang. Angkat.",
+            "Saring bubur dengan bantuan saringan kawat dan punggung sendok."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 187.7,
+        "protein_g": 11.8,
+        "lemak_g": 5.5,
+        "karbohidrat_g": 22.0
+      },
+      "allergens": [
+        "daging sapi"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-beras-labu-kuning",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-beras-merah",
+      "title": "Bubur Beras Merah",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "margarin",
+              "amount": "1/2 sdm"
+            },
+            {
+              "item": "bawang putih, cincang halus",
+              "amount": "1/2 siung"
+            },
+            {
+              "item": "daging ikan tenggiri, lumuri dengan sedikit garam dan air jeruk nipis, cuci bersih",
+              "amount": "40 g"
+            },
+            {
+              "item": "buncis, iris halus",
+              "amount": "25 g"
+            },
+            {
+              "item": "tempe, kukus, iris kecil-kecil",
+              "amount": "50 g"
+            },
+            {
+              "item": "air kaldu",
+              "amount": "300 ml"
+            },
+            {
+              "item": "beras merah, kukus setengah matang (diaron)",
+              "amount": "40 g"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Panaskan margarin, tumis bawang putih sampai harum. Masukkan daging ikan tenggiri, tempe, dan buncis, aduk sampai matang. Angkat, haluskan.",
+            "Didihkan air/kaldu, masukkan beras merah. Aduk beras sampai menjadi bubur kasar.",
+            "Masukkan tumisan ikan, aduk sampai semua bahan matang. Angkat, sajikan hangat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 168.8,
+        "protein_g": 11.0,
+        "lemak_g": 4.9,
+        "karbohidrat_g": 20.7
+      },
+      "allergens": [
+        "ikan (tenggiri)",
+        "tempe (kedelai)"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-beras-merah",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-bit-tepung-hunkwe",
+      "title": "Bubur Bit Tepung Hunkwe",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "bit, rebus",
+              "amount": "50 g"
+            },
+            {
+              "item": "kaldu daging (didapat dari merebus tulang/sepotong daging)",
+              "amount": "300 ml"
+            },
+            {
+              "item": "tepung hunkwe",
+              "amount": "50 g"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Kupas dan potong-potong bit, satukan bersama kaldu daging. Proses dengan blender sampai halus.",
+            "Tambahkan tepung hunkwe, aduk rata. Masak sambil diaduk dengan api kecil sampai matang, angkat. Saring."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 248.0,
+        "protein_g": 3.3,
+        "lemak_g": 1.4,
+        "karbohidrat_g": 54.3
+      },
+      "allergens": [],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-bit-tepung-hunkwe",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-biskuit-pisang-susu",
+      "title": "Bubur Biskuit Pisang Susu",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "biskuit mari susu",
+              "amount": "5 keping"
+            },
+            {
+              "item": "pisang ambon matang",
+              "amount": "1 buah"
+            },
+            {
+              "item": "susu formula",
+              "amount": "250 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Hancurkan biskuit, rendam dengan susu sampai mengembang.",
+            "Keruk daging buah pisang dengan sendok. Campur dengan biskuit yang sudah direndam susu. Aduk rata. Sajikan pada bayi."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 308.5,
+        "protein_g": 10.3,
+        "lemak_g": 9.2,
+        "karbohidrat_g": 48.0
+      },
+      "allergens": [
+        "susu",
+        "gluten"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-biskuit-pisang-susu",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-ceker-sawi-hijau",
+      "title": "Bubur Ceker Sawi Hijau",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "ceker ayam, kupas kulit arinya",
+              "amount": "1 potong"
+            },
+            {
+              "item": "nasi putih",
+              "amount": "100 g"
+            },
+            {
+              "item": "daun sawi hijau",
+              "amount": "25 g"
+            },
+            {
+              "item": "air",
+              "amount": "250 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Bersihkan ceker ayam. Masak ceker bersama nasi putih, dan air dengan api kecil sampai lunak dan matang.",
+            "Tambahkan sawi hijau, aduk rata. Masak sampai sawi layu, angkat.",
+            "Buang tulang ceker. Haluskan bubur dengan blender. Sajikan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 395.0,
+        "protein_g": 10.1,
+        "lemak_g": 2.6,
+        "karbohidrat_g": 80.0
+      },
+      "allergens": [
+        "ayam"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-ceker-sawi-hijau",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-daging-cincang",
+      "title": "Bubur Daging Cincang",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "margarin",
+              "amount": "1/2 sdt"
+            },
+            {
+              "item": "bawang bombai, cincang halus",
+              "amount": "1 g"
+            },
+            {
+              "item": "daging sapi giling",
+              "amount": "30 g"
+            },
+            {
+              "item": "wortel, potong dadu",
+              "amount": "20 g"
+            },
+            {
+              "item": "daun bayam",
+              "amount": "1 genggam"
+            },
+            {
+              "item": "air kaldu daging",
+              "amount": "400 ml"
+            },
+            {
+              "item": "beras, kukus setengah matang (aron)",
+              "amount": "40 g"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Panaskan margarin, tumis bawang bombai sampai layu. Masukkan daging giling, aduk sampai berubah warna. Tambahkan 2 sdm air kaldu, aduk sampai matang. Angkat.",
+            "Didihkan air kaldu, masukkan beras aron. Masak beras sampai menjadi bubur. Tambahkan tumisan daging, wortel dan daun bayam. Aduk kembali sampai rata.",
+            "Masak sampai bubur matang, angkat. Haluskan bubur dengan blender."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 92.4,
+        "protein_g": 8.2,
+        "lemak_g": 3.1,
+        "karbohidrat_g": 7.7
+      },
+      "allergens": [
+        "daging sapi"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-daging-cincang",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-havermut-pisang",
+      "title": "Bubur Havermut Pisang",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "susu cair",
+              "amount": "350 ml"
+            },
+            {
+              "item": "havermut instan, blender",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "pisang ambon matang, haluskan",
+              "amount": "1/2 buah"
+            },
+            {
+              "item": "sari buah jeruk manis (Simpan dalam lemari es sebelum digunakan)",
+              "amount": "150 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Panaskan susu, masukkan havermut sedikit demi sedikit sambil diaduk sampai mendidih dan menjadi menjadi bubur kental.",
+            "Tambahkan pisang ambon, aduk sampai mendidih lagi. Angkat.",
+            "Sajikan dengan sari jeruk manis."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 96.3,
+        "protein_g": 2.8,
+        "lemak_g": 3.1,
+        "karbohidrat_g": 15.4
+      },
+      "allergens": [
+        "susu",
+        "gluten"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-havermut-pisang",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-ikan-tenggiri",
+      "title": "Bubur Ikan Tenggiri",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "margarin",
+              "amount": "1/2 sdt"
+            },
+            {
+              "item": "bawang bombai, cincang halus",
+              "amount": "10 g"
+            },
+            {
+              "item": "fillet tenggiri, lumuri dengan sedikit air jerun nipis, bilas",
+              "amount": "40 g"
+            },
+            {
+              "item": "wortel, potong dadu kecil",
+              "amount": "25 g"
+            },
+            {
+              "item": "air kaldu ayam",
+              "amount": "400 ml"
+            },
+            {
+              "item": "beras merah, kukus setengah matang (aron)",
+              "amount": "40 g"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Panaskan margarin, tumis bawang bombai sampai layu. Masukkan fillet tenggiri, aduk sampai matang. Angkat.",
+            "Didihkan air kaldu ayam, masukkan bears merah aron. Masak sambil sesekali diaduk sampai menjadi bubur.",
+            "Tambahkan tumisan ikan dan wortel, masak sampai semua matang. Angkat, haluskan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 97.8,
+        "protein_g": 8.2,
+        "lemak_g": 4.1,
+        "karbohidrat_g": 7.1
+      },
+      "allergens": [
+        "ikan (tenggiri)"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-ikan-tenggiri",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-ikan-tuna",
+      "title": "Bubur Ikan Tuna",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kaldu daging",
+              "amount": "400 ml"
+            },
+            {
+              "item": "beras, kukus setengah matang (aron)",
+              "amount": "40 g"
+            },
+            {
+              "item": "daun bayam",
+              "amount": "100 g"
+            },
+            {
+              "item": "fillet tuna, lumuri sedikit air jeruk nipis, bilas",
+              "amount": "40 g"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Didihkan kaldu daging, masukkan beras aron dan fillet tuna. Masak sambil sesekali diaduk sampai menjadi bubur.",
+            "Masukkan daun bayam, masak sampai matang. Angkat, haluskan bubur."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 94.3,
+        "protein_g": 8.3,
+        "lemak_g": 3.6,
+        "karbohidrat_g": 7.0
+      },
+      "allergens": [
+        "ikan (tuna)"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-ikan-tuna",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-jagung-ayam",
+      "title": "Bubur Jagung Ayam",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "jagung manis pipil",
+              "amount": "100 g"
+            },
+            {
+              "item": "tepung maizena, larutkan dengan sedikit air",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "fillet ayam, potong-potong",
+              "amount": "50 g"
+            },
+            {
+              "item": "susu kedelai",
+              "amount": "100 ml"
+            },
+            {
+              "item": "air kaldu ayam",
+              "amount": "100 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Masak air kaldu bersama jagung manis dan fillet ayam.",
+            "Masukkan susu kedelai dan larutan tepung maizena. Aduk sampai matang, angkat.",
+            "Haluskan bubur jagung dengan blender. Sajikan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 346.5,
+        "protein_g": 20.9,
+        "lemak_g": 15.2,
+        "karbohidrat_g": 35.0
+      },
+      "allergens": [
+        "kedelai",
+        "ayam"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-jagung-ayam",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-jagung-ceker-ayam",
+      "title": "Bubur Jagung Ceker Ayam",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "ceker ayam, bersihkan",
+              "amount": "5 potong"
+            },
+            {
+              "item": "air untuk merebus ceker ayam",
+              "amount": "1 liter"
+            },
+            {
+              "item": "margarin",
+              "amount": "1/2 sdm"
+            },
+            {
+              "item": "bawang putih, cincang halus",
+              "amount": "1/2 siung"
+            },
+            {
+              "item": "daging ayam giling",
+              "amount": "2 sdm"
+            },
+            {
+              "item": "beras, kukus setengah matang (beras aron)",
+              "amount": "30 g"
+            },
+            {
+              "item": "jagung, iris bulirnya",
+              "amount": "1/2 tongkol"
+            },
+            {
+              "item": "wortel, iris dadu kecil",
+              "amount": "20 g"
+            },
+            {
+              "item": "tomat, buang bijinya, iris kecil",
+              "amount": "1/2 buah"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Potong ceker ayam menjadi beberapa bagian, rebus sampai lunak. Angkat, sisihkan kaldu perebus ceker ayam.",
+            "Panaskan margarin, tumis bawang putih sampai harum. Masukkan daging ayam giling. Angkat, pindahkan tumisan ayam ke dalam panci.",
+            "Masukkan beras aron, jagung, wortel, dan 250 ml kaldu ceker ayam. Masak sambil diaduk sampai beras hampir menjadi bubur.",
+            "Masukkan tomat, lanjutkan memasak sampai bubur matang. Angkat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 117.8,
+        "protein_g": 4.5,
+        "lemak_g": 4.1,
+        "karbohidrat_g": 15.8
+      },
+      "allergens": [
+        "ayam"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-jagung-ceker-ayam",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-jagung-ikan-kakap",
+      "title": "Bubur Jagung Ikan Kakap",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kaldu kaldu ayam",
+              "amount": "250 ml"
+            },
+            {
+              "item": "jagung manis, iris bulirnya",
+              "amount": "1/2 tongkol"
+            },
+            {
+              "item": "daging ikan kakap, cincang",
+              "amount": "40 g"
+            },
+            {
+              "item": "tahu, hancurkan",
+              "amount": "40 g"
+            },
+            {
+              "item": "daun bawang, iris halus",
+              "amount": "5 cm"
+            },
+            {
+              "item": "daun seledri, iris halus",
+              "amount": "3 lembar"
+            },
+            {
+              "item": "tomat masak, buang bijinya, cincang halus",
+              "amount": "1 buah"
+            },
+            {
+              "item": "wortel, parut",
+              "amount": "20 g"
+            },
+            {
+              "item": "air",
+              "amount": "100 ml"
+            },
+            {
+              "item": "tepung maizena, larutkan dengan sedikit air",
+              "amount": "1/2 sdt"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Didihkan air kaldu, masukkan jagung, daging ikan, dan tahu. Masak sampai matang dan menjadi bubur.",
+            "Tambahkan daun bawang dan seledri, aduk rata. Angkat bubur, proses dengan blender sampai halus.",
+            "Saus tomat: masak tomat dan wortel dalam air, sampai lunak. Haluskan dengan punggung sendok. Didihkan kembali. Tambahkan larutan maizena, aduk sampai kental. Angkat, sajikan bersama bubur kakap."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 60.4,
+        "protein_g": 6.2,
+        "lemak_g": 1.5,
+        "karbohidrat_g": 6.4
+      },
+      "allergens": [
+        "ikan (kakap)",
+        "tahu (kedelai)"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-jagung-ikan-kakap",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-jagung-kacang-hijau",
+      "title": "Bubur Jagung Kacang Hijau",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "tepung beras",
+              "amount": "2 sdm"
+            },
+            {
+              "item": "tepung kacang hijau",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "tepung maizena",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "air untuk melarutkan tepung",
+              "amount": "100 ml"
+            },
+            {
+              "item": "susu cair",
+              "amount": "400 ml"
+            },
+            {
+              "item": "pepaya matang",
+              "amount": "100 g"
+            },
+            {
+              "item": "air matang",
+              "amount": "30 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Satukan tepung beras, kacang hijau, dan maizena, larutkan dengan air. Aduk rata.",
+            "Panaskan susu, masukkan larutan tepung. Aduk sampai matang dan kental. Angkat.",
+            "Proses pepaya dan air denngan blender sampai halus, tuang ke atas bubur."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 105.4,
+        "protein_g": 2.7,
+        "lemak_g": 2.9,
+        "karbohidrat_g": 17.0
+      },
+      "allergens": [
+        "susu",
+        "kacang"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-jagung-kacang-hijau",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-kacang-hijau-ubi",
+      "title": "Bubur Kacang Hijau Ubi",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "ubi madu (±1/2 buah)",
+              "amount": "100 g"
+            },
+            {
+              "item": "tepung kacang hijau/hunkwe",
+              "amount": "30 g"
+            },
+            {
+              "item": "susu kedelai",
+              "amount": "175 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Cuci ubi madu, kukus sampai matang. Angkat. Kupas kulitnya, sisihkan.",
+            "Larutkan susu kedelai bersama tepung hunkwe. Masukkan ubi madu, aduk rata. Masak sambil diaduk sampai matang dan ubi hancur. Angkat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 397.8,
+        "protein_g": 9.3,
+        "lemak_g": 7.0,
+        "karbohidrat_g": 75.2
+      },
+      "allergens": [
+        "kedelai",
+        "kacang"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-kacang-hijau-ubi",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-kedelai",
+      "title": "Bubur Kedelai",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kacang kedelai, rendam semalam",
+              "amount": "100 g"
+            },
+            {
+              "item": "air matang",
+              "amount": "200 ml"
+            },
+            {
+              "item": "bubuk susu formula",
+              "amount": "1 sdt"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Rebus kacang kedelai sampai empuk. Biarkan dingin.",
+            "Satukan kedelai rebus dengan air matang, proses dengan blender sampai halus. Tambahkan susu formula, aduk rata.",
+            "Panaskan bubur dengan api kecil sambil diaduk sampai matang. Angkat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 219.1,
+        "protein_g": 18.8,
+        "lemak_g": 10.5,
+        "karbohidrat_g": 16.4
+      },
+      "allergens": [
+        "kedelai",
+        "susu"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-kedelai",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-kentang-hati-ayam",
+      "title": "Bubur Kentang Hati Ayam",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kentang (±1 buah), kupas",
+              "amount": "200 g"
+            },
+            {
+              "item": "air",
+              "amount": "375 ml"
+            },
+            {
+              "item": "hati ayam",
+              "amount": "1 potong"
+            },
+            {
+              "item": "jahe, memarkan",
+              "amount": "1 cm"
+            },
+            {
+              "item": "kacang polong beku, rendam dalam air panas",
+              "amount": "25 g"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Potong-potong kentang, masak bersama hati ayam, dan jahe sampai empuk dan matang. Tambahkan kacang polong, aduk sampai kacang polong matang. Singkirkan jahenya.",
+            "Haluskan bubur kentang dengan blender. Sajikan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 260.7,
+        "protein_g": 12.9,
+        "lemak_g": 1.9,
+        "karbohidrat_g": 48.9
+      },
+      "allergens": [
+        "kacang",
+        "hati ayam"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-kentang-hati-ayam",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-kentang-ikan-salmon",
+      "title": "Bubur Kentang Ikan Salmon",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kentang (±1 buah), cuci",
+              "amount": "100 g"
+            },
+            {
+              "item": "Air untuk merebus",
+              "amount": null
+            },
+            {
+              "item": "fillet ikan salmon",
+              "amount": "50 g"
+            },
+            {
+              "item": "air matang",
+              "amount": "150 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Rebus kentang sampai matang dan empuk, angkat. Kupas kentang, haluskan selagi panas.",
+            "Masak kentang, ikan salmon, dan air dengan api kecil sampai matang. Angkat. Haluskan dengan blender."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 163.0,
+        "protein_g": 7.6,
+        "lemak_g": 3.3,
+        "karbohidrat_g": 26.7
+      },
+      "allergens": [
+        "ikan (salmon)"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-kentang-ikan-salmon",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-kentang-kari-daging",
+      "title": "Bubur Kentang Kari Daging",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "beras, kukus setengah matang (aron)",
+              "amount": "40 g"
+            },
+            {
+              "item": "margarin",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "daging ayam cincang",
+              "amount": "50 g"
+            },
+            {
+              "item": "bubuk kari",
+              "amount": "1/2 sdt"
+            },
+            {
+              "item": "kentang, ukuran sedang, iris kecil-kecil",
+              "amount": "1 buah"
+            },
+            {
+              "item": "air kaldu",
+              "amount": "400 ml"
+            },
+            {
+              "item": "brokoli, rendam air garam, cincang",
+              "amount": "2 kuntum"
+            },
+            {
+              "item": "daun seledri",
+              "amount": "3 lembar"
+            },
+            {
+              "item": "santan kental",
+              "amount": "1 sdt"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Panaskan margarin, tumis daging ayam sampai berubah warna. Tambahkan bubuk kari, aduk sampai daging ayam matang. Angkat.",
+            "Didihkan air kaldu, masukkan beras aron dan kentang. Masak sampai bulir beras merekah. Masukkan tumisan daging ayam, brokoli, daun seledri, dan santan. Aduk, sampai menjadi bubur. Angkat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 194.4,
+        "protein_g": 9.1,
+        "lemak_g": 7.0,
+        "karbohidrat_g": 22.9
+      },
+      "allergens": [
+        "ayam"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-kentang-kari-daging",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-kentang-panggang-keju",
+      "title": "Bubur Kentang Panggang Keju",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "margarin",
+              "amount": "1/2 sdm"
+            },
+            {
+              "item": "bawang putih, cincang halus",
+              "amount": "1 siung"
+            },
+            {
+              "item": "daging ayam giling",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "kentang (± 100 g)",
+              "amount": "1 buah"
+            },
+            {
+              "item": "kuning telur ayam, kocok",
+              "amount": "1"
+            },
+            {
+              "item": "susu cair",
+              "amount": "50 ml"
+            },
+            {
+              "item": "wortel, parut",
+              "amount": "25 g"
+            },
+            {
+              "item": "keju parut",
+              "amount": "1 sdm"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Panaskan margarin, tumis bawang putih sampai harum. Masukkan daging ayam giling, aduk sampai matang. Angkat.",
+            "Kukus kentang sampai matang, haluskan selagi panas. Campur kentang dengan kuning telur, tumisan ayam, susu cair, wortel, keju parut, dan gula pasir. Aduk rata.",
+            "Siapkan wadah tahan panas, olesi margarin tipis-tipis. Tuang adonan kentang ke dalamnya, panggang ±20 menit. Sajikan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 160.2,
+        "protein_g": 7.9,
+        "lemak_g": 7.5,
+        "karbohidrat_g": 15.1
+      },
+      "allergens": [
+        "telur",
+        "susu",
+        "ayam"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-kentang-panggang-keju",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-labu-ikan-kakap",
+      "title": "Bubur Labu Ikan Kakap",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "fillet ikan kakap putih",
+              "amount": "75 g"
+            },
+            {
+              "item": "jeruk nipis, ambil airnya",
+              "amount": "1/4 butir"
+            },
+            {
+              "item": "air",
+              "amount": "350 ml"
+            },
+            {
+              "item": "labu kuning, kupas, potong-potong",
+              "amount": "200 g"
+            },
+            {
+              "item": "seledri, iris halus",
+              "amount": "1/2 batang"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Lumuri ikan kakap putih dengan air jeruk nipis selama 15 menit, bilas sampai bersih. Potong-potong daging ikan kakap. Sisihkan.",
+            "Panaskan air bersama labu kuning dan fillet ikan kakap sampai empuk dan matang. Tambahkan seledri, aduk sampai layu. Angkat.",
+            "Haluskan bubur labu dengan blender. Sajikan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 163.4,
+        "protein_g": 16.9,
+        "lemak_g": 1.8,
+        "karbohidrat_g": 22.0
+      },
+      "allergens": [
+        "ikan (kakap)"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-labu-ikan-kakap",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-labu-susu-kedelai",
+      "title": "Bubur Labu Susu Kedelai",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "labu kuning, kupas",
+              "amount": "200 g"
+            },
+            {
+              "item": "susu kedelai",
+              "amount": "300 ml"
+            },
+            {
+              "item": "tomat merah, buang bijinya",
+              "amount": "1/2 buah"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Potong-potong labu kuning, kukus sampai empuk dan matang. Sisihkan.",
+            "Masak susu kedelai bersama labu kuning dan tomat merah, aduk rata sampai matang dan hancur. Angkat",
+            "Haluskan bubur labu dengan blender. Sajikan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 290.3,
+        "protein_g": 12.8,
+        "lemak_g": 13.6,
+        "karbohidrat_g": 32.3
+      },
+      "allergens": [
+        "kedelai"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-labu-susu-kedelai",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-menado",
+      "title": "Bubur Menado",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "kaldu daging",
+              "amount": "300 ml"
+            },
+            {
+              "item": "beras, kukus setengah matang",
+              "amount": "40 g"
+            },
+            {
+              "item": "tempe kukus, hancurkan",
+              "amount": "40 g"
+            },
+            {
+              "item": "labu kuning, potong kecil-kecil",
+              "amount": "40 g"
+            },
+            {
+              "item": "jagung manis pipil",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "bayam, petik daunnya, iris halus",
+              "amount": "3 batang"
+            },
+            {
+              "item": "daun seledri, iris halus",
+              "amount": "4 lembar"
+            },
+            {
+              "item": "teri medan, sangrai matang, tumbuk halus",
+              "amount": "40 g"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Didihkan kaldu, masukkan nasi aron, tempe, labu kuning, dan jagung manis. Masak sampai semua menjadi bubur.",
+            "Masukkan bayam dan seledri, aduk rata. Masak sampai bayam layu, angkat. Saring dengan saringan kawat. Tabur bubur dengan bubuk ikan teri. Sajikan hangat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 169.3,
+        "protein_g": 12.5,
+        "lemak_g": 3.1,
+        "karbohidrat_g": 23.1
+      },
+      "allergens": [
+        "ikan (teri)",
+        "tempe (kedelai)"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-menado",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-nasi-hijau",
+      "title": "Bubur Nasi Hijau",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "beras, kukus setengah matang",
+              "amount": "40 g"
+            },
+            {
+              "item": "air kaldu",
+              "amount": "300 ml"
+            },
+            {
+              "item": "margarin",
+              "amount": "1/2 sdm"
+            },
+            {
+              "item": "daging ayam giling",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "bawang putih, iris tipis",
+              "amount": "1/2 siung"
+            },
+            {
+              "item": "brokoli, rendam air garam, tiriskan",
+              "amount": "3 kuntum"
+            },
+            {
+              "item": "kacang polong beku, seduh air panas",
+              "amount": "3 sdm"
+            },
+            {
+              "item": "bayam, iris halus daunnya",
+              "amount": "1 tangkai"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Masak beras aron bersama air kaldu sampai merekah. Sisihkan.",
+            "Panaskan margarin, tumis daging ayam giling, dan bawang putih sampai berubah warna. Masukkan brokoli, kacang polong dan bayam. Angkat.",
+            "Campur tumisan ke dalam beras yang masak. Aduk, lanjutkan memasak sampai jadi bubur kental. Angkat"
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 124.4,
+        "protein_g": 4.1,
+        "lemak_g": 3.1,
+        "karbohidrat_g": 19.7
+      },
+      "allergens": [
+        "kacang",
+        "ayam"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-nasi-hijau",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-nasi-kacang-merah",
+      "title": "Bubur Nasi Kacang Merah",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "air kaldu daging",
+              "amount": "175 ml"
+            },
+            {
+              "item": "nasi merah",
+              "amount": "100 g"
+            },
+            {
+              "item": "kacang merah rebus",
+              "amount": "25 g"
+            },
+            {
+              "item": "daun bawang",
+              "amount": "1/2 batang"
+            },
+            {
+              "item": "daging sapi giling",
+              "amount": "50 g"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Rebus air kaldu daging bersama nasi merah, kacang merah, daun bawang, dan daging giling sampai matang. Aduk rata, angkat.",
+            "Haluskan bubur nasi merah dengan blender, sajikan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 363.3,
+        "protein_g": 21.5,
+        "lemak_g": 10.1,
+        "karbohidrat_g": 45.3
+      },
+      "allergens": [
+        "kacang",
+        "daging sapi"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-nasi-kacang-merah",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-nasi-merah",
+      "title": "Bubur Nasi Merah",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "beras merah, kukus setengah matang",
+              "amount": "40 g"
+            },
+            {
+              "item": "air kaldu",
+              "amount": "400 ml"
+            },
+            {
+              "item": "margarin",
+              "amount": "1 sdt"
+            },
+            {
+              "item": "minyak wijen",
+              "amount": "1/3 sdt"
+            },
+            {
+              "item": "bawang putih, cincang haus",
+              "amount": "1/2 siung"
+            },
+            {
+              "item": "tipis jahe, cincang halus",
+              "amount": "1 iris"
+            },
+            {
+              "item": "daging ikan kakap",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "kacang merah, kukus matang",
+              "amount": "2 sdm"
+            },
+            {
+              "item": "wortel, iris kecil",
+              "amount": "20 g"
+            },
+            {
+              "item": "bayam merah, petik daunnya saja, iris halus",
+              "amount": "1 tangkai"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Masak beras merah aron dengan air kaldu sampai merekah. Sisihkan.",
+            "Panaskan margarin dan minyak wijen, tumis bawang putih, jahe, dan ikan sampai matang. Angkat, campurkan tumisan ikan ke dalam bubur. Aduk rata. Masak sampai matang jadi bubur kental. Sajikan hangat."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 147.0,
+        "protein_g": 6.1,
+        "lemak_g": 3.7,
+        "karbohidrat_g": 22.5
+      },
+      "allergens": [
+        "ikan (kakap)",
+        "kacang"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-nasi-merah",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-nasi-merah-ayam",
+      "title": "Bubur Nasi Merah Ayam",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "labu siam, kupas",
+              "amount": "25 g"
+            },
+            {
+              "item": "nasi merah",
+              "amount": "100 g"
+            },
+            {
+              "item": "daging ayam giling",
+              "amount": "25 g"
+            },
+            {
+              "item": "air",
+              "amount": "300 ml"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Cuci labu siam sampai bersih, kukus sampai matang. Angkat.",
+            "Masak nasi merah, daging ayam, air, dan labu siam sampai matang. Angkat, haluskan dengan blender. Sajikan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 292.4,
+        "protein_g": 22.6,
+        "lemak_g": 9.1,
+        "karbohidrat_g": 65.6
+      },
+      "allergens": [
+        "ayam"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber. Catatan tambahan: nilai gizi resep ini tidak sepenuhnya konsisten secara matematis (makro menyiratkan energi lebih tinggi dari yang tercantum) -- kemungkinan pembulatan di sumber asli, bukan kesalahan unit seperti pada data Bumboo. Tetap disimpan apa adanya.",
+      "original_id": "bubur-nasi-merah-ayam",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-nasi-pisang",
+      "title": "Bubur Nasi Pisang",
+      "age_stage": "12-23 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "air",
+              "amount": "200 ml"
+            },
+            {
+              "item": "daging giling",
+              "amount": "1 sdm"
+            },
+            {
+              "item": "nasi",
+              "amount": "50 g"
+            },
+            {
+              "item": "pisang kepok tua/matang, iris kecil-kecil",
+              "amount": "1/2 buah"
+            },
+            {
+              "item": "wortel rebus, iris kecil",
+              "amount": "20 g"
+            },
+            {
+              "item": "bayam, petik daunnya, rebus",
+              "amount": "2 batang"
+            },
+            {
+              "item": "keju parut",
+              "amount": "1 sdt"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Didihkan air, masukkan daging giling. Masak sampai daging matang, angkat.",
+            "Masukkan nasi, pisang kepok, wortel, dan bayam. Aduk rata. Masak sampai bubur matang. Angkat.",
+            "Tabur bubur dengan keju parut. Sajikan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 97.8,
+        "protein_g": 3.6,
+        "lemak_g": 2.0,
+        "karbohidrat_g": 16.7
+      },
+      "allergens": [
+        "susu"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-nasi-pisang",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
+    },
+    {
+      "id": "mpasi-booster-bubur:bubur-nasi-merah-ikan-tuna",
+      "title": "Bubur Nasi Merah Ikan Tuna",
+      "age_stage": "9-11 bulan",
+      "servings": 1,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "item": "fillet ikan tuna",
+              "amount": "75 g"
+            },
+            {
+              "item": "air jeruk nipis",
+              "amount": "2 sdm"
+            },
+            {
+              "item": "nasi merah",
+              "amount": "200 g"
+            },
+            {
+              "item": "air",
+              "amount": "300 ml"
+            },
+            {
+              "item": "buncis, pilih yang muda",
+              "amount": "25 g"
+            }
+          ]
+        }
+      ],
+      "step_groups": [
+        {
+          "section": null,
+          "steps": [
+            "Lumuri ikan tuna dengan air jeruk nipis, diamkan selama 15 menit. Bilas ikan sampai bersih, potong-potong. Sisihkan.",
+            "Masak nasi merah, air dan ikan tuna sampai matang dan hancur. Tambahkan buncis, aduk sampai layu. Angkat.",
+            "Haluskan bubur dengan blender. Saring dan sajikan."
+          ]
+        }
+      ],
+      "nutrition_per_serving": {
+        "energi_kkal": 331.8,
+        "protein_g": 18.9,
+        "lemak_g": 1.0,
+        "karbohidrat_g": 59.2
+      },
+      "allergens": [
+        "ikan (tuna)"
+      ],
+      "source_notes": "age_stage tidak tersedia sama sekali di sumber asli (tidak ada per-resep, bab, atau bagian usia). Atas arahan pengguna, tahap usia disimpulkan dari tekstur akhir masakan: resep yang dihaluskan/disaring -> 9-11 bulan, resep yang tetap bertekstur -> 12-23 bulan. servings juga tidak dinyatakan di sumber; diasumsikan 1 porsi. Alergen disimpulkan dari bahan, bukan dinyatakan eksplisit oleh sumber.",
+      "original_id": "bubur-nasi-merah-ikan-tuna",
+      "source_id": "mpasi-booster-bubur",
+      "page": null,
+      "fruit": null,
+      "energy_contribution_percent": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:bubur-hati-ayam",
@@ -5880,7 +9636,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:bubur-udang-tahu",
@@ -5984,7 +9741,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:bubur-daging-sapi",
@@ -6056,7 +9814,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:bubur-ayam-mentega",
@@ -6140,7 +9899,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:pure-avokad-jeruk",
@@ -6184,7 +9944,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "camilan"
     },
     {
       "id": "mpasi-pptx:pure-pisang-apel",
@@ -6236,7 +9997,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "camilan"
     },
     {
       "id": "mpasi-pptx:kentang-dori-saus-keju",
@@ -6325,7 +10087,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:tim-kuning-semur-hati-ayam",
@@ -6438,7 +10201,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:tim-semur-sapi-tempe",
@@ -6524,7 +10288,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:nasi-tim-ayam-jamur",
@@ -6626,7 +10391,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:tim-mie-ayam",
@@ -6716,7 +10482,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:nasi-goreng-udang",
@@ -6804,7 +10571,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:nasi-gurih-cah-bakso-ikan-brokoli",
@@ -6907,7 +10675,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     },
     {
       "id": "mpasi-pptx:mie-goreng-telur-puyuh",
@@ -7009,7 +10778,8 @@
       "page": null,
       "fruit": null,
       "energy_contribution_percent": null,
-      "source_notes": null
+      "source_notes": null,
+      "meal_type": "utama"
     }
   ]
 }
